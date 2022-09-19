@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Academic Grades.md
       - Admission/P1 Registration.md
       - Admission/School Transfer.md
       - Admission/.keep

@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Executive and Administrative Staff.md
       - Mother Tongue Teachers/Chinese.md
       - Mother Tongue Teachers/Malay Language.md
       - Mother Tongue Teachers/Tamil Language.md

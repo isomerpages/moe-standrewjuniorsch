@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://google.com
+          url: /announcements/overview/
         - title: General Information
           description: ""
           url: /general-information/academic-grades/

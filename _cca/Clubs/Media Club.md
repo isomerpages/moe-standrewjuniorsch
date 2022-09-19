@@ -4,6 +4,8 @@ permalink: /cca/Clubs/media-club/
 description: ""
 third_nav_title: Clubs
 ---
+### Media Club
+
 Saint’s Media Club aims to nurture students’ computational thinking, develop their abilities to ask questions and design solutions to solve problems.  
 
 Students are provided with opportunities to code and present creative solutions through platforms such as micro:bit programming and LEGO-EV3 system.

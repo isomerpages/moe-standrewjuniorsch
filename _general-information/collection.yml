@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Suppliers and Vendors/Bookshop.md
       - Suppliers and Vendors/Bus Operators.md
       - Suppliers and Vendors/Shoes & Uniform Suppliers.md
       - Suppliers and Vendors/St Andrew's House.md

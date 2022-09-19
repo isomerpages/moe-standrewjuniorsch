@@ -2,5 +2,6 @@ collections:
   photo-journals:
     output: true
     order:
+      - 2018 Photo Journals.md
       - 2017 Photo Journals.md
       - 2016 Photo Journals.md

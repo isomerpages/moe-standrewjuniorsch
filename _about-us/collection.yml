@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - School Song and Hymn.md
       - Contact Us.md
       - Getting to SAJS.md

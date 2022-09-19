@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Teaching Staff/.keep
       - Allied Educators.md
       - Executive and Administrative Staff.md
       - Mother Tongue Teachers/Chinese.md

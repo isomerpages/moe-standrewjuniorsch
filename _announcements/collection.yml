@@ -1,5 +1,4 @@
 collections:
   announcements:
     output: true
-    order:
-      - Sexuality Education in SAJS.md
+    order: []

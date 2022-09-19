@@ -1,4 +1,5 @@
 collections:
   photo-journals:
     output: true
-    order: []
+    order:
+      - 2016 Photo Journals.md

@@ -10,31 +10,31 @@ The slides presented during the Meet the Parents session are ready for download,
 #### Principal's Slides  
 
 
-*   [Primary 1](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20P1%20MTP%20Principal%20Slides.pdf)
+*   [Primary 1] Upload PDF file here
 
-*   [Primary 2](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20P2%20MTP%20Principal%20Slides.pdf)
+*   [Primary 2] Upload PDF file here
 
-*   [Primary 3](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20P3%20MTP%20Principal%20Slides.pdf)
+*   [Primary 3] Upload PDF file here
 
-*   [Primary 4](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20P4%20MTP%20Principal%20Slides.pdf)
+*   [Primary 4] Upload PDF file here
 
-*   [Primary 5](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20P5%20MTP%20Principal%20Slides.pdf)
+*   [Primary 5] Upload PDF file here
 
-*   [Primary 6](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20P6%20MTP%20Principal%20Slides.pdf)
+*   [Primary 6] Upload PDF file here
 
 #### English Language  
 
-*   [Primary 1](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20P1%20EL_MTP.pdf)
+*   [Primary 1](/files/eld_p1.pdf)
 
-*   [Primary 2](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20P2%20EL_MTP.pdf)
+*   [Primary 2](/files/eld_p2.pdf)
 
-*   [Primary 3](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20P3%20EL_MTP.pdf)
+*   [Primary 3](/files/eld_p3.pdf)
 
-*   [Primary 4](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20P4%20EL_MTP.pdf)
+*   [Primary 4](/files/eld_p4.pdf)
 
-*   [Primary 5](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20P5%20EL_MTP.pdf)
+*   [Primary 5](/files/eld_p5.pdf)
 
-*   [Primary 6](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20P6%20EL_MTP.pdf)
+*   [Primary 6](/files/eld_p6.pdf)
 
 #### Chinese Language  
 

@@ -100,13 +100,13 @@ The slides presented during the Meet the Parents session are ready for download,
 
 #### Science
 
-*   [Primary 3](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P1%20ML.pdf)
+*   [Primary 3](/files/sci_p3.pdf)
 
-*   [Primary 4](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P2%20ML.pdf)
+*   [Primary 4](/files/sci_p4.pdf)
 
-*   [Primary 5](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P3%20ML.pdf)
+*   [Primary 5](/files/sci_p5.pdf)
 
-*   [Primary 6](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P4%20ML.pdf)
+*   [Primary 6](/files/sci_p6.pdf)
 
 
 Warmest Regards,

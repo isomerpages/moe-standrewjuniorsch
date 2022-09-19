@@ -2,4 +2,5 @@ collections:
   department:
     output: true
     order:
+      - Mother Tongue.md
       - PE, Art, Music.md

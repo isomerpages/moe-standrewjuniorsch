@@ -2,6 +2,7 @@ collections:
   letters-and-updates:
     output: true
     order:
+      - Parent's Portal/eMC Submission.md
       - Parent's Portal/.keep
       - Meet the Parents Slides 2022.md
       - Meet the Parents Slides 2021.md

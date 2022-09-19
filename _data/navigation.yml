@@ -34,3 +34,23 @@ links:
         url: /letters-and-updates/meet-the-parents-slides-2021/
       - title: 2022 Semester Assessment 2
         url: /letters-and-updates/2022-semester-assessment-2/
+  - title: Department
+    url: /department/overview/
+    sublinks:
+      - title: Department
+        url: /department/department/overview/
+      - title: Committee
+        url: /committee/overview/
+  - title: CCA
+    url: /cca/overview/
+    sublinks:
+      - title: Overview
+        url: /cca/overview/
+      - title: Clubs
+        url: /cca/clubs/chess-club/
+      - title: Performing Arts
+        url: /cca/performing-arts/band/
+      - title: Sports and Games
+        url: /cca/sports-and-games/badminton/
+      - title: Uniformed Groups
+        url: /cca/uniformed-groups/boys-brigade/

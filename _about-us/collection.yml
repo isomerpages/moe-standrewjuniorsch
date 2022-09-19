@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Staff/.keep
       - History.md
       - Badge and Motto.md
       - School Song and Hymn.md

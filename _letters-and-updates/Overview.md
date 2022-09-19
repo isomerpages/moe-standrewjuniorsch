@@ -23,10 +23,9 @@ description: ""
 
 #### New Parent Resources in Parents Gateway
 
-[Click here to download.](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/2022/Letters%20and%20Updates%20-%20Parents%20Gateway%20New%20Resources%20in%20Service%20Tab.png)
+[Click here to download.](https://staging.dnfzur975cvj1.amplifyapp.com/images/parent_resource.png)
 
 #### Principal's Letter - January 2022
 
 [Click here to download.](/files/PL_jan.pdf)
 
-![reeee](/images/parent_resource.png)

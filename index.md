@@ -14,5 +14,5 @@ sections:
           url: https://google.com
         - title: General Information
           description: ""
-          url: https://gmail.com
+          url: /general-information/academic-grades/
 ---

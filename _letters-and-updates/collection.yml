@@ -1,4 +1,5 @@
 collections:
   letters-and-updates:
     output: true
-    order: []
+    order:
+      - 2022 Semester Assessment 2.md

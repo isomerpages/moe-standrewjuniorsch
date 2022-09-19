@@ -50,5 +50,5 @@ Parents can also help by ensuring their sons properly files their worksheets and
 #### Contact Us
 
 Mr Kevin Ng ( HOD / Science & Environment )
-<br> ng\_min\_keong\_kevin@moe.edu.sg
+<br> ng_min_keong_kevin@moe.edu.sg
 <br> 6288 4303

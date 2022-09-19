@@ -2,5 +2,6 @@ collections:
   staff:
     output: true
     order:
+      - Mother Tongue Teachers/Malay Language.md
       - Mother Tongue Teachers/Tamil Language.md
       - Mother Tongue Teachers/.keep

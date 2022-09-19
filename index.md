@@ -4,23 +4,19 @@ title: St Andrew's Junior School
 description: Brief site description here
 image: /images/sajlogo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/saj.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Announcements
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: General Information
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Photo Journal
+          description: ""
           url: /privacy/
   - infobar:
       title: Infobar title
@@ -29,5 +25,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-

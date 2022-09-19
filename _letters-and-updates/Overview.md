@@ -7,19 +7,19 @@ description: ""
 
 #### Principal's Letter - July 2022
 
-[Click here to download.](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/2022/Principals%20Letter%20-%20July%202022.pdf)
+[Click here to download.](/files/PL_july.pdf)
 
 #### Principal's Letter - April 2022
 
-[Click here to download.](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/2022/Principals%20Letter%20-%20April%202022.pdf)
+[Click here to download.](/files/PL_april.pdf)
 
 #### Principal's Letter - March 2022
 
-[Click here to download.](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/2022/Principals%20Letter%20-%20March%202022.pdf)
+[Click here to download.](/files/PL_march.pdf)
 
 #### Principal's Letter - February 2022
 
-[Click here to download.](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/2022/Principals%20Letter%20-%20February%202022.pdf)
+[Click here to download.](/files/PL_feb.pdf)
 
 #### New Parent Resources in Parents Gateway
 
@@ -27,4 +27,6 @@ description: ""
 
 #### Principal's Letter - January 2022
 
-[Click here to download.](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/2022/Principals%20Letter%20-%20January%202022.pdf)
+[Click here to download.](/files/PL_jan.pdf)
+
+![reeee](/images/parent_resource.png)

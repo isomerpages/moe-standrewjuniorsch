@@ -82,21 +82,21 @@ The slides presented during the Meet the Parents session are ready for download,
 
 #### Mathematics
 
-*   [Primary 1](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P1%20ML.pdf)
+*   [Primary 1](/files/math_p1.pdf)
 
-*   [Primary 2](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P2%20ML.pdf)
+*   [Primary 2](/files/math_p2.pdf)
 
-*   [Primary 3](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P3%20ML.pdf)
+*   [Primary 3](/files/math_p3.pdf)
 
-*   [Primary 4](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P4%20ML.pdf)
+*   [Primary 4](/files/math_p4.pdf)
 
-*   [Primary 5](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P5%20ML.pdf)
+*   [Primary 5](/files/math_p5.pdf)
 
-*   [Primary 5 Foundation](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P5%20ML.pdf)
+*   [Primary 5 Foundation](/files/math_p5f.pdf)
 
-*   [Primary 6](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P6%20ML.pdf)
+*   [Primary 6](/files/math_p6.pdf)
 
-*   [Primary 6 Foundation](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P5%20ML.pdf)
+*   [Primary 6 Foundation](/files/math_p6f.pdf)
 
 #### Science
 

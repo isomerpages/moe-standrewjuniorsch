@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/Boy's Brigade.md
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/.keep

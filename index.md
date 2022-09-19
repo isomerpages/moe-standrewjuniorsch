@@ -15,7 +15,4 @@ sections:
         - title: General Information
           description: ""
           url: https://gmail.com
-        - title: Photo Journal
-          description: ""
-          url: /privacy/
 ---

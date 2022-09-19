@@ -24,5 +24,5 @@ We hope you enjoy looking through our past achievements and our snapshots of som
 
 *   Mr Adrian Chia (adrian\_chia\_junyong@moe.edu.sg)  
     
-*   Mr Fu Si (fu\_si@moe.edu.sg)
-*   Mr Adam Harisan Wilkinson (adam\_harisan\_wilkinson@moe.edu.sg)
+*   Mr Fu Si (fu_si@moe.edu.sg)
+*   Mr Adam Harisan Wilkinson (adam_harisan_wilkinson@moe.edu.sg)

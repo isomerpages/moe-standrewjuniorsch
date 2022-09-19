@@ -38,19 +38,19 @@ The slides presented during the Meet the Parents session are ready for download,
 
 #### Chinese Language  
 
-*   [Primary 1](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P1%20CL.pdf)
+*   [Primary 1](/files/cld_p1.pdf)
 
-*   [Primary 2](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P2%20CL.pdf)
+*   [Primary 2](/files/cld_p2.pdf)
 
-*   [Primary 3](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P3%20CL.pdf)
+*   [Primary 3](/files/cld_p3.pdf)
 
-*   [Primary 4](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P4%20CL.pdf)
+*   [Primary 4](/files/cld_p4.pdf)
 
-*   [Primary 5](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P5%20CL.pdf)
+*   [Primary 5](/files/cld_p5.pdf)
 
-*   [Primary 6](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P6%20CL.pdf)
+*   [Primary 6](/files/cld_p6.pdf)
 
-*   [Primary 6 Higher](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/LettersAndUpdates/MTP%202022/2022%20MTP%20P6%20HCL.pdf)
+*   [Primary 6 Higher](/files/cld_p6h.pdf)
 
 #### Malay Language
 

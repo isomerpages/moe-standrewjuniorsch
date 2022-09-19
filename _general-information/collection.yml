@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Suppliers and Vendors/St Andrew's House.md
       - Suppliers and Vendors/Dental Clinic.md
       - Suppliers and Vendors/School Library.md
       - Suppliers and Vendors/ICT Service Centre.md

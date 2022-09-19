@@ -31,3 +31,11 @@ Besides these competitions, there are other events such as BB Cares where boys a
 #### Boys' Brigade Website
 
 [Boys' Brigade Website](https://sites.google.com/a/saintandrewsjunior.moe.edu.sg/sajs-7j-boys-brigade/home)
+
+#### Teachers-in-charge
+
+*   Mrs Germaine Yap (yap_limin_germaine@moe.edu.sg)  
+    
+*   Mr Sitt Wei Kian (sitt_wei_kian@moe.edu.sg)  
+    
+*   Mr Lee Kai Chuen Bruce (lee_kai_chuen_bruce@moe.edu.sg)

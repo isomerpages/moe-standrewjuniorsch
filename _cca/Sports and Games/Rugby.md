@@ -22,7 +22,7 @@ We hope you enjoy looking through our past achievements and our snapshots of som
 
 #### Teachers-in-charge
 
-*   Mr Adrian Chia (adrian\_chia\_junyong@moe.edu.sg)  
+*   Mr Adrian Chia (adrian_chia_junyong@moe.edu.sg)  
     
 *   Mr Fu Si (fu_si@moe.edu.sg)
 *   Mr Adam Harisan Wilkinson (adam_harisan_wilkinson@moe.edu.sg)

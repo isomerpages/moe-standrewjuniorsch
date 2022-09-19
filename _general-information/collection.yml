@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Attire, Grooming & Behaviour Guidelines.md
       - Booklist.md
       - NAPFA Standards.md
       - Partners.md

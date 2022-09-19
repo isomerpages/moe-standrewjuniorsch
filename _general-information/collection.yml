@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - SAPTA/Saints Mums Club.md
       - SAPTA/.keep
       - School Hours, Terms & Holidays.md
       - Suppliers and Vendors/Overview.md

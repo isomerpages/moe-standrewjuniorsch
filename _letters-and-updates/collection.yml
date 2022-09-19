@@ -1,0 +1,4 @@
+collections:
+  letters-and-updates:
+    output: true
+    order: []

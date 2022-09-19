@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Admission/School Transfer.md
       - Admission/.keep
       - Application for Leave of Absence.md
       - Attire, Grooming & Behaviour Guidelines.md

@@ -1,8 +1,36 @@
 logo: /images/sajlogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Mission, Vision & Values
+        url: /about-us/mission-vision-values/
+      - title: Philosophy
+        url: /about-us/philosophy/
+      - title: Staff
+        url: /about-us/staff/management-team/
+      - title: History
+        url: /about-us/history/
+      - title: Badge & Motto
+        url: /about-us/badge-and-motto/
+      - title: School Song & Hymn
+        url: /about-us/school-song-and-hymn/
+      - title: Contact Us
+        url: /about-us/contact-us/
+      - title: Getting to SAJS
+        url: /about-us/getting-to-sajs/
+  - title: Letter and Updates
+    url: /letters-and-updates/overview/
+    sublinks:
+      - title: Overview
+        url: /letters-and-updates/overview/
+      - title: Parent's Portal
+        url: /letters-and-updates/parents-portal/overview/
+      - title: Meet the Parents Slides 2022
+        url: /letters-and-updates/meet-the-parents-slides-2022/
+      - title: Meet the Parents Slides 2021
+        url: /letters-and-updates/meet-the-parents-slides-2021/
+      - title: 2022 Semester Assessment 2
+        url: /letters-and-updates/2022-semester-assessment-2/

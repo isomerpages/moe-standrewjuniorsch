@@ -3,7 +3,8 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-  
+### Principal's Message
+
 The Bible teaches us that each tree is recognized by its own fruit.  A good man brings good things out of the good stored up in his heart. For the mouth speaks what the heart is full of. (Luke 6:44-45) Aristotle once said, “Educating the mind without educating the heart is no education at all.”
 
 Like our school song, St Andrew’s Junior School (SAJS) aspires to wake the heart of every boy who passes through our hands, to grow them to be servant leaders who will make lives and undertake mighty endeavours for the good of others. In SAJS, our boys will learn that education is not for one’s ambitious academic pursuit or for the benefit of oneself but to be equipped with the greater knowledge, skills and values to better serve and help others. Therefore, **Exemplary Character** forms the foundation of the SAJS educational model and we seek to develop our boys to be of exemplary character who demonstrates the St Andrew’s Village’s **TRUE** (**T**hanksgiving, **R**esilience, **U**nity, **E**mpathy) and **WISE** (**W**onder, **I**ntegrity, **S**elf-discipline, **E**xcellence) values at all times.

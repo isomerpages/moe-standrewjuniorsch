@@ -2,6 +2,7 @@ collections:
   committee:
     output: true
     order:
+      - Character Education/Overview.md
       - Character Education/Sexuality Education.md
       - Character Education/.keep
       - Student Management.md

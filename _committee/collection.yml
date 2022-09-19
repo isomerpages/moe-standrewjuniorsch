@@ -1,4 +1,5 @@
 collections:
   committee:
     output: true
-    order: []
+    order:
+      - Educational Technology/.keep

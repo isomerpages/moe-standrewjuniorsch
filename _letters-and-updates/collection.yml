@@ -2,5 +2,6 @@ collections:
   letters-and-updates:
     output: true
     order:
+      - Meet the Parents Slides 2022.md
       - Meet the Parents Slides 2021.md
       - 2022 Semester Assessment 2.md

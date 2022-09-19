@@ -135,4 +135,4 @@ Mrs Tan Siew Mei ( HOD / English )
 
 #### Related
 
-[Library Committee](https://www.saintandrewsjunior.moe.edu.sg/department/committee/library)
+[Library Committee](https://staging.dnfzur975cvj1.amplifyapp.com/committee/Library/)

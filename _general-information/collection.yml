@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - NAPFA Standards.md
       - Partners.md
       - SAPTA/Overview.md
       - SAPTA/SAPTA Cares.md

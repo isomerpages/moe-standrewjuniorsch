@@ -38,7 +38,7 @@ links:
     url: /department/overview/
     sublinks:
       - title: Department
-        url: /department/department/overview/
+        url: /department/overview/
       - title: Committee
         url: /committee/overview/
   - title: CCA

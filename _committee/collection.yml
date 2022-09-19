@@ -2,7 +2,6 @@ collections:
   committee:
     output: true
     order:
-      - Character & Citizenship Education.md
       - Student Management.md
       - Library.md
       - Educational Technology/Overview.md

@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Overview.md
       - Clubs/Chess Club.md
       - Clubs/Eco Club.md
       - Clubs/Media Club.md

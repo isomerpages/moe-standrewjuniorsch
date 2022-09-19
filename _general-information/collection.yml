@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - SAPTA/.keep
       - School Hours, Terms & Holidays.md
       - Suppliers and Vendors/Overview.md
       - Suppliers and Vendors/Bookshop.md

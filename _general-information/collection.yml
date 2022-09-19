@@ -1,4 +1,5 @@
 collections:
   general-information:
     output: true
-    order: []
+    order:
+      - Frequently Asked Questions.md

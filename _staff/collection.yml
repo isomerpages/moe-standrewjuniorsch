@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Teaching Staff/Primary 6.md
       - Teaching Staff/.keep
       - Allied Educators.md
       - Executive and Administrative Staff.md

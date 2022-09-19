@@ -4,6 +4,8 @@ permalink: /cca/clubs/chess-club/
 description: ""
 third_nav_title: Clubs
 ---
+### Chess Club
+
 #### Vision
 
 To nurture Holistic Thinkers and Skilled Communicators through Chess-playing.

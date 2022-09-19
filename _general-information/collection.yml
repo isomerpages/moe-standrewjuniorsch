@@ -2,5 +2,6 @@ collections:
   general-information:
     output: true
     order:
+      - Getting Started with Student Learning Space.md
       - Useful Links.md
       - Frequently Asked Questions.md

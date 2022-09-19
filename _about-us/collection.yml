@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Mission, Vision and Values.md
       - Philosophy.md
       - History.md
       - Badge and Motto.md

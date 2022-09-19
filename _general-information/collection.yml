@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Supporting Singaporean Students.md
       - Student Insurance.md
       - Getting Started with Student Learning Space.md
       - Useful Links.md

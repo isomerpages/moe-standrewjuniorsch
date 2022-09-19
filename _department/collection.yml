@@ -1,4 +1,5 @@
 collections:
   department:
     output: true
-    order: []
+    order:
+      - PE, Art, Music.md

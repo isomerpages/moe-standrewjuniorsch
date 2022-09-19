@@ -2,4 +2,5 @@ collections:
   committee:
     output: true
     order:
+      - Educational Technology/Cyber Wellness Topics.md
       - Educational Technology/.keep

@@ -1,0 +1,4 @@
+collections:
+  committee:
+    output: true
+    order: []

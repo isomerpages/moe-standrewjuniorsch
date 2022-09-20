@@ -3,12 +3,10 @@ title: 2016 Photo Journals
 permalink: /photo-journals/2016/
 description: ""
 ---
-
-
 |  	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-| # 	| Saints' Awards Ceremony (Individual Photos)<br><br>18 Nov 2016 	|  	| # 	| PSLE Results Release<br><br>24 Nov 2016 	|
-| # 	| Ground Breaking Ceremony<br><br>17 Nov 2016 	|   	| # 	| Saints' Awards Ceremony<br><br>18 Nov 2016 	|
+| <a href="web"><img style="width:85%" src="/images/pj1.png"></a> 	| Saints' Awards Ceremony (Individual Photos)<br><br>18 Nov 2016 	|  	| <a href="web"><img style="width:85%" src="/images/pj2.png"></a> 	| PSLE Results Release<br><br>24 Nov 2016 	|
+| <a href="web"><img style="width:85%" src="/images/pj3.png"></a> 	| Ground Breaking Ceremony<br><br>17 Nov 2016 	|   	| <a href="web"><img style="width:85%" src="/images/pj4.png"></a> 	| Saints' Awards Ceremony<br><br>18 Nov 2016 	|
 | # 	| P6 Graduation Tea Party<br><br>15 Nov 2016 	|  	| # 	| Mrs. Wong's Farewell<br><br>17 Nov 2016 	|
 | # 	| 2017 P1 Orientation Day<br><br>11 Nov 2016 	|  	| # 	| Partnership Appreciation Day<br><br>15 Nov 2016 	|
 | # 	| P6 Entrepreneurship Presentation<br><br>04 Nov 2016 	|  	| # 	| Entrepreneurship Day<br><br>10 Nov 2016 	|

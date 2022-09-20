@@ -10,4 +10,10 @@ SAPTA Cares, launched in 2013 is a fund dedicated to support our most needy FAS 
 
   
 
-One of the main beneficiaries of the fund is St Andrew's Junior School's Extend-A-Care Program. The Extend-A-Care (EAC) Program extends a hand to boys who are in need of after school care due to their family circumstances
+One of the main beneficiaries of the fund is St Andrew's Junior School's Extend-A-Care Program. The Extend-A-Care (EAC) Program extends a hand to boys who are in need of after school care due to their family circumstances.
+
+#### Quick Links
+
+|  	|  	|
+|---	|---	|
+| <a href="https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/SAPTA/SAPTA%20Facebook.png"><img style="width:25%" src="/images/fb1.png"></a> 	| <a href="https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/SAPTA/SAPTA%20Mailto.png"><img style="width:25%" src="/images/mail.png"></a> 	|

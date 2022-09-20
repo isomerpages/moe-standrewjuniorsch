@@ -6,8 +6,6 @@ third_nav_title: SAPTA
 ---
 <img src="/images/sapta.png" style="width:80%">
 
-### 
-
 The St. Andrew’s Parent-Teacher Association (SAPTA) was founded several decades ago with well-meaning parents coming together to support the school by getting involved with its activities. The association was officially registered in 1970 as a voluntary organisation that works to support the well-being of parents, teachers and students.  
 
 The SAPTA logo integrates the letter “A” with three triangles at the end of the masthead representing PARENTS, TEACHERS and STUDENTS, our main focus. In supporting the school, SAPTA members come together to provide for the needs of all our parents, teachers and boys. Areas where we focus our efforts are:
@@ -56,4 +54,3 @@ We endeavour to support the school, through our awareness campaigns, newslet
 |  	|  	|
 |---	|---	|
 | <a href="https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/SAPTA/SAPTA%20Facebook.png"><img style="width:25%" src="/images/fb1.png"></a> 	| <a href="https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/SAPTA/SAPTA%20Mailto.png"><img style="width:25%" src="/images/mail.png"></a> 	|
-

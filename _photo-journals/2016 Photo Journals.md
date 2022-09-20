@@ -3,6 +3,8 @@ title: 2016 Photo Journals
 permalink: /photo-journals/2016/
 description: ""
 ---
+
+
 |  	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
 | # 	| Saints' Awards Ceremony (Individual Photos)<br><br>18 Nov 2016 	|  	| # 	| PSLE Results Release<br><br>24 Nov 2016 	|

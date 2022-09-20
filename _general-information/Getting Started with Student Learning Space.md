@@ -22,11 +22,8 @@ description: ""
 
   
 
-![SLS Fig 1a.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%201a.jpg)  
+<figure><img src="/images/sls1.png" style="width:60%"><figcaption> Fig. 1a: Login Page</figcaption></figure>
 
-**Fig. 1a: Login Page**  
-
-  
 
 3. During the **FIRST** login, you will be prompted to change your password (refer to Fig. 1b). You will need to key in your new password twice. Please note that the password must contain alphanumeric characters and is case-sensitive. It should: 
 
@@ -37,19 +34,15 @@ b. contain **at least 1 letter and 1 number**; and
 c. be **changed every 90 days** (you will be directed to the change password page automatically)
 
   
-![SLS Fig 1b.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%201b.jpg)
+<figure><img src="/images/sls2.png" style="width:60%"><figcaption> Fig. 1b: “Change Password” Page</figcaption></figure>
 
-**Fig. 1b: “Change Password” Page**
 
 4. After you have changed your password, you will be prompted with an option to enter your email address in the “**Password Reset Email Address**” field (refer to Fig. 1c). A verification email will be sent to this email address.
 
   
 
-![SLS Fig 1c.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%201c.jpg)  
+<figure><img src="/images/sls3.png" style="width:60%"><figcaption> Fig. 1c: “Password Reset Email Address” Page</figcaption></figure>
 
-**Fig. 1c: “Password Reset Email Address” Page**  
-
-  
 
 5.         The next step would be to set up the Security Questions. You will need to answer these Questions to verify that you are the legitimate account holder, when you need to perform a password reset via self-help or by calling Helpdesk.  
   
@@ -65,35 +58,28 @@ Password Reset using Password Reset Link
 7.         Perform the following steps to reset password using **Password Reset Link Method**:  
   
 a)    Click the “**Forgot Password**” link at the login page (refer to Fig. 2a).  
-![SLS Fig 2a.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%202a.jpg)
+<figure><img src="/images/sls4.png" style="width:60%"><figcaption> Fig. 2a: “Forgot Password” Link</figcaption></figure>
 
-**Fig. 2a: “Forgot Password” Link**
 
 b)    You will need to enter your username (refer to Fig. 2b).
 
-![SLS Fig 2b.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%202b.jpg)
+<figure><img src="/images/sls5.png" style="width:60%"><figcaption> Fig. 2b: “Enter Your Username” Field</figcaption></figure>
 
-**Fig. 2b: “Enter Your Username” Field**
 
  c)    Select “**Send a password reset link to your email**” and click Submit (refer to Fig. 2c).
 
-![SLS Fig 2c.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%202c.jpg)  
+<figure><img src="/images/sls6.png" style="width:60%"><figcaption> Fig. 2c: “Password Reset Link via Email” Method</figcaption></figure>
 
-**Fig. 2c: “Password Reset Link via Email” Method**
 
 d)    An email with the password reset link will be sent to your email address (refer to Fig. 2d). Click the reset password link in the email to bring you to the **Reset Password** Page. The link is valid for 10 minutes.  
 
-![SLS Fig 2d.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%202d.jpg)
+<figure><img src="/images/sls7.png" style="width:60%"><figcaption> Fig. 2d: “Reset Password” Link</figcaption></figure>
 
-  
 
-**Fig. 2d: “Reset Password” Link**
 
 e)    In the **Reset Password** page, enter a new password (refer to Fig. 2e). You will need to enter the new password twice to confirm that you have entered it correctly. Then click **Submit**.  
   
-![SLS Fig 2e.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%202e.jpg)  
-
-**Fig. 2e: “Reset Password” Page**
+<figure><img src="/images/sls8.png" style="width:60%"><figcaption> Fig. 2e: “Reset Password” Page</figcaption></figure>
 
   
 f)    If your password was successfully reset, you will be brought to the SLS login page.
@@ -107,44 +93,27 @@ Password Reset Using Security Questions
 
 a)    Click the “Forgot Password” button at the login page (refer to Fig. 3a).
 
-  
-
-![SLS Fig 3a.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%203a.jpg)**Fig. 3a: “Forgot Password” Link**
-
-  
+<figure><img src="/images/sls9.png" style="width:60%"><figcaption> Fig. 3a: “Forgot Password” Link</figcaption></figure>
 
  b)    You will need to enter your username (refer to Fig. 3b).  
   
-![SLS Fig 3b.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%203b.jpg)  
-
-**Fig. 3b: “Enter Your Username” Field**
-
-  
+<figure><img src="/images/sls10.png" style="width:60%"><figcaption> Fig. 3b: “Enter Your Username” Field</figcaption></figure>
 
 c)    Select “**Answer the Security Questions**” and click Submit (refer to Fig. 3c).  
   
-![SLS Fig 3c.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%203c.jpg)  
+<figure><img src="/images/sls11.png" style="width:60%"><figcaption> Fig. 3c: “Password Reset Link via Security Questions” Method</figcaption></figure>
 
-**Fig. 3c: “Password Reset Link via Security Questions” Method**
 
  d)    In the “**Security Questions**” page, key in the answers to the security questions (refer to Fig. 3d). Click **Submit**.
 
-![SLS Fig 3d.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%203d.jpg)
-
-  
-
-**Fig. 3d: “Security Questions” Page**
+<figure><img src="/images/sls12.png" style="width:60%"><figcaption> Fig. 3d: “Security Questions” Page</figcaption></figure>
 
   
  e)    If you have answered the security questions correctly, you will be brought to the **Reset Password** page (refer to Fig. 3e). You will need to enter the new password twice to confirm that you have entered it correctly. Then click **Submit**.  
 
   
+<figure><img src="/images/sls13.png" style="width:60%"><figcaption> Fig. 3e: “Reset Password” Page</figcaption></figure>
 
-![SLS Fig 3e.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%203e.jpg)  
-
-  
-
-**Fig. 3e: “Reset Password” Page**  
 
   
 f) If your password was successfully reset, you will be brought to the SLS login page.
@@ -153,12 +122,7 @@ f) If your password was successfully reset, you will be brought to the SLS login
 
 g) If you have answered the questions incorrectly, you will be brought to the **Password Reset Unsuccessful** page (refer to Fig. 3f). Click on the **Retry** button to try again. You can attempt up to 6 times before your account is locked for security reasons.
 
-  
-
-![SLS Fig 3f.jpg](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/images/General%20-%20Student%20Learning%20Space/SLS%20Fig%203f.jpg)
-
-**Fig. 3f: “Password Reset Unsuccessful” Page**  
-
+<figure><img src="/images/sls14.png" style="width:60%"><figcaption> Fig. 3f: “Password Reset Unsuccessful” Page</figcaption></figure>
   
 
 #### CALL THE SLS HELPDESK

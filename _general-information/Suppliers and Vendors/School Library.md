@@ -4,7 +4,9 @@ permalink: /general-information/Suppliers-and-Vendors/school-library/
 description: ""
 third_nav_title: Suppliers and Vendors
 ---
-### Opening Hours
+### School Library
+
+#### Opening Hours
 
 | Days 	| During Term 	| During School Holidays 	|
 |---	|---	|---	|

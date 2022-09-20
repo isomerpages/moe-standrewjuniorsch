@@ -5,13 +5,11 @@ description: ""
 ---
 ### Useful Links
 
-[ul5](/files/SPYDUS-OPAC.pdf)
-
 |  	|  	|
 |---	|---	|
 | <a href="https://workspace.google.com/dashboard"><img style="width:70%" src="/images/ul1.png"></a> 	| <a href="http://learning.moe.edu.sg/"><img style="width:70%" src="/images/ul2.png"></a> 	|
 | <a href="https://www.ezhishi.net/Contents/index.html"><img style="width:70%" src="/images/ul3.png"></a> 	|  <a href="https://schoolibrary.moe.edu.sg/standrewsjunior/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><img style="width:70%" src="/images/ul4.png"></a>	|
-| <a href="web pdf"><img style="width:70%" src="/images/ul5.png"></a> 	| <a href="http://www.nlb.gov.sg/discovereads/"><img style="width:70%" src="/images/ul6.png"></a> 	|
+| <a href="https://staging.dnfzur975cvj1.amplifyapp.com/files/SPYDUS-OPAC.pdf"><img style="width:70%" src="/images/ul5.png"></a> 	| <a href="http://www.nlb.gov.sg/discovereads/"><img style="width:70%" src="/images/ul6.png"></a> 	|
 | <a href="http://game.iflashbook.com/"><img style="width:70%" src="/images/ul7.png"></a> 	|  	|
 
 #### Links for Teachers & Staff

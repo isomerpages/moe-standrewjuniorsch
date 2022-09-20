@@ -3,6 +3,10 @@ title: 2022 Photo Journals
 permalink: /photo-journals/2022/
 description: ""
 ---
+### 2022 Photo Journals
+
+Click on the picture for the album.
+
 ##### Scouts Cooking Activity (19 August 2022)
 
 <p><a href="https://photos.app.goo.gl/74YVz8QuEcKJxzSw7"><img style="width:25%" src="/images/pj600.png"></a></p>

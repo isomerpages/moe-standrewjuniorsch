@@ -4,7 +4,8 @@ permalink: /general-information/Suppliers-and-Vendors/dental-clinic/
 description: ""
 third_nav_title: Suppliers and Vendors
 ---
-### Health Promotion Board
+### Dental Clinic
+#### Health Promotion Board
 
 Ms Irene & Ms Vaish
 <br>8909 7867 (Whatsapp only)

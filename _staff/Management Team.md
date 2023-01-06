@@ -19,9 +19,9 @@ description: ""
 |	| HOD / Student Management<br><br>Mrs Andreatte Loh<br>lucy_andreatte_yip@moe.edu.sg 	|   	| 	| Subject Head / Student Management<br><br>Mr Anthony Luke Fernandez<br>anthony_luke_fernandez@moe.edu.sg 	|
 | 	| HOD / Special Educational Needs (Covering)<br><br>Mrs Joanne Yak<br>joanne_yak@moe.edu.sg 	|   	|   	|   	|
 | 	| P1 / P2 Year Head<br><br>Mrs Irene Lim - Koh Hui Ling<br>koh_hui_ling_a@moe.edu.sg 	|   	| 	| Assistant Year Head (P1 / P2)<br><br>Mdm Sandy Low<br>sandy_low_gait_hong@moe.edu.sg 	|
-| <img src="/images/mt21.png" style="width:180%"> 	| P3 / P4 Year Head<br>Mr Yeo Peng Seng<br>yeo_peng_seng@moe.edu.sg 	|   	| <img src="/images/mt22.png" style="width:180%"> 	| Assistant Year Head (P3 / P4) (Covering)<br>Mdm Chen Qianhuichen_qianhui@moe.edu.sg 	|
-| <img src="/images/mt23.png" style="width:180%"> 	| P5 / P6 Year Head<br>Ms Jacqueline Ng<br>ng_jacqueline@moe.edu.sg 	|   	|<img src="/images/mt24.png" style="width:180%">	| Assistant Year Head (P5 / P6)<br>Mrs Kieu-Tan Chu Hua Doreen<br>tan_chu_hua@moe.edu.sg 	|
-| <img src="/images/mt25.png" style="width:180%"> 	| School Staff Developer<br>Mrs Tay-Tan Lee Lian<br>tan_lee_lian@moe.edu.sg 	|   	| <img src="/images/mt26.png" style="width:180%"> 	| Senior School Counselor<br>Mr Dennis Tan Lai Hoe<br>dennis_tan_lai_hoe@moe.edu.sg 	|
+| 	| P3 / P4 Year Head<br><br>Mr Yeo Peng Seng<br>yeo_peng_seng@moe.edu.sg 	|   	|  	| |
+| 	| P5 / P6 Year Head<br><br>Ms Jacqueline Ng<br>ng_jacqueline@moe.edu.sg 	|   	|	| Assistant Year Head (P5 / P6)<br><br>Mrs Kieu-Tan Chu Hua Doreen<br>tan_chu_hua@moe.edu.sg 	|
+| | School Staff Developer<br><br>Mrs Tay-Tan Lee Lian<br>tan_lee_lian@moe.edu.sg 	|   	| 	| Senior School Counselor<br><br>Mr Dennis Tan Lai Hoe<br>dennis_tan_lai_hoe@moe.edu.sg 	|
 | <img src="/images/mt27.png" style="width:180%"> 	| Senior Teacher / Educational Support<br><br>Mrs Catherine Yew<br>hwong_choi_foong_catherine@moe.edu.sg 	|   	| <img src="/images/mt28.png" style="width:180%"> 	| Senior Teacher / Art<br><br><br>Mdm Nora Bte Izahar<br>nora_izahar@moe.edu.sg 	|
 | <img src="/images/mt29.png" style="width:180%"> 	| Senior Teacher / English<br><br><br>Mrs Susan Thomas<br>susan_zachariah@moe.edu.sg 	|   	|  	|  	|
 | <img src="/images/mt30.png" style="width:180%"> 	| Administration Manager (ICT)<br><br><br>Mr Lim Jin Yong<br>lim_jin_yong@schools.gov.sg 	|   	|  	|  	|

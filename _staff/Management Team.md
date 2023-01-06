@@ -7,7 +7,7 @@ description: ""
 
 |  	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-| <img src="/images/mt1.png" style="width:180%"> 	| Principal<br>Ms Patsy Neo<br>patsy_neo@schools.gov.sg 	|  	|  	|  	|
+| 	| Principal<br>Ms Patsy Neo<br>patsy_neo@schools.gov.sg 	|  	|  	|  	|
 | <img src="/images/mt2.png" style="width:180%"> 	| Vice-Principal<br>Mr Thomas Tham<br>tham_kine_chuen@schools.gov.sg 	|   	| <img src="/images/mt3.png" style="width:180%"> 	| Vice-Principal (Administration)<br><br>Mr Boey Weng Yue<br>boey_weng_yue@schools.gov.sg 	|
 |<img src="/images/mt4.png" style="width:180%"> 	| HOD /EnglishMrs Tan Siew Mei<br>tan_siew_mei@moe.edu.sg 	|   	|  	|  	|
 | <img src="/images/mt5.png" style="width:180%"> 	| HOD / Mathematics<br>Mrs Pauline Poon<br>quek_pauline@moe.edu.sg 	|   	| <img src="/images/mt6.png" style="width:180%"> 	| Level Head / Mathematics<br>Mdm Liu Huanjia Tracy<br>liu_huanjia_tracy@moe.edu.sg 	|

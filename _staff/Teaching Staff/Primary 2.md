@@ -8,11 +8,11 @@ third_nav_title: Teaching Staff
 
 |  	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-|	| P2 Thanksgiving<br>(Form Teacher)<br><br>Ms Revathi D/O Selvaraja<br>revathi_selvaraja@moe.edu.sg 	|   	| | P2 Thanksgiving <br>(Form Teacher)<br><br>Mdm Chng Hui Peng<br>chng_hui_peng_a@moe.edu.sg 	|
-|	| P2 Resilience<br>(Form Teacher)<br><br>Mdm Lin Yan Qing<br>lin_yan_qing@moe.edu.sg 	|   	| 	| P2 Resilience<br>(Form Teacher)<br><br>Mrs Long-Lum Hui Lin<br>lum_hui_lin@moe.edu.sg 	|
-|	| P2 Unity<br>(Form Teacher)<br><br>Mrs Joanne Yak<br>joanne_yak@moe.edu.sg 	|   	| | P2 Unity<br>(Form Teacher)<br><br>Mrs Lim Chee Jew<br>chin_chee_jew@moe.edu.sg 	|
-|	| P2 Empathy<br>(Form Teacher)<br><br>Mdm Halimatus Saadiah Binte Roslan<br>halimatus_saadiah_roslan@moe.edu.sg 	|   	|	| P2 Empathy<br>(Form Teacher)<br><br>Mrs Loh-Goh Seow Ting<br>goh_seow_ting@moe.edu.sg 	|
-|	| P2 Wonder<br>(Form Teacher)<br><br>Mrs Irene Lim - Koh Hui Ling<br>koh_hui_ling_a@moe.edu.sg 	|   	|  	|  P2 Wonder<br>(Form Teacher)<br><br>Mrs Irene Lim - Koh Hui Ling<br>koh_hui_ling_a@moe.edu.sg 	|
-| 	| P2 Integrity<br>(Form Teacher)<br><br>Mr Jimmy Lim<br>lim_boon_heng_jimmy@moe.edu.sg 	|  	|	| P2 Integrity <br>(Form Teacher)<br><br>Mr Quek Ye Shaun<br>quek_ye_shaun@moe.edu.sg 	|
-| 	| P2 Self-Discipline<br>(Form Teacher)<br><br>Mrs Ong-Lee I Gwen<br>lee_i_gwen@moe.edu.sg<br> 	|   	|	| P2 Self-Discipline <br>(Form Teacher)<br><br>Mr Zhang Pu<br>zhang_pu@moe.edu.sg 	|
-| 	| P2 Excellence<br>(Form Teacher)<br><br>Mdm Chong Kwee Chin Valentina<br>chong_kwee_chin@moe.edu.sg 	|   	|  	| P2 Excellence<br>(Form Teacher)<br><br>Mdm Tan Ming Ju<br>tan_ming_ju@moe.edu.sg 	|
+|	| P2 Thanksgiving<br>(Form Teacher)<br><br>Mr Adam Harisan Wilkinson<br>adam_harison_wilkinson@moe.edu.sg	|   	| | P2 Thanksgiving <br>(Form Teacher)<br><br>Ms Tang Junli<br>tang_junli@moe.edu.sg|
+|	| P2 Resilience<br>(Form Teacher)<br><br>Mrs Ng Swee Ying<br>ng_swee_ying@moe.edu.sg 	|   	| 	| P2 Resilience<br>(Form Teacher)<br><br>Ms Emilie Neo<br>neo_yun_han_emilie@moe.edu.sg	|
+|	| P2 Unity<br>(Form Teacher)<br><br>Mrs Anges Oon-Yeo Lay Hoon<br>yeo_lay_hoon@moe.edu.sg	|   	| | P2 Unity<br>(Form Teacher)<br><br>Mrs Tan Ming Ju<br>tan_ming_ju@moe.edu.sg	|
+|	| P2 Empathy<br>(Form Teacher)<br><br>Ms Wendy Foo<br>foo_siew_li@moe.edu.sg	|   	|	| P2 Empathy<br>(Form Teacher)<br><br>Mr Muhammad Shakir Bin Sulaiman<br>muhammad_shakir_sulaiman@moe.edu.sg 	|
+|	| P2 Wonder<br>(Form Teacher)<br><br>Mrs Germaine Cheng<br>yap_limin_germaine@moe.edu.sg	|   	|  	|  P2 Wonder<br>(Form Teacher)<br><br>Ms Lin Jingya<br>lin_jingya@moe.edu.sg	|
+| 	| P2 Integrity<br>(Form Teacher)<br><br>Mdm Sandy Low<br>sandy_low_giat_hong@moe.edu.sg	|  	|	| P2 Integrity <br>(Form Teacher)<br><br>Ms Nicolette Yap<br>nicolette_yap_jee_lian@moe.edu.sg	|
+| 	| P2 Self-Discipline<br>(Form Teacher)<br><br>Mrs Esther Morales<br>esther_morales_auriel@moe.edu.sg<br> 	|   	|	| P2 Self-Discipline <br>(Form Teacher)<br><br>Mr Zhang Pu<br>zhang_pu@moe.edu.sg 	|
+| 	| P2 Excellence<br>(Form Teacher)<br><br>Mdm Alexia Quek<br>quek_yi_lin_alexia@moe.edu.sg	|   	|  	| P2 Excellence<br>(Form Teacher)<br><br>Mdm Sofia Bte Othman<br>sofia_othman@moe.edu.sg	|

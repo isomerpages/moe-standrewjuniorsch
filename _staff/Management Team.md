@@ -22,7 +22,7 @@ description: ""
 | 	| P3 / P4 Year Head<br><br>Mr Yeo Peng Seng<br>yeo_peng_seng@moe.edu.sg 	|   	|  	| |
 | 	| P5 / P6 Year Head<br><br>Ms Jacqueline Ng<br>ng_jacqueline@moe.edu.sg 	|   	|	| Assistant Year Head (P5 / P6)<br><br>Mrs Kieu-Tan Chu Hua Doreen<br>tan_chu_hua@moe.edu.sg 	|
 | | School Staff Developer<br><br>Mrs Tay-Tan Lee Lian<br>tan_lee_lian@moe.edu.sg 	|   	| 	| Senior School Counselor<br><br>Mr Dennis Tan Lai Hoe<br>dennis_tan_lai_hoe@moe.edu.sg 	|
-| <img src="/images/mt27.png" style="width:180%"> 	| Senior Teacher / Educational Support<br><br>Mrs Catherine Yew<br>hwong_choi_foong_catherine@moe.edu.sg 	|   	| <img src="/images/mt28.png" style="width:180%"> 	| Senior Teacher / Art<br><br><br>Mdm Nora Bte Izahar<br>nora_izahar@moe.edu.sg 	|
-| <img src="/images/mt29.png" style="width:180%"> 	| Senior Teacher / English<br><br><br>Mrs Susan Thomas<br>susan_zachariah@moe.edu.sg 	|   	|  	|  	|
-| <img src="/images/mt30.png" style="width:180%"> 	| Administration Manager (ICT)<br><br><br>Mr Lim Jin Yong<br>lim_jin_yong@schools.gov.sg 	|   	|  	|  	|
-| <img src="/images/mt31.png" style="width:180%"> 	| Operations Manager<br>Mr Allan Wang Chong Nong<br>wang_chong_nong@moe.edu.sg 	|   	| <img src="/images/mt32.png" style="width:180%"> 	| Operations Manager<br>Mr Henry Roy Jacob <br>henry_roy_jacob@moe.edu.sg 	|
+| | Senior Teacher / Educational Support<br><br>Mrs Catherine Yew<br>hwong_choi_foong_catherine@moe.edu.sg 	|   	| 	| Senior Teacher / Art<br><br>Mdm Nora Bte Izahar<br>nora_izahar@moe.edu.sg 	|
+| 	| Senior Teacher / English<br><br>Mrs Susan Thomas<br>susan_zachariah@moe.edu.sg 	|   	|  	|  	|
+|	| Administration Manager (ICT)<br><br>Mr Lim Jin Yong<br>lim_jin_yong@schools.gov.sg 	|   	|  	| Administration Manager<br><br>Ms Loh Jasmine<br>loh_jasmine@schools.gov.sg 	 	|
+| | Operations Manager<br><br>Mr Allan Wang Chong Nong<br>wang_chong_nong@moe.edu.sg 	|   	|	| Operations Manager<br><br>Mr Henry Roy Jacob <br>henry_roy_jacob@moe.edu.sg 	|

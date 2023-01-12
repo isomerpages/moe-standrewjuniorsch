@@ -15,7 +15,6 @@ The 3 types of allied educators are as follows:
 
 |  	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-| <img src="/images/ae1.png" style="width:180%"> 	| Senior School Counsellor<br>Mr Dennis Tan Lai Hoe<br>dennis_tan_lai_hoe@moe.edu.sg 	|  	| <img src="/images/ae2.png" style="width:180%"> 	| School Counsellor<br>Mrs Vivienne John<br>vivienne_voon_siew_ken@moe.edu.sg 	|
-| <img src="/images/ae3.png" style="width:180%"> 	| Senior AED (Learning & Behavioural Support)<br>Ms Nur Afni<br>nur_afni_mohamed_amin@moe.edu.sg 	|   	| <img src="/images/ae4.png" style="width:180%"> 	| AED (Learning & Behavioural Support)<br>Mdm Tan Soh Kwan<br>tan_soh_kwan@moe.edu.sg 	|
-| <img src="/images/ae5.png" style="width:180%"> 	| AED (Learning & Behavioural Support)<br>Mdm Wong Lee Shya<br><br><br>wong_lee_shya@moe.edu.sg 	|  	| <img src="/images/ae6.png" style="width:180%"> 	| AED (Learning & Behavioural Support)<br><br>Ms Gayathri Naidu<br><br>gayathri_naidu_r_ganasan@moe.edu.sg 	|
-
+| 	| Senior School Counsellor<br><br>Mr Dennis Tan Lai Hoe<br>dennis_tan_lai_hoe@moe.edu.sg 	|  	| 	| School Counsellor<br><br>Mrs Vivienne John<br>vivienne_voon_siew_ken@moe.edu.sg 	|
+| 	| Senior AED (Learning & Behavioural Support)<br><br>Ms Nur Afni<br>nur_afni_mohamed_amin@moe.edu.sg 	|   	| 	| AED (Learning & Behavioural Support)<br><br>Mdm Tan Soh Kwan<br>tan_soh_kwan@moe.edu.sg 	|
+||  	 AED (Learning & Behavioural Support)<br><br>Ms Gayathri Naidu<br>gayathri_naidu_r_ganasan@moe.edu.sg 	|

@@ -5,7 +5,8 @@ description: ""
 ---
 ### The School Song
 
-*Insert audio clip here*
+
+[St Andrew's School Song](https://www.youtube.com/watch?v=w6tn_5af4-U)
 
 Lives are in the making here,  
 Hearts are in the waking here,  

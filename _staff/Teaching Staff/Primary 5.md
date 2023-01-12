@@ -10,9 +10,9 @@ third_nav_title: Teaching Staff
 |  	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
 |  	| P5 Thanksgiving<br>(Form Teacher)<br><br>Mrs Long-Lum Hui Lin<br>lum_hui_lin@moe.edu.sg	|   	| 	| P5 Thanksgiving<br>(Form Teacher)<br><br>Mrs Rena Lee<br>wong_ee-vernn_rena@moe.edu.sg	|
-| 	| P5 Resilience<br>(Form Teacher)<br><br>Mrs Tan Siew Mei<br>tan_siew_mei@moe.edu.sg 	|   	|	| P5 Resilience <br>(Form Teacher)<br><br>Ms Vasanthi Sinnathamby<br>vasanthi_k_sinnathamby@moe.edu.sg 	|
-| 	| P5 Unity <br>(Form Teacher)<br><br>Mrs Pauline Poon<br>quek_pauline@moe.edu.sg 	|   	| 	| P5 Unity <br>(Form Teacher)<br><br>Ms Chen Ying Carissa<br>chen_ying_carissa@moe.edu.sg 	|
-| 	| P5 Empathy<br>(Form Teacher)<br><br>Mdm Swee Shou Peng Tammy<br>swee_shou_peng@moe.edu.sg 	|   	|	| P5 Empathy<br>(Form Teacher)<br><br>Mr Khairil Anuar<br>khairil_anuar@moe.edu.sg 	|
-| 	| P5 Wonder<br>(Form Teacher)<br><br>Mdm Liu Huanjia Tracy<br>liu_huanjia_tracy@moe.edu.sg 	|   	| 	| P5 Wonder<br>(Form Teacher)<br><br>Mr Anthony Luke Fernandez<br>anthony_luke_fernandez@moe.edu.sg  	|
-| 	| P5 Integrity<br>(Form Teacher)<br><br>Mdm Zuraidah Bte Abdul Malik<br>zuraidah_abdul_malik@moe.edu.sg 	|   	|  	| P5 Integrity<br>(Form Teacher)<br><br>Mdm Wu TingTing<br>wu_ting_ting@moe.edu.sg 	|
-| 	| P5 Excellence<br>(Form Teacher)<br><br>Mrs Kieu-Tan Chu Hua Doreen<br>tan_chu_hua@moe.edu.sg 	|   	| 	| P5 Excellence<br>(Form Teacher)<br><br>Mr Leo Hee Meng Kelvin<br>leo_hee_meng_kelvin@moe.edu.sg 	|
+| 	| P5 Resilience<br>(Form Teacher)<br><br>Mdm Sharon Yap<br>yap_miao_koon_sharon@moe.edu.sg	|   	|	| P5 Resilience <br>(Form Teacher)<br><br>Mdm Shanthi D/O E Ramian<br>shanthi_e_ramian@moe.edu.sg	|
+| 	| P5 Unity <br>(Form Teacher)<br><br>Mr Kevin Ng<br>ng_min_keong_kevin@moe.edu.sg	|   	| 	| P5 Unity <br>(Form Teacher)<br><br>Mrs Pauline Poon<br>quek_pauline@moe.edu.sg	|
+| 	| P5 Empathy<br>(Form Teacher)<br><br>Ms Jacqueline Ng<br>ng_jacqueline@moe.edu.sg 	|   	|	| P5 Empathy<br>(Form Teacher)<br><br>Mr Fu Si<br>fu_si@moe.edu.sg	|
+| 	| P5 Wonder<br>(Form Teacher)<br><br>Mrs Tan Siew Mei<br>tan_siew_mei@moe.edu.sg	|   	| 	| P5 Wonder<br>(Form Teacher)<br><br>Mr Teo Wei Lun<br>teo_weilun@moe.edu.sg	|
+| 	| P5 Integrity<br>(Form Teacher)<br><br>Mrs Andreatte Loh<br>lucy_andreatte_yip@moe.edu.sg	|   	|  	| P5 Integrity<br>(Form Teacher)<br><br>Mr Shahriman<br>shahriman_mostapa@moe.edu.sg	|
+| 	| P5 Excellence<br>(Form Teacher)<br><br>Mr Zahrul Bin Zaiden<br>zahrul_zaiden@moe.edu.sg	|   	| 	| P5 Excellence<br>(Form Teacher)<br><br>Ms Chy hui Leng Joyce<br>chy_hui_leng_joyce@moe.edu.sg 	|

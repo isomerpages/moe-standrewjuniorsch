@@ -55,7 +55,7 @@ Burning brightly ever!
 
 ### The School Hymn
 
-*Insert audio clip here*
+
 
 Our Father, by whose servants,  
 Our School was built of old,  

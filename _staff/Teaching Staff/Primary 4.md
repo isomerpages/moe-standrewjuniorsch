@@ -9,7 +9,7 @@ third_nav_title: Teaching Staff
 
 |  	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-|	| P4 Thanksgiving<br>(Form Teacher)<br><br>Mr Soo Jia Qing<br>soo_jia_qing@moe.edu.sg 	|   	| 	| P4 Thanksgiving<br>(Form Teacher)<br><br>Mdm Sofia Bte Othman<br>sofia_othman@moe.edu.sg 	|
+|	| P4 Thanksgiving<br>(Form Teacher)<br><br>Mdm Norimah Bte Kamari<br>norima_kamari@moe.edu.sg	|   	| 	| P4 Thanksgiving<br>(Form Teacher)<br><br>Mdm Sofia Bte Othman<br>sofia_othman@moe.edu.sg 	|
 | 	| P4 Resilience <br>(Form Teacher)<br><br>Ms Pushpa D/O Selvaraju<br>pushpa_selvaraju@moe.edu.sg<br> 	|   	| 	| P4 Resilience<br>(Form Teacher)<br><br>Ms Tan Xian-En Kimberly<br>tan_xian-en_kimberly@moe.edu.sg 	|
 | 	| P4 Unity <br>(Form Teacher)<br><br>Mdm Sharon Yap<br>yap_miao_koon_sharon@moe.edu.sg 	|   	|  	| P4 Unity <br>(Form Teacher)<br><br>Mdm Sharon Yap<br>yap_miao_koon_sharon@moe.edu.sg  	|
 | 	| P4 Empathy<br>(Form Teacher)<br><br>Mr Lee Lin Shen<br>lee_lin_shen@moe.edu.sg<br> 	|   	| 	| P4 Empathy <br>(Form Teacher)<br><br>Mdm Wu Shixian<br>wu_shixian@moe.edu.sg 	|

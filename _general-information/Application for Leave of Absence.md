@@ -30,7 +30,7 @@ We charge an annual nominal fee for a child on Leave of Absence. At the end of e
 
 #### How to apply
 
-*   Complete the [Application Form for Leave of Absence] Upload PDF here
+*   Complete the [Application Form for Leave of Absence] Upload PDF [here](https://www.moe.gov.sg/-/media/files/returning-singaporeans/leave-of-absence-application-form.ashx)
 *   Submit application form to the school.
 *   Enclose a cheque made payable to " **St Andrew's Junior School** " (if application is made by post) or make cash payment at the school. Please do not send cash by post.
 *   Renew  LOA  in November each year by submitting the renewal application form together with the required payment.

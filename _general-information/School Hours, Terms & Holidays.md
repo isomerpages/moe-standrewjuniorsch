@@ -5,42 +5,42 @@ description: ""
 ---
 The school year for all MOE primary schools will start on Tuesday, 4 January 2022 and end on Friday, 18 November 2022. This takes into account 40 weeks of curriculum time for the school year. Please refer to the school calendar below. 
 
-#### School Terms for 2022
+#### School Terms for 2023
 
 | Semester I 	|  	|
 |---	|---	|
-| Term 1 	| Tue 4 Jan to Fri 11 Mar 	|
-| Term 2 	| Mon 21 Mar to Fri 27 May 	|
+| Term 1 	| Tue 3 Jan to Fri 10 Mar 	|
+| Term 2 	| Mon 20 Mar to Fri 26 May 	|
 
 | Semester II 	|  	|
 |---	|---	|
-| Term 3 	| Mon 27 Jun to Fri 2 Sep 	|
-| Term 4 	| Mon 12 Sep to *Fri 18 Nov 	|
+| Term 3 	| Mon 26 Jun to Fri 1 Sep 	|
+| Term 4 	| Mon 11 Sep to *Fri 17 Nov 	|
 
 
 #### School Holidays for 2022
 
 |  	|  	|
 |---	|---	|
-| Between Terms I & II 	| Sat 12 Mar to Sun 20 Mar 	|
-| Between Semesters I & II 	| Sat 28 May to Sun 26 Jun 	|
-|  Between Terms III & IV 	|  Sat 3 Sep to Sun 11 Sep 	|
-|  At End of School Year 	| Sat 19 Nov to Sat 31 Dec 	|
+| Between Terms I & II 	| Sat 11 Mar to Sun 19 Mar 	|
+| Between Semesters I & II 	| Sat 27 May to Sun 25 Jun 	|
+|  Between Terms III & IV 	|  Sat 2 Sep to Sun 10 Sep 	|
+|  At End of School Year 	| Sat 18 Nov to Sat 31 Dec 	|
 
 #### Scheduled School Holidays for 2022
 
 |  	|  	|
 |---	|---	|
-| Youth Day  	| Sun 3 Jul (The following Monday, 4 Jul will be a scheduled school holiday.)  	|
-| Day after National Day 	| Wed 10 Aug 	|
-| Teachers’ Day  	| Fri 2 Sep  	|
-|  Children’s Day 	| Fri 7 Oct 	|
+| Youth Day  	| Sun 2 Jul (The following Monday, 3 Jul will be a scheduled school holiday.)  	|
+| Day after National Day 	| Thu 10 Aug 	|
+| Teachers’ Day  	| Fri 1 Sep  	|
+|  Children’s Day 	| Fri 6 Oct 	|
 
-#### Public Holidays for 2022
+#### Public Holidays for 2023
 
 Public holiday dates are available via Ministry of Manpower website: 
 
-*   [Public Holidays 2022](https://www.mom.gov.sg/employment-practices/public-holidays#Year-2022)
+*   [[Public Holidays 2023]](https://www.mom.gov.sg/employment-practices/public-holidays#Year-2023)
 
 #### School Hours
 

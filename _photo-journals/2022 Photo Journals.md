@@ -7,7 +7,13 @@ description: ""
 
 Click on the picture for the album.
 
-##### Scouts Cooking Activity (19 August 2022)
+
+##### Children's Day Celebrations & Character day ( 6 October 2022)
+
+<p><a href="https://photos.app.goo.gl/gB3CMzxq3eZo2dP56"><img style="width:25%" src="/images/20221006childrendaycelebrationandcharacterday%20(1).jpeg"></a></p>
+
+
+##### Children's Day Celebrations & Character day ( 6 October 2022)
 
 <p><a href="https://photos.app.goo.gl/gB3CMzxq3eZo2dP56"><img style="width:25%" src="/images/20221006childrendaycelebrationandcharacterday%20(1).jpeg"></a></p>
 

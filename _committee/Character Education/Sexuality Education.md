@@ -67,7 +67,7 @@ c.        Character and Citizenship Education (CCE)
 
 8. Parents can opt their children out of the Growing Years programme.
 
-9. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://www.saintandrewsjunior.moe.edu.sg/qql/slot/u180/Department_CCE_SED_2022.pdf). A hardcopy of the form, duly completed and signed, is to be submitted **to the form teacher for all P5s**.
+9. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SEd%20Letter%20to%20Parent%202023.pdf). A hardcopy of the form, duly completed and signed, is to be submitted **to the form teacher for all P5s**.
 
 10\. Parents can contact the school at **_sajs@moe.edu.sg_** or **_6288 4303_** for discussion or to seek clarification about the school’s sexuality education programme.
 

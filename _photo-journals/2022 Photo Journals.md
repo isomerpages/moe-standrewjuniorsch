@@ -9,7 +9,12 @@ Click on the picture for the album.
 
 
 
-##### Entrepreneur 2022 (8 November 2022)
+#####  Primary 1 Orientation 2023 (11 November 2022)
+
+<p><a href="https://photos.app.goo.gl/DT1tDGr8wqGyLW4H8"><img style="width:25%" src="/images/Photo%20Journal%202022/P1%20ori.jpg"></a></p>
+
+
+##### Entrepreneur Day (8 November 2022)
 
 <p><a href="https://photos.app.goo.gl/qmvKHU6SubgkVBue7"><img style="width:25%" src="/images/Photo%20Journal%202022/TIM_5187.jpg"></a></p>
 

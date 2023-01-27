@@ -3,7 +3,7 @@ title: School Hours, Terms & Holidays
 permalink: /general-information/school-hours-terms-holidays/
 description: ""
 ---
-The school year for all MOE primary schools will start on Tuesday, 4 January 2022 and end on Friday, 18 November 2022. This takes into account 40 weeks of curriculum time for the school year. Please refer to the school calendar below. 
+The school year for all MOE primary schools will start on Tuesday, 3 January 2023 and end on Friday, 17 November 2023. This takes into account 40 weeks of curriculum time for the school year. Please refer to the school calendar below. 
 
 #### School Terms for 2023
 
@@ -18,7 +18,7 @@ The school year for all MOE primary schools will start on Tuesday, 4 January 202
 | Term 4 	| Mon 11 Sep to *Fri 17 Nov 	|
 
 
-#### School Holidays for 2022
+#### School Holidays for 2023
 
 |  	|  	|
 |---	|---	|
@@ -27,7 +27,7 @@ The school year for all MOE primary schools will start on Tuesday, 4 January 202
 |  Between Terms III & IV 	|  Sat 2 Sep to Sun 10 Sep 	|
 |  At End of School Year 	| Sat 18 Nov to Sat 31 Dec 	|
 
-#### Scheduled School Holidays for 2022
+#### Scheduled School Holidays for 2023
 
 |  	|  	|
 |---	|---	|

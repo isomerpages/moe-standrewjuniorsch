@@ -9,6 +9,11 @@ Click on the picture for the album.
 
 
 
+##### Class Academic Excellence 2022 Awards (17 November 2022)
+
+<p><a href="https://photos.app.goo.gl/iozGw3pzLK7Cns9H9"><img style="width:25%" src="/images/Photo%20Journal%202022/class%20awards.jpg"></a></p>
+
+
 #####  Primary 1 Orientation 2023 (11 November 2022)
 
 <p><a href="https://photos.app.goo.gl/DT1tDGr8wqGyLW4H8"><img style="width:25%" src="/images/Photo%20Journal%202022/P1%20ori.jpg"></a></p>

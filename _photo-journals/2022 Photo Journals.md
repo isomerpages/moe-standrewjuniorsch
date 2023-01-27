@@ -9,7 +9,7 @@ Click on the picture for the album.
 
 ##### Scouts Cooking Activity (19 August 2022)
 
-<p><a href="https://photos.app.goo.gl/74YVz8QuEcKJxzSw7"><img style="width:25%" src="/images/pj600.png"></a></p>
+<p><a href="https://photos.app.goo.gl/gB3CMzxq3eZo2dP56"><img style="width:25%" src="/images/![]()"></a></p>
 
 
 ##### Scouts Cooking Activity (19 August 2022)

@@ -11,6 +11,11 @@ Click on the picture for the album.
 
 <p><a href="https://photos.app.goo.gl/74YVz8QuEcKJxzSw7"><img style="width:25%" src="/images/pj600.png"></a></p>
 
+
+##### Scouts Cooking Activity (19 August 2022)
+
+<p><a href="https://photos.app.goo.gl/74YVz8QuEcKJxzSw7"><img style="width:25%" src="/images/pj600.png"></a></p>
+
 ##### National Day Celebrations (8 August 2022)
 
 <p><a href="https://photos.google.com/share/AF1QipOObGyY27sjMDczkvUeLRKTSwQSkP0CdVjf4XzfoZVqBspewhVL6wzRVriA2go8vA?key=MHpMZ0dNVWVTWXB4MWM2YzFBazZDdFc0bXhDTTJ3"><img style="width:25%" src="/images/pj601.png"></a></p>

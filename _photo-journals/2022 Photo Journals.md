@@ -8,6 +8,12 @@ description: ""
 Click on the picture for the album.
 
 
+
+##### Saints' Awards Ceremony - Individual Photos (18 November 2022)
+
+<p><a href="https://photos.app.goo.gl/Rw8UH8kbViqveSUE8"><img style="width:25%" src="/images/Photo%20Journal%202022/SAD%20winners.jpg"></a></p>
+
+
 ##### Saints' Awards Ceremony (18 November 2022)
 
 <p><a href="https://photos.app.goo.gl/onMPdJpVmW7G9EtR7"><img style="width:25%" src="/images/Photo%20Journal%202022/SAD2022.jpg"></a></p>

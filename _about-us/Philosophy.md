@@ -5,7 +5,7 @@ description: ""
 ---
 ### Philosophy
 
-We aim for excellence in the development of an all-rounded pupil, moulded in Christian principles, so that he becomes an upright man of grace and polish.
+<p style="text-align:justify;">We aim for excellence in the development of an all-rounded pupil, moulded in Christian principles, so that he becomes an upright man of grace and polish.</p>
 
 #### Spiritual Aspect
 

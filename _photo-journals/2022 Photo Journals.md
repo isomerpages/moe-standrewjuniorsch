@@ -8,6 +8,10 @@ description: ""
 Click on the picture for the album.
 
 
+##### Saints' Awards Ceremony (18 November 2022)
+
+<p><a href="https://photos.app.goo.gl/onMPdJpVmW7G9EtR7"><img style="width:25%" src="/images/Photo%20Journal%202022/SAD2022.jpg"></a></p>
+
 
 ##### Class Academic Excellence 2022 Awards (17 November 2022)
 

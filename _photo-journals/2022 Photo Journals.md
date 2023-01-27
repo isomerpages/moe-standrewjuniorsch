@@ -8,12 +8,12 @@ description: ""
 Click on the picture for the album.
 
 
-##### Children's Day Celebrations & Character day ( 6 October 2022)
+##### PAM Festival (10 October 2022)
 
-<p><a href="https://photos.app.goo.gl/gB3CMzxq3eZo2dP56"><img style="width:25%" src="/images/20221006childrendaycelebrationandcharacterday%20(1).jpeg"></a></p>
+<p><a href="https://photos.app.goo.gl/xpfv5TTG3NdP8uPJA"><img style="width:25%" src="/images/20221010PAMFEST%20(1).jpeg"></a></p>
 
 
-##### Children's Day Celebrations & Character day ( 6 October 2022)
+##### Children's Day Celebrations & Character day (6 October 2022)
 
 <p><a href="https://photos.app.goo.gl/gB3CMzxq3eZo2dP56"><img style="width:25%" src="/images/20221006childrendaycelebrationandcharacterday%20(1).jpeg"></a></p>
 

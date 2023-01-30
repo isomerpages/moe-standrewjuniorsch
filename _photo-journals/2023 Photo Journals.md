@@ -6,5 +6,3 @@ description: ""
 ### 2023 Photo Journals
 
 Click on the picture for the album.
-
-

@@ -1,0 +1,13 @@
+collections:
+  committee:
+    output: true
+    order:
+      - Overview.md
+      - Character Education/Overview.md
+      - Character Education/Sexuality Education.md
+      - Character Education/.keep
+      - Student Management.md
+      - Library.md
+      - Educational Technology/Overview.md
+      - Educational Technology/Cyber Wellness Topics.md
+      - Educational Technology/.keep

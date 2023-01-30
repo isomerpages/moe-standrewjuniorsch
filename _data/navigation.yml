@@ -1,15 +1,69 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/sajlogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Mission, Vision & Values
+        url: /about-us/mission-vision-values/
+      - title: Philosophy
+        url: /about-us/philosophy/
+      - title: Staff
+        url: /staff/management-team/
+      - title: History
+        url: /about-us/history/
+      - title: Badge & Motto
+        url: /about-us/badge-and-motto/
+      - title: School Song & Hymn
+        url: /about-us/school-song-and-hymn/
+      - title: Contact Us
+        url: /about-us/contact-us/
+      - title: Getting to SAJS
+        url: /about-us/getting-to-sajs/
+  - title: Letter and Updates
+    url: /letters-and-updates/overview/
+    sublinks:
+      - title: Overview
+        url: /letters-and-updates/overview/
+      - title: Parent's Portal
+        url: /letters-and-updates/parents-portal/overview/
+  - title: Department
+    url: /department/overview/
+    sublinks:
+      - title: Department
+        url: /department/overview/
+      - title: Committee
+        url: /committee/overview/
+  - title: CCA
+    url: /cca/overview/
+    sublinks:
+      - title: Overview
+        url: /cca/overview/
+      - title: Clubs
+        url: /cca/clubs/chess-club/
+      - title: Performing Arts
+        url: /cca/performing-arts/band/
+      - title: Sports and Games
+        url: /cca/sports-and-games/badminton/
+      - title: Uniformed Groups
+        url: /cca/uniformed-groups/boys-brigade/
+  - title: School Calendar
+    url: /school-calendar/
+  - title: Photo Journals
+    url: /photo-journals/2022/
+    sublinks:
+      - title: 2023 Photo Journals
+        url: /photo-journals/2023/
+      - title: 2022 Photo Journals
+        url: /photo-journals/2022/
+      - title: 2021 Photo Journals
+        url: /photo-journals/2021/
+      - title: 2020 Photo Journals
+        url: /photo-journals/2020/
+      - title: 2019 Photo Journals
+        url: /photo-journals/2019/
+      - title: 2018 Photo Journals
+        url: /photo-journals/2018/
+      - title: 2017 Photo Journals
+        url: /photo-journals/2017/
+      - title: 2016 Photo Journals
+        url: /photo-journals/2016/

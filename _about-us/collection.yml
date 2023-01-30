@@ -1,0 +1,11 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Mission, Vision and Values.md
+      - Philosophy.md
+      - History.md
+      - Badge and Motto.md
+      - School Song and Hymn.md
+      - Contact Us.md
+      - Getting to SAJS.md

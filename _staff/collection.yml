@@ -1,0 +1,18 @@
+collections:
+  staff:
+    output: true
+    order:
+      - Management Team.md
+      - Teaching Staff/Primary 1.md
+      - Teaching Staff/Primary 2.md
+      - Teaching Staff/Primary 3.md
+      - Teaching Staff/Primary 4.md
+      - Teaching Staff/Primary 5.md
+      - Teaching Staff/Primary 6.md
+      - Teaching Staff/.keep
+      - Allied Educators.md
+      - Executive and Administrative Staff.md
+      - Mother Tongue Teachers/Chinese.md
+      - Mother Tongue Teachers/Malay Language.md
+      - Mother Tongue Teachers/Tamil Language.md
+      - Mother Tongue Teachers/.keep

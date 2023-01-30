@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: St Andrew's Junior School
 locations:
   - address:
-      - Potong Pasir
       - 2 Francis Thomas Drive
       - Singapore 359337
+      - ""
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm

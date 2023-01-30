@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 ### Choir
 
-![](/images/choir.png)
+
 
 In the Performing Arts CCA, pupils are given the opportunities to develop their talents in singing and acting. We alternate between preparing the boys for the National choir competition (SYF) in one year and putting up a Musical on alternate years that is professionally written, directed and choreographed. Through the training sessions provided by the CCA, the boys learn values such as teamwork, commitment, responsibility and a sense of robustness. They will also acquire skills such as voice projection, self awareness, good posture and correct singing and speaking techniques, all trained by professional instructors.
 

@@ -20,12 +20,17 @@ locations:
 contacts:
   - content:
       - phone: +65 6288 4303
-      - email: SAJS@moe.edu.sg
-      - other: "ICT Service & Support: <i>ICT@saintandrewsjunior.moe.edu.sg</i>"
-    title: General Enquiries & Feedback
+      - email: ""
+      - other: ""
+    title: TEL
   - content:
       - phone: +65 6289 5242
       - email: ""
       - other: ""
     title: FAX
+  - content:
+      - phone: ""
+      - email: SAJS@moe.edu.sg
+      - other: "ICT Service & Support: <i>ICT@saintandrewsjunior.moe.edu.sg</i>"
+    title: General Enquiries & Feedback
 ---

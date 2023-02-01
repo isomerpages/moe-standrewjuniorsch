@@ -5,8 +5,7 @@ description: ""
 ---
 Page under construction.
 
-**Q1.** | **How do I get to St Andrew's Junior School?** 
-
+**Q1.**	|**How do I get to St Andrew's Junior School?**
 * A1.  Buses nearby are Bus 8, 26, 31, 90, 90A, 142, 151, 154, 857, 966 & 985  
 * MRT nearby is Potong Pasir 
 

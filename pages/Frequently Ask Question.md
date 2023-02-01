@@ -27,7 +27,7 @@ Sport and Games: Badminton, Basketball, Hockey, Rugby, Sports Club, Swimming
 Uniform Groups: Boys' Brigade, Scouts 
 
 **Q4.** |  **How do I update my child's particulars or travel declaration?** |
-* |  A4. | You may download the [Parents Portal app](https://www.saintandrewsjunior.moe.edu.sg/letter-and-updates/parents-portal/parents-gateway) on your smart device and update your child's particulars or travel declaration within the app. 
+* |  A4. | You may download the [Parents Portal app](/letters-and-updates/Parents-Portal/parents-gateway/) on your smart device and update your child's particulars or travel declaration within the app. 
 
 **Q5.** |  **I would like to contact one of the school staff.** |
 * |  A5. |  You may find our staff's contact email address [here](https://www.saintandrewsjunior.moe.edu.sg/about-us/staff/management-team) if you would like to contact them directly.
@@ -36,4 +36,4 @@ Uniform Groups: Boys' Brigade, Scouts
 * |  A6. |  You may view our [school calendar](https://www.saintandrewsjunior.moe.edu.sg/school-calendar) here.[](https://www.saintandrewsjunior.moe.edu.sg/school-calendar) 
 
 **Q7.** |  **My child needs to take a school bus to school. How can I make the necessary arrangements?** 
-* A7.   You may contact the school's [bus operator](https://www.saintandrewsjunior.moe.edu.sg/general-information/suppliers-n-vendors/bus-operators) to make the necessary arrangements. 
+* A7.   You may contact the school's [bus operator](https://www.saintandrewsjunior.moe.edu.sg/general-information/suppliers-n-vendors/bus-operators) to make the necessary arrangements.

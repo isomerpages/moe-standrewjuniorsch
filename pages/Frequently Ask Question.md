@@ -30,7 +30,7 @@ Uniform Groups: Boys' Brigade, Scouts
 * |  A4. | You may download the [Parents Portal app](/letters-and-updates/Parents-Portal/parents-gateway/) on your smart device and update your child's particulars or travel declaration within the app. 
 
 **Q5.** |  **I would like to contact one of the school staff.** |
-* |  A5. |  You may find our staff's contact email address [here](https://www.saintandrewsjunior.moe.edu.sg/about-us/staff/management-team) if you would like to contact them directly.
+* |  A5. |  You may find our staff's contact email address [here](/staff/management-team/) if you would like to contact them directly.
 
 **Q6.** |  **Where do I view the school's calendar of events?** |
 * |  A6. |  You may view our [school calendar](https://www.saintandrewsjunior.moe.edu.sg/school-calendar) here.[](https://www.saintandrewsjunior.moe.edu.sg/school-calendar) 

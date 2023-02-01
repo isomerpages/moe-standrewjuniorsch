@@ -36,4 +36,4 @@ Uniform Groups: Boys' Brigade, Scouts
 * |  A6. |  You may view our[school calendar here.](/school-calendar/)
 
 **Q7.** |  **My child needs to take a school bus to school. How can I make the necessary arrangements?** 
-* A7.   You may contact the school's [bus operator](https://www.saintandrewsjunior.moe.edu.sg/general-information/suppliers-n-vendors/bus-operators) to make the necessary arrangements.
+* A7.   You may contact the school's [bus operators](/general-information/Suppliers-and-Vendors/bus-operators/) to make the necessary arrangements.

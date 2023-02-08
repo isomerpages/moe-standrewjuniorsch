@@ -9,7 +9,7 @@ third_nav_title: Teaching Staff
 
 |  	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-|	| P4 Thanksgiving<br>(Form Teacher)<br><br>Mdm Norimah Bte Kamari<br>norima_kamari@moe.edu.sg	|   	| 	| P4 Thanksgiving<br>(Form Teacher)<br><br>Mdm Sofia Bte Othman<br>sofia_othman@moe.edu.sg 	|
+|	| P4 Thanksgiving<br>(Form Teacher)<br><br>Mdm Norimah Bte Kamari<br>norima_kamari@moe.edu.sg	|   	| 	| P4 Thanksgiving<br>(Form Teacher)<br><br>Ms Cherie Lee<br>cherie_lee_sze_ern@moe.edu.sg 	|
 | 	| P4 Resilience <br>(Form Teacher)<br><br>Mr Adrian Chia Junyong<br>adrian_chia_junyong@moe.edu.sg<br> 	|   	| 	| P4 Resilience<br>(Form Teacher)<br><br>Mdm Chen Qianhui<br>chen_qianhui@moe.edu.sg	|
 | 	| P4 Unity <br>(Form Teacher)<br><br>Mdm Ngin Chor hong<br>ngin_chor_hong@moe.edu.sg 	|   	|  	| P4 Unity <br>(Form Teacher)<br><br>Mdm Tin Shu Yee<br>tin_shu_yee@moe.edu.sg 	|
 | 	| P4 Empathy<br>(Form Teacher)<br><br>Ms Pearlyn Sew<br>sew_bee_jun_pearlyn@moe.edu.sg<br> 	|   	| 	| P4 Empathy <br>(Form Teacher)<br><br>Ms Karpaga Valli D/O Manickam<br>karpaga_valli_manickam@moe.edu.sg|

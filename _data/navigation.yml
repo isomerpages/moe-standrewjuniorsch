@@ -1,7 +1,7 @@
 logo: /images/sajlogo.png
 links:
   - title: About Us
-    url: /
+    url: /about-us/mission-vision-values/
     sublinks:
       - title: Mission, Vision & Values
         url: /about-us/mission-vision-values/

@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - Parent's Portal/Overview.md
       - Parent's Portal/eMC Submission.md
       - Parent's Portal/.keep

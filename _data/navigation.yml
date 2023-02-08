@@ -20,12 +20,12 @@ links:
       - title: Getting to SAJS
         url: /about-us/getting-to-sajs/
   - title: General Information
-    url: /general-information/academic-
+    url: /general-information/academic-grades/
     sublinks:
-      - title: Overview
-        url: /letters-and-updates/overview/
-      - title: Parent's Portal
-        url: /letters-and-updates/parents-portal/overview/
+      - title: Admission - P1 Registration
+        url: /Admission/p1-registration/
+      - title: Admission - School Transfer
+        url: /Admission/school-transfer/
   - title: Department
     url: /department/overview/
     sublinks:

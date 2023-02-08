@@ -2,7 +2,7 @@ collections:
   general-information:
     output: true
     order:
-      - Overview.md
+      - Parents Portal.md
       - Parents Gateway.md
       - Academic Grades.md
       - Admission/P1 Registration.md

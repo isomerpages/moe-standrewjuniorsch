@@ -11,6 +11,6 @@ description: ""
 
  
 
-#### Claim form for Group Personal Accident Insurance Plan for Students  
+#### Submit Claim for Group Personal Accident Insurance Plan for Students  
 
-[Click here to download claim form](/files/claimform.pdf)
+[[Click here to submit a claim]](https://studentgpa.incomegroupins.com.sg/#/)

@@ -36,6 +36,8 @@ links:
         url: /general-information/booklist/
       - title: NAPFA Standards
         url: /general-information/napfa-standards/
+      - title: Parents Portal
+        url: /general-information/parents-portal/
       - title: Partners
         url: /general-information/partners/
       - title: SAPTA
@@ -52,8 +54,6 @@ links:
         url: /general-information/student-learning-space/
       - title: Useful Links
         url: /general-information/useful-links/
-      - title: Parents Portal
-        url: /general-information/parents-portal/
   - title: Department
     url: /department/overview/
     sublinks:

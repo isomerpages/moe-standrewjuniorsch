@@ -3,7 +3,6 @@ title: Frequently Asked Question
 permalink: /faq/
 description: ""
 ---
-
 Page under construction.
 
 **Q1.**	|**How do I get to St Andrew's Junior School?**
@@ -25,7 +24,7 @@ Page under construction.
 * Uniform Groups: Boys' Brigade, Scouts 
 
 **Q4.** |  **How do I update my child's particulars or travel declaration?** 
-* A4.  You may download the [Parents Portal app](/letters-and-updates/Parents-Portal/parents-gateway/) on your smart device and update your child's particulars or travel declaration within the app. 
+* A4.  You may download the [Parents Portal app](/general-information/Parents-Portal/parents-gateway/) on your smart device and update your child's particulars or travel declaration within the app. 
 
 **Q5.** |  **I would like to contact one of the school staff.** 
 * A5.   You may find our staff's contact email address [here](/staff/management-team/) if you would like to contact them directly.

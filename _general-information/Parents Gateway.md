@@ -1,9 +1,10 @@
 ---
 title: Parents Gateway
-permalink: /letters-and-updates/Parents-Portal/parents-gateway/
+permalink: /general-information/parents-portal/parents-gateway/
 description: ""
-third_nav_title: Parent's Portal
 ---
+
+
 ### Parents Gateway
 
 Parents Gateway is an initiative by MOE to enable parents to interact with schools more conveniently on administrative matters. Parents will also be able to use this app to stay updated on school’s programme and activities.  

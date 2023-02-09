@@ -12,7 +12,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: General Information
+        - title: Letters & Updates
           description: ""
-          url: /general-information/academic-grades/
+          url: /letters-and-updates/overview/
 ---

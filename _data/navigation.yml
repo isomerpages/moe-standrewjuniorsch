@@ -1,7 +1,7 @@
 logo: /images/sajlogo.png
 links:
   - title: About Us
-    url: /about-us/principals-message/
+    url: /about-us/mission-vision-values/
     sublinks:
       - title: Mission, Vision & Values
         url: /about-us/mission-vision-values/
@@ -19,13 +19,41 @@ links:
         url: /about-us/contact-us/
       - title: Getting to SAJS
         url: /about-us/getting-to-sajs/
-  - title: Letter and Updates
-    url: /letters-and-updates/overview/
+  - title: General Information
+    url: /
     sublinks:
-      - title: Overview
-        url: /letters-and-updates/overview/
-      - title: Parent's Portal
-        url: /letters-and-updates/parents-portal/overview/
+      - title: Academic Grades
+        url: /general-information/academic-grades/
+      - title: Admission - P1 Registration
+        url: /general-information/Admission/p1-registration/
+      - title: Admission - School Transfer
+        url: /general-information/Admission/school-transfer/
+      - title: Leave of Absence
+        url: /general-information/application-for-leave-of-absence/
+      - title: Attire, Grooming & Behaviour
+        url: /general-information/attire-grooming-and-behavior-guidelines/
+      - title: Booklist
+        url: /general-information/booklist/
+      - title: NAPFA Standards
+        url: /general-information/napfa-standards/
+      - title: Parents Portal
+        url: /general-information/parents-portal/
+      - title: Partners
+        url: /general-information/partners/
+      - title: SAPTA
+        url: /general-information/SAPTA/overview/
+      - title: School Hours, Terms & Holidays
+        url: /general-information/school-hours-terms-holidays/
+      - title: Suppliers & Vendors
+        url: /general-information/Suppliers-and-Vendors/overview/
+      - title: Supporting Singaporean Student
+        url: /general-information/supporting-singaporean-students/
+      - title: Student Insurance
+        url: /general-information/student-insurance/
+      - title: Getting Started with SLS
+        url: /general-information/student-learning-space/
+      - title: Useful Links
+        url: /general-information/useful-links/
   - title: Department
     url: /department/overview/
     sublinks:

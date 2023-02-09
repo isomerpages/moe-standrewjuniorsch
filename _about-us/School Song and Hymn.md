@@ -83,6 +83,6 @@ A cloud of unseen witness,
 Our elder comrades stand;
 
 One family unbroken,  
-We join in one acclaim;  
+We join with one acclaim;  
 One heart, one voice uplifting  
 To glorify Thy name.

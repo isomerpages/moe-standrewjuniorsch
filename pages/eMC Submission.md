@@ -2,8 +2,8 @@
 title: eMC Submission
 permalink: /letters-and-updates/Parents-Portal/emc-submission/
 description: ""
-third_nav_title: Parent's Portal
 ---
+
 ### eMC Submission
 
 Please select your child's respective class to submit the electronic Medical Certificate.  

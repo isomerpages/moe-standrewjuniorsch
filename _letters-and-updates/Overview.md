@@ -7,4 +7,4 @@ description: ""
 
 #### 2023 Meet the Parents Slides
 
-[/letters-and-updates/2023mtp/](View now)
+[View now](/letters-and-updates/2023mtp/)

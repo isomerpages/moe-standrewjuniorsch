@@ -9,7 +9,7 @@ description: ""
 
 Dear Parents/Students,
 
-2023 Meet the Parents slides are available now
+2023 Meet the Parents slides are available now.
 
 [Read more](/letters-and-updates/2023mtp/)
 

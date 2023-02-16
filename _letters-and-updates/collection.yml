@@ -2,4 +2,5 @@ collections:
   letters-and-updates:
     output: true
     order:
+      - 2023 Meet the Parents Slides.md
       - Overview.md

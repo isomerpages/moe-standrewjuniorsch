@@ -3,7 +3,7 @@ title: 2023 Meet the Parents Slides
 permalink: /letters-and-updates/2023mtp/
 description: ""
 ---
-Dear Parents/Guardians,
+Dear Parent/Guardian,
 
 2023 Meet the Parents slides are available for viewing:
 

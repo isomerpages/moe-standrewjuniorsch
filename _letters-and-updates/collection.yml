@@ -2,5 +2,6 @@ collections:
   letters-and-updates:
     output: true
     order:
+      - Teaching Award Nominations.md
       - 2023 Meet the Parents Slides.md
       - Overview.md

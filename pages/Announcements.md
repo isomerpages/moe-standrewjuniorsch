@@ -23,7 +23,7 @@ More details of the respective awards can be found below. We look forward to you
 
 #### 2023 Meet the Parents Slides
 
-Dear Parents/Students,
+Dear Parent/Guardian,
 
 2023 Meet the Parents slides are available now.
 

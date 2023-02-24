@@ -14,4 +14,4 @@ third_nav_title: Teaching Staff
 | 	| P4 Unity <br>(Form Teacher)<br><br>Mdm Ngin Chor hong<br>ngin_chor_hong@moe.edu.sg 	|   	|  	| P4 Unity <br>(Form Teacher)<br><br>Mdm Tin Shu Yee<br>tin_shu_yee@moe.edu.sg 	|
 | 	| P4 Empathy<br>(Form Teacher)<br><br>Ms Pearlyn Sew<br>sew_bee_jun_pearlyn@moe.edu.sg<br> 	|   	| 	| P4 Empathy <br>(Form Teacher)<br><br>Ms Karpaga Valli D/O Manickam<br>karpaga_valli_manickam@moe.edu.sg|
 | 	| P4 Wonder<br>(Form Teacher)<br><br>Mr Zhang Zishao Samuel<br>zhang_zishao@moe.edu.sg	|   	| 	| P4 Wonder<br>(Form Teacher)<br><br>Mdm Oriana Ying<br>ying_pui_leng_oriana@moe.edu.sg	|
-| 	| P4 Integrity<br>(Form Teacher)<br><br>Mr Lee Kai Chuen Bruce<br>lee_kai_chuen_bruce@moe.edu.sg	|   	|	| P4 Integrity<br>(Form Teacher)<br><br>Ms Lim Jun Hong Janna<br>ju_hong_janna_lim@moe.edu.sg	|
+| 	| P4 Integrity<br>(Form Teacher)<br><br>Mr Lee Kai Chuen Bruce<br>lee_kai_chuen_bruce@moe.edu.sg	|   	|	| P4 Integrity<br>(Form Teacher)<br><br>Ms Lim Ju Hong Janna<br>ju_hong_janna_lim@moe.edu.sg	|

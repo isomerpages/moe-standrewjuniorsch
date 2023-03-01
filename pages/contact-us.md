@@ -12,9 +12,6 @@ locations:
       - days: Mon - Fri
         time: 8.30am - 5.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
     maps_link: https://goo.gl/maps/5MPRnHmL1PYYjPSLA
     title: St Andrew's Junior School
 contacts:

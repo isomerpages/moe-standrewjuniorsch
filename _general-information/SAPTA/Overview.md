@@ -8,7 +8,7 @@ third_nav_title: SAPTA
 
 The St. Andrew’s Parent-Teacher Association (SAPTA) was founded several decades ago with well-meaning parents coming together to support the school by getting involved with its activities. The association was officially registered in 1970 as a voluntary&nbsp;organisation&nbsp;that works to support the well-being of parents, teachers, and students.  
 
-The SAPTA logo integrates the letter “A” with three triangles at the end of the masthead representing&nbsp;PARENTS,&nbsp;TEACHERS&nbsp;and&nbsp;STUDENTS, our&nbsp;main focus. In supporting the school, SAPTA members come together to provide for the needs of all our parents, teachers and boys. Areas where we focus our efforts are:
+The SAPTA logo integrates the letter “A” with three triangles at the end of the masthead representing&nbsp;PARENTS,&nbsp;TEACHERS&nbsp;and&nbsp;STUDENTS, our&nbsp;main focus. In supporting the school, SAPTA members come together to provide for the needs of all our parents, teachers, and boys. Areas where we focus our efforts are:
 
 STUDENTS
 
@@ -36,7 +36,7 @@ PARENTS
     
 *   Organising&nbsp;Parenting Educational Seminars and Workshops  
     
-*   Organizing Family-Oriented&nbsp;Events,&nbsp;e.g.&nbsp;SAPTA Family Day, SAPTA Arts Night  
+*   Organizing Family-Oriented&nbsp;Events,&nbsp;e.g.,&nbsp;SAPTA Family Day, SAPTA Arts Night  
     
 *   Supporting our affiliate&nbsp;Parent Support Groups (Parent Volunteers, Hockey PSG,&nbsp;Rugby PSG) and our&nbsp;Sport&nbsp;Clubs, namely the Athletics Club and Saints&nbsp;FC (Soccer) in their&nbsp;respective&nbsp;school&nbsp;programmes  
     

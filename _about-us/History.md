@@ -11,7 +11,7 @@ The beginning of St Andrew's School, perhaps, could be traced to the 1850s when 
 
 As a result of Rev Humphreys' sermon on Whitsunday 1856, a group of laymen formed themselves into a committee for the spreading of the Gospel in the then 37-year old Singapore.
 
-They recruited a missionary and this resulted in the arrival of the Rev Edward Sherman Venn in 1861. At that time the private institution at Chin Chew Street was not affiliated to the Anglican Church.
+They recruited a missionary, and this resulted in the arrival of the Rev Edward Sherman Venn in 1861. At that time the private institution at Chin Chew Street was not affiliated to the Anglican Church.
 
 The connection took place only on 8 September 1862 when the Anglican Church, because of the work and influence of Rev Venn, adopted it. Thus, St Andrew's School was founded on 8 September 1862.
 
@@ -79,7 +79,7 @@ With the continuing growth of the School, space could have been a problem again 
 
 With the Lord's prompting, the nudging of the School Supervisor, Mr David Chelliah, and the blessings of Bishop Chiu Ban It, the School went in faith in 1981 to the Director of Education to "book" that site for the re-siting of the Senior Wing. It included plans to upgrade subsequently the present Woodsville site with full facilities for a growing and vibrant Junior School. 
 
-Physical work on the new Secondary School and the Chapel-cum-Counselling Centre started on 3 November 1984. In response to the proposal by the then Minister for Education, the Secondary School commenced on a building extension programme to enable it to go single-session. This was fulfilled in January 1994. 
+Physical work on the new Secondary School and the Chapel-cum-Counselling Centre started on 3 November 1984. In response to the proposal by the then Minister for Education, the Secondary School commenced on a building extension programme to enable it to go single session. This was fulfilled in January 1994. 
 
 Mrs Priscilla Krempl took over the headship of the Secondary School from Mr Harry Tan in 1994. In the case of the Junior School, after the unfortunate demise of Mr Tan Cheng Lim, Mr Phua Eng Hee became the Principal of the Junior School in 1987. In 1990, he was succeeded by Ms Jacqueline Oehlers who in turn was succeeded by Miss Poh Chwee Sian in mid December 1997. 
 

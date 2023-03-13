@@ -5,15 +5,15 @@ description: ""
 ---
 #### Programmes
 
-The PE, Art & Music Department seeks to develop in all saints a love and appreciation of sports, physical exercise, art and music to lead a well-balanced lifestyle.
+The PE, Art & Music Department seeks to develop in all saints a love and appreciation of sports, physical exercise, art, and music to lead a well-balanced lifestyle.
 
 ##### (i) PHE Syllabus
 
-P1 to P4 pupils learn skills in the domains of Athletics, Dance, Games & Sports, Gymnastics, Physical Health Education and Outdoor Education.
+P1 to P4 pupils learn skills in the domains of Athletics, Dance, Games & Sports, Gymnastics, Physical Health Education (PHE), and Outdoor Education.
 
 ##### (ii) Programme for Active Learning (PAL)
 
-P1 to P2 pupils participate in a whole year programme exploring, experiencing and expressing themselves in the domains of Outdoor Education, Performance Arts, Sports & Games and Visual Arts.
+P1 to P2 pupils participate in a whole year programme exploring, experiencing, and expressing themselves in the domains of Outdoor Education, Performance Arts, Sports & Games and Visual Arts.
 
 ##### (iii) Saints Games Day
 
@@ -23,21 +23,17 @@ P1 to P6 pupils showcase skills learnt from PHE Syllabus in a sporting event des
 
 P3 pupils participate in a learn-to-swim programme ending with a swimming carnival to showcase the skills they have learnt.
 
-##### (v) Co-Curricular Activities (CCA)
+##### (v) Art
 
-P3 to P6 pupils participate in CCA to develop their talent and interest, showcase character and contribute their efforts to achieve team goals.
+The Art curriculum seeks to cultivate a spirit of innovation and creativity by encouraging pupils to share their ideas, thoughts and feelings through their art work with the aim of developing self-confidence and celebrating achievements.  In the process, pupils also develop appreciation for the visual art and become visually literate in their ability to observe, understand, and make meaning of what they see. Through in house and external art competitions, pupils are given the opportunity to express themselves and find their voice through the art making process.
 
-##### (vi) Art
+##### (vi) Music
 
-The new Art curriculum seeks to cultivate a spirit of innovation and experimentation and teaches pupils to share their ideas, thoughts and feelings through their art work with the aim of developing self-confidence and celebrating achievements.  In the process, pupils also develop appreciation for the visual art and become visually literate in their ability to observe, understand and make meaning of what they see. Through in house and external art competitions, pupils are given the opportunity to express themselves and feel excited about the art making process with the assistance of skilled external art vendors in partnership with our own art teachers.
-
-##### (vii) Music
-
-For music, the focus is on the teaching and learning of basic theory, music appreciation and music making.  All pupils are able to play the recorder and the guitar with some proficiency by the time they reach the Primary Six level.  This is the kind of confidence we instill in our boys - the ability to express themselves musically through one or more forms of expressions.
+Through the teaching and learning of basic theory, music appreciation and music making, pupils learn to express themselves musically.  All pupils are able to play the recorder and the guitar with some proficiency by the time they reach the Primary Six level. We hope to inspire in all our saints a love for music.
 
 * * *
 
-#### Parents can help us in the following areas
+#### Parents can help in the following areas
 
 ##### (i) Encourage the love for outdoor activities
 
@@ -53,7 +49,7 @@ Playing with friends and neighbours at the playground or sports facilities can h
 
 ##### (iv) Encourage boys to appreciate music and art
 
-Encourage boys in the Music and Art lessons through being supportive and talking to them about expressing and appreciating Art and Music in their various forms.
+Encourage your child by being supportive and showing interest in his learning experiences and creations during Art and Music lessons, beyond the formal academics.
 
 * * *
 

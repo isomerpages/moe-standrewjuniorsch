@@ -3,10 +3,9 @@ title: Special Educational Needs Officer
 permalink: /staff/special-educational-needs-officer/
 description: ""
 ---
+### Special Educational Needs Officer
 
-### Special Education Needs Officer
-
-Special Education Needs Officer (SEN Officer) work with teachers to nurture and develop every child in school by raising the quality of interaction with every child. They will support the teachers in the application of innovative pedagogies to instruct and interact with each pupil. They will also facilitate discussion groups as well as engage the pupils in their project work. Teachers will also involve allied educators in the delivery of enriching programmes and activities outside the classroom. The SEN Officers will also build rapport with the pupils to help them improve their self-confidence, self-esteem and sense of independence.
+Special Educational Needs Officer (SEN Officer) work with teachers to nurture and develop every child in school by raising the quality of interaction with every child. They will support the teachers in the application of innovative pedagogies to instruct and interact with each pupil. They will also facilitate discussion groups as well as engage the pupils in their project work. Teachers will also involve allied educators in the delivery of enriching programmes and activities outside the classroom. The SEN Officers will also build rapport with the pupils to help them improve their self-confidence, self-esteem and sense of independence.
 
 The 3 types of SEN Officers are as follows:
 

@@ -107,7 +107,7 @@ A Saint care for others within the SAJS community. He will not only look after h
 
 ##### (ii) Guidelines
 
-*   Homework will not be issued before any major event that involves pupils and major public holidays especially those commemorating a special event for a particular race or religion e.g. Chinese New Year, Christmas, Hari Raya, Deepavali, etc.
+*   Homework will not be issued before any major event that involves pupils and major public holidays especially those commemorating a special event for a particular race or religion e.g., Chinese New Year, Christmas, Hari Raya, Deepavali, etc.
 *   Homework may be issued for the March, June, September and/or December holidays.
 *   Homework issued will be stated on the class whiteboard. Students are reminded to copy down the homework into their Personal Organiser.
 

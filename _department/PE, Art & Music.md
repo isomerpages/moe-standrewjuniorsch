@@ -5,7 +5,7 @@ description: ""
 ---
 #### Programmes
 
-The PE, Art & Music Committee seeks to teach Music and Art skills and appreciation through Expressing, Enjoying, Creating and being Critical thinkers.  This is done through a variety of engaging and enriching Music and Art programmes and activities.
+The PE, Art & Music Department seeks to develop in all saints a love and appreciation of sports, physical exercise, art and music to lead a well-balanced lifestyle.
 
 ##### (i) PHE Syllabus
 

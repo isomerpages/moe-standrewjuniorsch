@@ -81,7 +81,7 @@ With the Lord's prompting, the nudging of the School Supervisor, Mr David Chelli
 
 Physical work on the new Secondary School and the Chapel-cum-Counselling Centre started on 3 November 1984. In response to the proposal by the then Minister for Education, the Secondary School commenced on a building extension programme to enable it to go single session. This was fulfilled in January 1994. 
 
-Mrs Priscilla Krempl took over the headship of the Secondary School from Mr Harry Tan in 1994. In the case of the Junior School, after the unfortunate demise of Mr Tan Cheng Lim, Mr Phua Eng Hee became the Principal of the Junior School in 1987. In 1990, he was succeeded by Ms Jacqueline Oehlers who in turn was succeeded by Miss Poh Chwee Sian in mid December 1997. 
+Mrs Priscilla Krempl took over the headship of the Secondary School from Mr Harry Tan in 1994. In the case of the Junior School, after the unfortunate demise of Mr Tan Cheng Lim, Mr Phua Eng Hee became the Principal of the Junior School in 1987. In 1990, he was succeeded by Ms Jacqueline Oehlers who in turn was succeeded by Miss Poh Chwee Sian in mid-December 1997. 
 
 Meanwhile, the Junior School at Woodsville suffered from noise pollution due to the expansion of the Pan-Island Expressway. A decision was made to relocate the Junior School from its Woodsville site to the school field nearer Potong Pasir. The new building was completed in January 1996. It was officially opened by the then Minister for Education, Rear-Admiral Teo Chee Hean, on 6 September 1997.
 

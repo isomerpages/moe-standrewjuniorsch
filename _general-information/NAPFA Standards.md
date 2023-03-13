@@ -14,11 +14,11 @@ The National Physical Fitness Award Scheme (NAPFA) is a mandatory physical fitne
 *   Shuttle Run
 *   1.6-km Walk-Run
 
-All five stations and the 1.6-km Walk-Run should be attempted on the same day, with a 2 to 5 minute rest period permitted between stations.
+All five stations and the 1.6-km Walk-Run should be attempted on the same day, with a 2-to-5-minute rest period permitted between stations.
 
 #### Awards
 
-Every student's performance is compared to a chart and are graded from A to F for each test item. An A grade constitutes excellent performance and an E grade constitutes barely passing. On the other hand, an F grade is an alternate term that the participant has failed that test item.
+Every student's performance is compared to a chart and are graded from A to F for each test item. An A grade constitutes excellent performance, and an E grade constitutes barely passing. On the other hand, an F grade is an alternate term that the participant has failed that test item.
 
 To achieve the Bronze Award, the student must attain:
 

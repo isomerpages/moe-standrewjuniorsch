@@ -10,14 +10,14 @@ We aim to equip our players with the basics of basketball skills and develop the
 
 #### Schedule
 
-Fridays,  8 - 9:30 a.m. Competition squads training Schedule would be announced to selected players.
-
+Fridays, 8 - 9:30 a.m. Competition squads training Schedule would be announced to selected players.
+ 
 #### Venue
 
 Gym & Outdoor Court
 
 #### Teachers-in-charge
 
-*   Mr Anthony Luke Fernandez (anthony\_luke\_fernandez@moe.edu.sg)
-*   Mdm Chng Hui Peng (chng\_hui\_peng\_a@moe.edu.sg)
-*   Mdm Wu Shixian (wu\_shixian@moe.edu.sg)
+*   Mr Anthony Luke Fernandez 
+*   Mdm Wu Shixian
+*   Ms Lee Sze Ern Cherie

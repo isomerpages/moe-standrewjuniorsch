@@ -12,15 +12,15 @@ In the Concert Band, we not only give students the opportunity to learn to play 
 
 Joining the Concert Band will also allow the students to showcase their musical talents through local and international performances and competitions. We welcome everyone to audition and be a part of this exciting CCA!
 
-**Special note:**  Students with medical conditions such as fits and epilepsy are not encouraged to apply for the band.
+**Special note:**  Students with medical conditions such as fits, and epilepsy are not encouraged to apply for the band.
 
 #### Band Website
 
 **[SAJS Band](http://www.tinyurl.com/sajsband)**
 
 #### Teachers-in-charge
-
-*   Ms Wendy Foo (wendy\_foo\_siew\_li@moe.edu.sg)  
-*   Ms Victoria Phua (victoria\_phua\_yiling@moe.edu.sg) 
-*   Ms Tang Junli (tang\_junli@moe.edu.sg)
-*   Ms Pearlyn Sew (sew\_bee\_jun\_pearlyn@moe.edu.sg)
+ 
+*   Ms Victoria Phua 
+*   Mrs Kieu-Tan Chu Hua Doreen
+*   Mrs Sharon Yap
+*   Ms Pearlyn Sew Bee Jun

@@ -8,9 +8,9 @@ third_nav_title: Performing Arts
 
 
 
-In the Performing Arts CCA, pupils are given the opportunities to develop their talents in singing and acting. We alternate between preparing the boys for the National choir competition (SYF) in one year and putting up a Musical on alternate years that is professionally written, directed and choreographed. Through the training sessions provided by the CCA, the boys learn values such as teamwork, commitment, responsibility and a sense of robustness. They will also acquire skills such as voice projection, self awareness, good posture and correct singing and speaking techniques, all trained by professional instructors.
+In the Performing Arts CCA, pupils are given the opportunities to develop their talents in singing and acting. We alternate between preparing the boys for the National choir competition (SYF) in one year and putting up a Musical on alternate years that is professionally written, directed, and choreographed. Through the training sessions provided by the CCA, the boys learn values such as teamwork, commitment, responsibility, and a sense of robustness. They will also acquire skills such as voice projection, self-awareness, good posture, and correct singing and speaking techniques, all trained by professional instructors.
 
-The Choir, also known as The Singing Saints, have performed for varied audiences within and outside school. In the previous SYF in 2008 and 2010, we obtained a Gold(with Honours) Award. The only boys’ choir in Singapore to attain this achievement.
+The Choir, also known as The Singing Saints, have performed for varied audiences within and outside school. In the previous SYF in 2008 and 2010, we obtained a Gold (with Honours) Award. The only boys’ choir in Singapore to attain this achievement.
 
 We have also been on overseas trips to Sydney (1997), Brisbane (2004) and Japan (2006, 2010). In 2008, we took part in an international choral competition in the Czech Republic and obtained a Silver award for the Boys’ choir and a Gold award for the combined children’s choir.
 
@@ -28,14 +28,14 @@ Boys will need to go through an audition process before being selected to be par
 
 #### Schedule
 
-Fridays : 7:40am to 9:40am  
-Saturdays : 9:00am to 11:30am
+Fridays: 7:40am to 9:40am  
+Saturdays: 9:00am to 11:30am
 
 #### Venue
 
 Music Room
 
-#### Parent can help us in the following areas
+#### Parent can help in the following areas
 
 Make arrangements to let your son/ward attend all practices as far as possible.
 
@@ -44,10 +44,9 @@ Make arrangements to let your son/ward attend all practices as far as possible.
 **[The Singing Saints](https://sites.google.com/a/moe.edu.sg/the-singing-saints-2014/)**
 
 #### Teachers-in-charge  
-
-*   Ms Tan Liping Fiona (tan\_liping\_fiona@moe.edu.sg)  
     
-*   Mrs Rena Lee (wong\_ee-vernn\_rena@moe.edu.sg)  
+*   Mrs Rena Lee 
     
-*   Ms Chen Ying Carissa (chen\_ying\_carissa@moe.edu.sg)
-*   Mdm Chong Kwee Chin Valentina (chong\_kwee\_chin@moe.edu.sg)
+*   Ms Chen Ying Carissa
+*   Ms Joyce Chy Hui Ling
+*   Mrs Clara Wee

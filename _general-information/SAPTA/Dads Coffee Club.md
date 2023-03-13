@@ -23,4 +23,4 @@ What fathers said
 *   Enjoyed the bonding time with my boy. We were still playing with the car till late in the evening.  
     
 
-Saints DCC monthly talks are reserved for fathers only. We believe in providing a safe environment for Saints fathers to share our fathering challenges. It is within this safe space that we commit ourselves to take action on the areas of fathering that need attention
+Saints DCC monthly talks are reserved for fathers only. We believe in providing a safe environment for Saints fathers to share our fathering challenges. It is within this safe space that we commit ourselves to take action on the areas of fathering that need attention.

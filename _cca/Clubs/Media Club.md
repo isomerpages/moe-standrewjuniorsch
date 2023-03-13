@@ -18,16 +18,17 @@ Learning experiences:
     
 *   Presentation skills
 
-Through these learning experiences, Saint’s Media Club also strives to develop our boys to be passionate and creative in their work so as to be lifelong learners of the competencies necessary in our globalised world, namely
+Through these learning experiences, Saint’s Media Club also strives to develop our boys to be passionate and creative in their work to be lifelong learners of the competencies necessary in our globalised world, namely
 
-*   Civic Literacy, Global Awareness and Cross-Cultural Skills  
+*   Civic Literacy, Global Awareness, and Cross-Cultural Skills  
     
 *   Critical and Inventive Thinking  
     
-*   Communication, Collaboration and Information Skills  
+*   Communication, Collaboration, and Information Skills  
     
 
 #### Teachers-in-charge
 
-*   Mr Soo Jia Qing (soo\_jia\_qing@moe.edu.sg)
-*   Mdm Chen Qianhui (chen\_qianhui@moe.edu.sg)
+*   Mr Soo Jia Qing
+*   Mrs Long-Lum Hui Lin
+*   Mdm Oriana Ying Pui Leng

@@ -13,16 +13,16 @@ Under this scheme, children granted LOA will continue to be registered as a stud
 
 The child must be a **Singapore citizen (SC)** or **Singapore Permanent Resident (SPR)** , and
 
-*   is presently studying in our school and will be accompanying his parent on an overseas posting and intends to rejoin us on his return,  **or**
+*   is presently studying in our school and will be accompanying his parent on an overseas posting and intends to rejoin us on his return, **or**
 *   have registered for Primary One but will be overseas at the start of the school year
 
 #### LOA Services
 
 We will provide the following services to our LOA students to ensure that they remain engaged with our school and to ease their subsequent return to the school:
 
-*   **Administrative matters**  — We will inform LOA students of key notices that impact them, e.g. P1 sibling registration, DSA exercises, registration for key national examinations, LOA renewal and returning arrangements, etc.
-*   **Academic Matters**  — Upon request, the school will send assessment/past year exam papers to parents/guardians via email.
-*   **Relationship Matters**  — We will keep LOA students informed of developments in the school and the local education scene.
+*   **Administrative matters** — We will inform LOA students of key notices that impact them, e.g. P1 sibling registration, DSA exercises, registration for key national examinations, LOA renewal and returning arrangements, etc.
+*   **Academic Matters** — Upon request, the school will send assessment/past year exam papers to parents/guardians via email.
+*   **Relationship Matters** — We will keep LOA students informed of developments in the school and the local education scene.
 
 #### LOA Fees and Renewal of LOA
 
@@ -32,5 +32,5 @@ We charge an annual nominal fee for a child on Leave of Absence. At the end of e
 
 *   Complete the [Application Form for Leave of Absence here](/files/Leave%20of%20Absence%20Application%20Form%20(St%20Andrew's%20Junior%20School).pdf)
 *   Submit application form to the school.
-*   Enclose a cheque made payable to " **St Andrew's Junior School** " (if application is made by post) or make cash payment at the school. Please do not send cash by post.
-*   Renew  LOA  in November each year by submitting the renewal application form together with the required payment.
+*   Enclose a cheque made payable to "**St Andrew's Junior School**" (if application is made by post) or make cash payment at the school. Please do not send cash by post.
+*   Renew LOA in November each year by submitting the renewal application form together with the required payment.

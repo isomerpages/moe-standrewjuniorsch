@@ -14,10 +14,10 @@ Committed to developing and nurturing talents at a young age, the SSC welcomes a
 
 #### Teachers-in-charge
 
-*   Mr Teo Weilun (teo_weilun@moe.edu.sg)  
+*   Mr Zhang Zishao Samuel 
     
-*   Mr Shahriman Mostapa (shahriman_mostapa@moe.edu.sg)  
+*   Mr Shahriman Mostapa 
     
-*   Mr Zhang Zishao Samuel (zhang_zishao@moe.edu.sg)  
+*   Mr Teo Weilun
+*   Ms Wendy Ong
     
-*   Mdm Liu Huanjia Tracy (liu_huanjia_tracy@moe.edu.sg)

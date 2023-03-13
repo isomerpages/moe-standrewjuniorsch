@@ -13,7 +13,7 @@ Each Saint an exemplary character who displays self-discipline.
 
 ##### (i) Discipline with Care and Dignity
 
-A whole school approach that encourages positive school ethos and climate in which there is a culture of respect, care and concern, strong teacher-pupil relationship, generation and celebration of success experiences for pupils.
+A whole school approach that encourages positive school ethos and climate in which there is a culture of respect, care and concern, strong teacher-pupil relationship, generation, and celebration of success experiences for pupils.
 
 Consequences will be meted out according to the types of offences and there is a process of escalation so that there will be appropriate intervention.
 
@@ -21,11 +21,11 @@ Pupils are encouraged to use computer and/or internet responsibly. Inappropriate
 
 ##### (ii) Staff Involvement
 
-Adopting preventive strategies, such as good classroom management, early identification and intervention for at-risk pupils.
+Adopting preventive strategies, such as good classroom management, early identification, and intervention for at-risk pupils.
 
 ##### (iii) Developmental Programmes
 
-Teaching of lifeskills, thinking skills and social-emotional competencies through FTGP, morning reminders at devotions and when the need arises.
+Teaching of life skills, thinking skills and social-emotional competencies through FTGP, morning reminders at devotions and when the need arises.
 
 ##### (iv) Pastoral Care Programmes
 

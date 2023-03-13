@@ -13,7 +13,7 @@ St. Andrew's Junior School is an Anglican Church School and therefore highlights
 
 #### Academic Aspect
 
-The School seeks to educate, and not merely make literate, our students as it is important to prepare them to be good, useful and intelligent citizens. We recognize the wide range of academic ability of our students and we shall tailor our curriculum in terms of width, depth and variety, to best suit the different groups of students in our charge. The school recognizes the importance of achieving effective bilingualism and towards this end, we shall spare no effort to encourage and promote the learning of languages among our students. We also seek to promote high numeracy skills among our students.
+The School seeks to educate, and not merely make literate, our students as it is important to prepare them to be good, useful and intelligent citizens. We recognize the wide range of academic ability of our students, and we shall tailor our curriculum in terms of width, depth and variety, to best suit the different groups of students in our charge. The school recognizes the importance of achieving effective bilingualism and towards this end, we shall spare no effort to encourage and promote the learning of languages among our students. We also seek to promote high numeracy skills among our students.
 
 #### Moral and Social Values
 

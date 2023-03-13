@@ -5,7 +5,7 @@ description: ""
 ---
 ### Getting to SAJS
 
-Our school can be easily accessed via bus, train or car.
+Our school can be easily accessed via bus, train, or car.
 
 #### By bus
 

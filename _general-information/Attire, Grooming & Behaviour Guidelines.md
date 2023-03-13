@@ -62,7 +62,7 @@ A Saint love his school. As a member of the school community, a Saint must
 
 #### Love for Self and Others
 
-A Saint care for others within the SAJS community. He will not only look after his own interests, but also the interests of others. He cares about:
+A Saint cares for others within the SAJS community. He will not only look after his own interests, but also the interests of others. He cares about:
 
 ##### (i) Safety in the School
 

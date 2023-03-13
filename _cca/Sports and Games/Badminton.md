@@ -6,7 +6,7 @@ third_nav_title: Sports and Games
 ---
 ### Badminton
 
-The SAJS Badminton CCA aims to equip all our members with a strong foundation of basic badminton skills and develop them to their fullest potential. In badminton, every CCA session always starts and ends with emphasis on character building. The members get ample opportunities for develop their character and leadership potential through various games and activties. One such example is the peer coaching programme which our school team players will help train the weaker players. We are also very thankful that we have a strong parents support group who always offers us help when in need. With these, I look forward to the future of our badminton CCA with much hope and confidence. Up and On!  
+The SAJS Badminton CCA aims to equip all our members with a strong foundation of basic badminton skills and develop them to their fullest potential. In badminton, every CCA session always starts and ends with emphasis on character building. The members get ample opportunities for develop their character and leadership potential through various games and activties. One such example is the peer coaching programme which our school team players will help train the weaker players. We are also very thankful that we have a strong parent's support group who always offers us help when in need. With these, I look forward to the future of our badminton CCA with much hope and confidence. Up and On!  
 
 #### Programme
 
@@ -30,10 +30,9 @@ Parents can partner us by emphasizing the value of TRUEWISE to your child. This 
 
 #### Teachers-in-charge
 
-*   Mr Alvin Chooi (chooi\_sian\_woon@moe.edu.sg)  
+*   Mr Alvin Chooi
     
-*   Ms Manimagaliammal d/o Ramachandran (manimagaliammal\_r@moe.edu.sg)  
+*   Mdm Tin Shu Yee
     
-*   Mdm Tin Shu Yee (tin\_shu\_yee@moe.edu.sg)  
-    
-*   Mdm Sharon Yap (yap\_miao\_koon\_sharon@moe.edu.sg)
+*   Mr Muhammad Shakir Bin Sulaiman
+*   Mdm Wu Ting Ting

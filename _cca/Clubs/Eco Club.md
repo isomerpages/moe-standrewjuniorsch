@@ -30,5 +30,5 @@ Our partnerships with external agencies include National Environment Agency (NEA
 
 #### Teachers-in-charge  
 
-*   Parvathi Gnanapragasam (parvathi\_gnanapragasam@moe.edu.sg)
-*   Mrs Kieu-Tan Chu Hua Doreen (tan\_chu\_hua@moe.edu.sg)
+*   Mdm Chng Hui Peng
+*   Mdm Ngin Chor Hong

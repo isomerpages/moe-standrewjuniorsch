@@ -43,7 +43,7 @@ PARENTS
 *   Organising&nbsp;fund-raising&nbsp;events (Annual Food &amp; Fun&nbsp;Fairs, Saints Golf Challenge, Wine&nbsp;Dinners) to finance our various workshops, student&nbsp;initiatives,&nbsp;and school&nbsp;programmes  
     
 
-We&nbsp;endeavour&nbsp;to support&nbsp;the school,&nbsp;through our awareness campaigns, newsletters and direct engagements&nbsp;to encourage more&nbsp;parents to join the association to carry on the baton to support our sons during their&nbsp;journey through&nbsp;St Andrew's.&nbsp;Whatever support, time, effort or financial&nbsp;assistance is volunteered, your kindness will touch many&nbsp;in our Saints&nbsp;community&nbsp;- ONE FAMILY UNBROKEN.
+We&nbsp;endeavour&nbsp;to support&nbsp;the school,&nbsp;through our awareness campaigns, newsletters and direct engagements&nbsp;to encourage more&nbsp;parents to join the association to carry on the baton to support our sons during their&nbsp;journey through&nbsp;St Andrew's.&nbsp;Whatever support, time, effort, or financial&nbsp;assistance is volunteered, your kindness will touch many&nbsp;in our Saints&nbsp;community&nbsp;- ONE FAMILY UNBROKEN.
 
 #### Contact Us
 

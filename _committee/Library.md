@@ -25,7 +25,7 @@ P1 to P6 students are required to read an English storybook on Mondays to Wednes
 
   
 
-At appropriate junctures and based on the class readiness, the class English Captain will invite various students to share a book review. This provides them an opportunity to practise public speaking and learn from other students’ reading experiences.
+At appropriate junctures and based on the class readiness, the class English Captain will invite various students to share a book review. This provides them an opportunity to practice public speaking and learn from other students’ reading experiences.
 
   
 
@@ -47,7 +47,7 @@ To encourage and develop in students the passion for reading and to cultivate in
 
 **The Book Bag Programme**
 
-The objective is to promote a culture of reading among the students and to create a platform for them to share their reading experiences and love of reading, based on age appropriate books specially selected by the class English teacher.
+The objective is to promote a culture of reading among the students and to create a platform for them to share their reading experiences and love of reading, based on age-appropriate books specially selected by the class English teacher.
 
   
 
@@ -69,7 +69,7 @@ Competitions are organised every term to encourage the students to read on a var
 
 **6. National Library Board (NLB) Book Buzz and Mass Borrowing** 
 
-The school works closely with NLB to promote the joy of reading in the students. A representative from the NLB will give termly Book Buzz sessions to share stories and information about the National Libraries with the students. NLB will organize Mass Borrowing sessions in the school where books are brought from the National Library and booths are set up for students to borrow after which they will have to return it directly to the National Library. 
+The School works closely with NLB to promote the joy of reading in the students. A representative from the NLB will give termly Book Buzz sessions to share stories and information about the National Libraries with the students. NLB will organize Mass Borrowing sessions in the school where books are brought from the National Library and booths are set up for students to borrow after which they will have to return it directly to the National Library. 
 
 * * *
 

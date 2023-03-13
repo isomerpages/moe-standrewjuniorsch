@@ -6,7 +6,7 @@ third_nav_title: Character Education
 ---
 #### Committee Vision
 
-To equip each Saint with the skills, competencies, values and attitudes to become a Servant Leader
+To equip each Saint with the skills, competencies, values, and attitudes to become a Servant Leader
 
 * * *
 
@@ -18,13 +18,13 @@ The FTGP provides teachers with a platform for the explicit teaching of Social-E
 
 ##### (ii) Zero Period
 
-Zero period is a 30 minute lesson conducted at the beginning of the day for 2 days a week.
+Zero period is a 30 minutes lesson conducted at the beginning of the day for 2 days a week.
 
-The lessons help to develop social emotional competencies in pupils. It also helps to improve teacher-pupil relationship as well as create a greater bonding amongst peers. By building quality relationship we hope to make schooling a pleasant experience for our children so that they look forward to coming to school. A wide variety of activities are carried out during these lessons. Some of which include breakfast sessions, games, goal setting activities, time management tips, reflection writing etc.
+The lessons help to develop social emotional competencies in pupils. It also helps to improve teacher-pupil relationship as well as create a greater bonding amongst peers. By building quality relationship, we hope to make schooling a pleasant experience for our children so that they look forward to coming to school. A wide variety of activities are carried out during these lessons. Some of which include breakfast sessions, games, goal setting activities, time management tips, reflection writing etc.
 
 ##### (iii) Values-in-Action
 
-The aim of Values-in-Action is to instill in our pupils a love for the community they are immediately immersed in, i.e. the school, and the wider St Andrew’s community. As they mature, we aim to make each Saint aware of the Singaporean community as they undertake more outreach programmes to the less fortunate among Singapore society. Values-in-Education is the \`practical action’ component of our Character Development Programme. Even as the children learn about school values and other moral values, they need to practise these and develop life-long attitudes towards service and care for others.
+The aim of Values-in-Action is to instill in our pupils a love for the community they are immediately immersed in, e.g., the school, and the wider St Andrew’s community. As they mature, we aim to make each Saint aware of the Singaporean community as they undertake more outreach programmes to the less fortunate among Singapore society. Values-in-Education is the \`practical action’ component of our Character Development Programme. Even as the children learn about school values and other moral values, they need to practice these, and develop life-long attitudes towards service and care for others.
 
 ##### (iv) Sexuality Education
 

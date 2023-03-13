@@ -4,7 +4,6 @@ permalink: /committee/Educational-Technology/overview/
 description: ""
 third_nav_title: Educational Technology
 ---
-
 #### Committee Vision
 
 An IT-rich learning community of responsible and competent ICT users.
@@ -17,11 +16,11 @@ An IT-rich learning community of responsible and competent ICT users.
 
 The department develops her programmes based on MOE ICT baseline standards and beyond.
 
-Pupils from all levels are exposed to IT lessons on top of integrated ICT lessons within the curriculum. The lessons take place on a weekly basis and apart from learning the skills, boys are tasked with a mini-project at the end of the course where they will be graded based on assessment rubrics. We learned that these mini-projects are extremely important to our boys' socio-intellectual development because it is in itself an authentic situation and promotes problem-solving skills and intellectual character.
+Pupils from all levels are exposed to IT lessons on top of integrated ICT lessons within the curriculum. The lessons take place on a weekly basis and apart from learning the skills, boys are tasked with a mini project at the end of the course where they will be graded based on assessment rubrics. We learned that these mini projects are extremely important to our boys' socio-intellectual development because it is an authentic situation and promotes problem-solving skills and intellectual character.
 
 The scope and depth of the IT lessons are catered specifically to the child's developmental age.
 
-At SAJS, ICT Baseline Standards and Cyber Wellness topics are intregated into our curriculum and topics, click here to learn about our ICT Enrichment Programme:
+At SAJS, ICT Baseline Standards and Cyber Wellness topics are integrated into our curriculum and topics, click here to learn about our ICT Enrichment Programme:
 
 *   [ICT Enrichment Programme: ICT Baseline Standards](https://www.saintandrewsjunior.moe.edu.sg/department/committee/educational-technology/ict-baseline-standards) 
 *   [ICT Enrichment Programme: Cyber Wellness Topics](https://www.saintandrewsjunior.moe.edu.sg/department/committee/educational-technology/cyber-wellness-topics) 

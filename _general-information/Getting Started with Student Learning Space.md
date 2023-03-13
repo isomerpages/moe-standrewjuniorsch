@@ -11,7 +11,7 @@ description: ""
 **SYSTEM REQUIREMENTS**  
   
 
-1. The Singapore Student Learning Space (SLS) is accessible through the internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience). 
+1. The Singapore Student Learning Space (SLS) is accessible through the internet browsers on either Windows PC, Mac, iPad, or Android tablets (with screen size larger than 7 inches for good user experience). 
 
   
 
@@ -29,7 +29,7 @@ description: ""
 
 a. be **8 characters or longer**;
 
-b. contain **at least 1 letter and 1 number**; and
+b. contains **at least 1 letter and 1 number**; and
 
 c. be **changed every 90 days** (you will be directed to the change password page automatically)
 
@@ -49,9 +49,9 @@ c. be **changed every 90 days** (you will be directed to the change password p
 **PASSWORD RESET**  
   
 6\.         If you have forgotten your password, you can reset it via the following methods:  
-            a)    password reset using password reset link,  
-            b)    password reset using security questions, or  
-            c)    call the SLS Helpdesk.  
+            a) password reset using password reset link,  
+            b) password reset using security questions, or  
+            c) call the SLS Helpdesk.  
 
 Password Reset using Password Reset Link  
   

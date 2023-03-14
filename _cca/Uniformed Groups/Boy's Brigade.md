@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-### Boy's Brigade
+### Boys' Brigade
 
 #### Vision
 

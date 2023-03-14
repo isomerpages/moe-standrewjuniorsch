@@ -11,9 +11,9 @@ A saint must always wear his uniform with pride.
 
 *   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 *   The school uniform comprises:
-    1.  Navy blue shorts
-    2.  White shirt with blue school badge embroidered on the left-hand pocket while the nametag must be on the right at the same level as badge
-    3.  Plain white shoes with laces and plain white socks which cover about 4 centimeters above the ankle
+1.       Navy blue shorts
+2.       White shirt with blue school badge embroidered on the left-hand pocket while the nametag must be on the right at the same level as badge
+3.       Plain white shoes with laces and plain white socks which cover about 4 centimeters above the ankle
 *   Clean and tidy school uniform must be worn at all times.
 
 #### PE Attire

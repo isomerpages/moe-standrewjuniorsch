@@ -5,7 +5,7 @@ description: ""
 ---
 ### Booklist
 
-Booklist can be downloaded from the links provided below:
+The 2023 booklists can be downloaded from the links below:
 
  
  [P1 2023 Booklist](/files/GeneralInfo_Booklist2023_P1.pdf)

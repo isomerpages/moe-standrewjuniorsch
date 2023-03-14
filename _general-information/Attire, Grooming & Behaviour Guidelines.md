@@ -18,7 +18,7 @@ A saint must always wear his uniform with pride.
 
 #### PE Attire
 
-*   Only School PE T-shirts and shorts of the standard design are allowed during PE lessons and formal games. PE T-shirts must have the nametags sewn on the right and always be neatly tuck in.
+*   Only School PE T-shirts and shorts of the standard design are allowed during PE lessons and formal games. PE T-shirts must have the nametags sewn on the right and always be neatly tucked in.
 *   Students may come to school in their PE attire on days that they have PE lessons with the exception on Mondays where all students are expected to be in the school uniform at the start of day.
 *   Students are not required to change out of their PE attire after their PE lessons.
 *   CCA T-shirts can only be worn on Fridays
@@ -30,7 +30,7 @@ A saint must always wear his uniform with pride.
 *   Face is to be clean-shaven.
 *   Fancy hairstyle, dyeing and centre parting of hair are not allowed.
 *   Fingernails must be short and clean.
-*   Jewellery fancy colourful watches and items, or tinted spectacles must not be worn to school.
+*   Jewellery, fancy, colourful watches and items, or tinted spectacles must not be worn to school.
 *   In the interest of safety, charms, amulets, and other artefacts must not be worn.
 
 #### Conduct
@@ -87,14 +87,13 @@ A Saint cares for others within the SAJS community. He will not only look after 
 *   No part of their body must be positioned out of the window.
 *   Report any injuries or accidents immediately to driver or assistants.
 *   Obey the instructions of the bus drivers and assistants.
-*   When in doubt, students able to refer to the Bus Policy which can be found on the school website.
 
 ##### (iv) Responsibility on the School Bus
 
-*   Students are to be punctual - Do not keep the driver or schoolmates waiting. Inform the bus driver as soon as possible if the student are not taking the bus to school or home.
-*   Be Courteous. Greet and thank the driver and assistant.
+*   Students are to be punctual - Do not keep the driver or schoolmates waiting. Students are to inform the bus driver as soon as possible if they are not taking the bus to school or home.
+*   Be courteous at all times. Greet and thank the driver and assistant.
 *   Cooperate with the bus captain.
-*   Be gracious and gentle in manners. Speak softly and politely.
+*   Be gracious and gentle. Speak softly and politely.
 *   Use bus facilities in the way they are intended for.
 *   Keep the bus clean.
 *   Use the seat belts whenever they are available.
@@ -103,11 +102,10 @@ A Saint cares for others within the SAJS community. He will not only look after 
 
 ##### (i) Purpose
 
-*   Homework is also a form of formative assessment to provide valuable feedback for learning.
+*   Homework is a key aspect of formative assessment to provide ongoing and valuable feedback for learning. All students should take their homework seriously and complete it with pride
 
 ##### (ii) Guidelines
 
-*   Homework will not be issued before any major event that involves pupils and major public holidays especially those commemorating a special event for a particular race or religion e.g., Chinese New Year, Christmas, Hari Raya, Deepavali, etc.
 *   Homework may be issued for the March, June, September and/or December holidays.
 *   Homework issued will be stated on the class whiteboard. Students are reminded to copy down the homework into their Personal Organiser.
 

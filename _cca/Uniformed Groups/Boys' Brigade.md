@@ -41,7 +41,6 @@ Besides these competitions, there are other events such as BB Cares where boys a
 #### Teachers-in-charge
 
 *   Ms Wendy Foo Siew Li
-*   Mr Sitt Wei Kian 
-    
+*   Mr Sitt Wei Kian    
 *   Mr Lee Kai Chuen Bruce
 *   Mrs Germaine Yap

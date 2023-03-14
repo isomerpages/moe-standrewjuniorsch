@@ -9,4 +9,4 @@ third_nav_title: Mother Tongue Teachers
 |  	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
 | | Ms Vasanthi Sinnathamby<br><br>vasanthi_k_sinnathamby@moe.edu.sg 	|  	|  	| Mdm Shanthi d/o E Ramian<br><br>shanthi_e_ramian@moe.edu.sg 	|
-|	| Ms Karpaga Valli D/OManickam<br><br>karpaga_valli_manikam@moe.edu.sg 	|   	|   	|   	|
+|	| Ms Karpaga Valli D/OManickam<br><br>karpaga_valli_manickam@moe.edu.sg 	|   	|   	|   	|

@@ -12,7 +12,7 @@ description: ""
 || HOD /English<br><br>Mrs Tan Siew Mei<br>tan_siew_mei@moe.edu.sg 	|   	|  	|  	|
 | 	| HOD / Mathematics<br><br>Mrs Pauline Poon<br>quek_pauline@moe.edu.sg 	|   	| 	| Level Head / Mathematics<br><br>Ms Liu Huanjia Tracy<br>liu_huanjia_tracy@moe.edu.sg 	|
 | | HOD / Science & Environment<br><br>Mr Kevin Ng<br>ng_min_keong_kevin@moe.edu.sg 	|   	| | Level Head / Science & Environment<br><br>Mdm Zuraidah Bte Abdul Malik<br>zuraidah_abdul_malik@moe.edu.sg 	|
-| 	| HOD / Mother Tongue<br><br>Ms Lin Jingya<br>lin_jingya@moe.edu.sg  	|   	| 	| Subject Head / Mother Tongue<br><br>Mr Zhang Pu<br>zhang_pu@moe.edu.sg  	
+| 	| HOD / Mother Tongue<br><br>Ms Lin Jingya<br>lin_jingya@moe.edu.sg  	|   	| 	| Subject Head / Chinese Language<br><br>Mr Zhang Pu<br>zhang_pu@moe.edu.sg  	
 | 	| HOD / Educational Technology<br><br>Mr Lee Lin Shen<br>lee_lin_shen@moe.edu.sg 	|   	|	| Subject Head / PE (Covering)<br><br>Mr Edmond Toh<br>toh_boon_yong_edmond@moe.edu.sg	|
 | | HOD / Aesthetics, PE & CCA<br><br>Mr Khairil Anuar<br>khairil_anuar@moe.edu.sg 	|   	| 	| Subject Head / Aesthetics<br><br>Ms Tan Xian-En Kimberly<br>tan_xian-en_kimberly@moe.edu.sg 	|
 | | HOD / Character & Citizenship Education<br><br>Mrs Angela Lim<br>angela_lim@moe.edu.sg 	|   	|  	|  	|

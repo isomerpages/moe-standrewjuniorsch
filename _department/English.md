@@ -29,7 +29,7 @@ Using Kolb’s Experiential Learning Cycle, our language teachers deliver lesson
 
 ##### (i) Drop Everything and Read (DEAR)
 
-On Mondays to Thursdays, P1 to P6 pupils are required to read an English storybook from the time they arrive at their classrooms to 7.20am. He can read any book of his choice during this time. At appropriate junctures, the class EL Captain will invite various pupils to share a book review. This provides them an opportunity to practise public speaking and learn from other pupils’ reading experiences.
+On Mondays to Wednesdays, P1 to P6 pupils are required to read an English storybook from the time they arrive at their classrooms to 7.20am. He can read any book of his choice during this time. At appropriate junctures, the class EL Captain will invite various pupils to share a book review. This provides them an opportunity to practise public speaking and learn from other pupils’ reading experiences.
 
 Through this programme, we hope to cultivate a routine of self-directed and independent reading.
 

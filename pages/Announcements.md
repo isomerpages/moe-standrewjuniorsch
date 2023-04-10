@@ -7,9 +7,9 @@ description: ""
 
 #### Parent Volunteer for P1 (Phase 2B)
 
-St Andrew's Junior School will not be opening the Parent Volunteer scheme for Primary 1 (year 2024) phase 2B registration, please refer to MOE website for other P1 registration phases.
+The Parent Volunteer scheme for Primary 1 (year 2025) under phase 2B registration is open till 30th April 2023.
 
-[2023 P1 Registration Phases (For reference)](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates)
+[Register here](https://form.gov.sg/642e2d92c10937001270b015)
 
 * * *
 

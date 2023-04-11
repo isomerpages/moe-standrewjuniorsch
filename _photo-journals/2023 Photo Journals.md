@@ -9,6 +9,10 @@ Click on the picture for the album.
 
 
 
+#####  Scouts Investiture (24 Feb 2023)
+
+<p><a href="https://photos.app.goo.gl/578TUTUyLQE9rwdv9"><img src="/images/Photo%20Journal%202023/_tim5077.jpg"></a></p>
+
 #####  Total Defence Day Commemoration Week (16 Feb 2023)
 
 <p><a href="https://photos.app.goo.gl/6gN44Ee7LpqiMc4o9"><img src="/images/Photo%20Journal%202023/_tim5842.jpg"></a></p>

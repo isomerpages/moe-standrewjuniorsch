@@ -7,6 +7,10 @@ description: ""
 
 Click on the picture for the album.
 
+#####  International Friendship Day (12 Apr 2023)
+
+<p><a href="https://photos.app.goo.gl/uH9sZxpyvZ9forj48"><img src="/images/Photo%20Journal%202023/ifd%202023.jpg"></a></p>
+
 
 #####  Saints Games Day (10 Mar 2023)
 

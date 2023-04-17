@@ -40,9 +40,9 @@ Click on the picture for the album.
 <p><a href="https://photos.app.goo.gl/xpfv5TTG3NdP8uPJA"><img style="width:25%" src="/images/Photo%20Journal%202022/20221010PAMFEST%20(1).jpeg"></a></p>
 
 
-##### Children's Day Celebrations & Character day (6 October 2022)
+##### Children's Day Celebrations &amp; Character day (6 October 2022)
 
-<p><a href="https://photos.app.goo.gl/gB3CMzxq3eZo2dP56"><img style="width:25%" src="/images/20221006childrendaycelebrationandcharacterday%20(1).jpeg"></a></p>
+<p><a href="https://photos.app.goo.gl/gB3CMzxq3eZo2dP56"><img style="width:25%" src="/images/Photo%20Journal%202022/20221006childrendaycelebrationandcharacterday%20(1).jpeg"></a></p>
 
 
 ##### Scouts Cooking Activity (19 August 2022)
@@ -61,7 +61,7 @@ Click on the picture for the album.
 
 <p><a href="https://photos.app.goo.gl/quefFvs27Cqze9pz6"><img style="width:25%" src="/images/pj603.png"></a></p>
 
-##### Opening of Heritage Gallery & Saints' Learning Festival (14 April 2022)
+##### Opening of Heritage Gallery &amp; Saints' Learning Festival (14 April 2022)
 
 <p><a href="https://photos.app.goo.gl/6cJT7APVrsW5x1cB9"><img style="width:25%" src="/images/pj604.png"></a></p> 
 
@@ -77,7 +77,7 @@ Click on the picture for the album.
 
 <p><a href="https://photos.google.com/share/AF1QipMbJGFXvL9AYhf1a44LK9t3mR4MfT2Uc4i_O6n18nEYTf8NUQ-tmaJNF9wbJlyqvg?key=T2YxdnhOeFRrclp0Z0FpdmdRazZDQVNTNGdCclhn"><img style="width:25%" src="/images/pj607.png"></a></p>
 
-##### Total Defence - Home Photo & Video Competition Winners (1 Mar 2022)
+##### Total Defence - Home Photo &amp; Video Competition Winners (1 Mar 2022)
 
 <p><a href="https://photos.app.goo.gl/DrfKHfBKhgLcPZdX6"><img style="width:25%" src="/images/pj608.png"></a></p>
 
@@ -89,7 +89,7 @@ Click on the picture for the album.
 
 <p><a href="https://photos.app.goo.gl/QLfRrMhriz8K1sAx5"><img style="width:25%" src="/images/pj610.png"></a></p>
 
-##### Chinese New Year Celebrations (31 Jan 2022)
+##### Chinese New Year Celebrations&nbsp;(31 Jan 2022)
 
 <p><a href="https://photos.app.goo.gl/K8DqCdNy8r3aDuJ89"><img style="width:25%" src="/images/pj611.png"></a></p>
 

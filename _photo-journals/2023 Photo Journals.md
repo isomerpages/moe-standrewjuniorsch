@@ -12,6 +12,13 @@ Click on the picture for the album.
 <p><a href="https://photos.app.goo.gl/uH9sZxpyvZ9forj48"><img style="width:25%" src="/images/Photo%20Journal%202023/ifd%202023.jpg"></a></p>
 
 
+#####  Boys Brigade Enrolment (26 Mar 2023)
+
+<p><a href="https://photos.app.goo.gl/Vh3sN9KesHWYiCVX7"><img style="width:25%" src="/images/Photo%20Journal%202023/bb%20enrollment%202023.JPG"></a></p>
+
+
+
+
 #####  Saints Games Day (10 Mar 2023)
 
 <p><a href="https://photos.app.goo.gl/BcjowCFzCgagz3jSA"><img style="width:25%" src="/images/Photo%20Journal%202023/games%20day%202023.jpg"></a></p>

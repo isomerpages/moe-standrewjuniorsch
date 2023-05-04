@@ -5,6 +5,18 @@ description: ""
 ---
 ### Announcements
 
+
+
+#### St Andrew’s Junior School presents: “Keep the Flame” & Band Performance
+
+We warmly invite you and your family to watch an original SAJS musical production “Keep the Flame” and a performance by our Saints Symphonia.
+
+[For more information click here](/files/st%20andrew’s%20junior%20school%20presents%20keep%20the%20flame%20&%20band%20performance.pdf)
+
+
+
+
+
 #### Parent Volunteer for P1 (Phase 2B)
 
 The Parent Volunteer scheme for Primary 1 (year 2025) under phase 2B registration is open till 30th April 2023.

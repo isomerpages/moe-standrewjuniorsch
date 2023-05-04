@@ -12,7 +12,7 @@ description: ""
 We warmly invite you and your family to watch an original SAJS musical production “Keep the Flame” and a performance by our Saints Symphonia.
 
 [For more information click here](/files/st%20andrew’s%20junior%20school%20presents%20keep%20the%20flame%20&amp;%20band%20performance.pdf)
-<br>[Click here for Sales of Tickets](https://www.eventbrite.com/e/keep-the-flame-tickets-624111483247)
+**<br>[Click here for Sales of Tickets](https://www.eventbrite.com/e/keep-the-flame-tickets-624111483247)**
 
 
 

@@ -24,6 +24,11 @@ Click on the picture for the album.
 <p><a href="https://photos.app.goo.gl/BcjowCFzCgagz3jSA"><img style="width:25%" src="/images/Photo%20Journal%202023/games%20day%202023.jpg"></a></p>
 
 
+#####  Prefects Commendation (7 Mar 2023)
+
+<p><a href="https://photos.app.goo.gl/s7cwW1NMgL4hPXos5"><img style="width:25%" src="/images/Photo%20Journal%202023/prefect%20commendation%20.JPG"></a></p>
+
+
 
 #####  Scouts Investiture (24 Feb 2023)
 

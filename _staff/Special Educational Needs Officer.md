@@ -17,5 +17,9 @@ The 3 types of SEN Officers are as follows:
 |---	|---	|---	|---	|---	|
 | 	| Senior School Counsellor<br><br>Mr Dennis Tan Lai Hoe<br>dennis_tan_lai_hoe@moe.edu.sg 	|  	| 	| School Counsellor<br><br>Mrs Vivienne John<br>vivienne_voon_siew_ken@moe.edu.sg 	|
 | 	|Lead SEN Officer<br><br>Ms Nur Afni<br>nur_afni_mohamed_amin@moe.edu.sg 	|   	| 	| 	|
+
+=======
+| 	| SEN Officer<br><br>Ms Nur Afni<br>nur_afni_mohamed_amin@moe.edu.sg 	|   	| 	| SEN Officer<br><br>Mdm Tan Soh Kwan<br>tan_soh_kwan@moe.edu.sg 	|
+
 | 	|SEN Officer<br><br>Ms Gayathri Naidu<br>gayathri_naidu_r_ganasan@moe.edu.sg 	|   	| 	| SEN Officer<br><br>Mdm Tan Soh Kwan<br>tan_soh_kwan@moe.edu.sg 	|
 | 	|SEN Officer<br><br>Ms Wee Huili Nathalie<br>wee_huili_nathalie@moe.edu.sg 	|   	| 	| SEN Officer<br><br>Mr Chow Cheng Zhong<br>chow_cheng_zhong_xavier@moe.edu.sg 	|

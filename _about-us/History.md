@@ -5,7 +5,7 @@ description: ""
 ---
 ### History
 
-The beginning of St Andrew's School, perhaps, could be traced to the 1850s when two Anglicans, namely, Mr Sim Quee and Mr Tye Kirn, set up a private institution in Chin Chew Street.
+The beginning of St Andrew's School, perhaps, could be traced to the 1850s when two Anglicans, namely, Mr Sim Quee and Mr Tye Kim, set up a private institution in Chin Chew Street.
 
 #### Founding of St Andrew's School
 
@@ -27,11 +27,11 @@ In 1872, the Colonial Chaplain, Canon J A Beccles, successfully applied to the g
 
 #### The School at Victoria Street
 
-<img src="/images/hist1.png" style="width:103px;height:140px;margin-left:15px;" align = "right"> Meanwhile, the School expanded in size and shifted to Victoria Street. Hose did a great deal for the School. One of his first acts was to invite the Rev William Henry Gomes from Borneo to act as School Superintendent. Under the wise and capable guidance of Gomes from 1872 to 1902, the School prospered and grew.
+<img src="/images/hist1.png" style="width:103px;height:140px;margin-left:15px;" align="right"> Meanwhile, the School expanded in size and shifted to Victoria Street. Hose did a great deal for the School. One of his first acts was to invite the Rev William Henry Gomes from Borneo to act as School Superintendent. Under the wise and capable guidance of Gomes from 1872 to 1902, the School prospered and grew.
 
 #### The School at Stamford Road
 
-<img src="/images/hist2.png" style="width:293px;height:200px;margin-left:15px;" align = "right">
+<img src="/images/hist2.png" style="width:293px;height:200px;margin-left:15px;" align="right">
 
 Even as early as 1873, both Gomes and Hose knew that the School's growth would be hampered by poor accommodation. Their hard work was rewarded when the Government gave the School a 4-acre piece of land on the then Government Hill with a frontage on Stamford Road.
 
@@ -53,7 +53,7 @@ In 1955, the Junior School was divided into Junior I and Junior II headed by Mr 
 
 Mr Quahe Beng Chuan succeeded Mr Goh on 1 September 1964 and upon his retirement in 1981, Mr Chin Wai Fah, another Old Boy, became the Principal of the school. In January 1985, Mr Tan Cheng Lim succeeded Mr Chin as Principal of Junior School.
 
-<img src="/images/hist3.png" style="width:103px;height:140px;margin-left:15px;" align = "right"> As the pupil population grew, the need for more classrooms became more pressing. Another floor was added so that the 2-storey building became a 3-storey school in 1952. In the same year, the Lim Teck Kin Tower was also added to the School.
+<img src="/images/hist3.png" style="width:103px;height:140px;margin-left:15px;" align="right"> As the pupil population grew, the need for more classrooms became more pressing. Another floor was added so that the 2-storey building became a 3-storey school in 1952. In the same year, the Lim Teck Kin Tower was also added to the School.
 
 Adams continued to serve the School after the war, leading the School from glory to glory. In 1956, he retired and Mr Tan Lye Whatt succeeded him.
 
@@ -63,7 +63,7 @@ It was during the Wardenship of Lye Whatt that the Church of Ascension and the S
 
 #### Community Service
 
-<img src="/images/hist4.png" style="width:103px;height:140px;margin-left:15px;" align = "right"> Lye Huat retired in 1963 and his Senior Assistant, Mr Francis Thomas, succeeded him. His love for community service was second to none.
+<img src="/images/hist4.png" style="width:103px;height:140px;margin-left:15px;" align="right"> Lye Huat retired in 1963 and his Senior Assistant, Mr Francis Thomas, succeeded him. His love for community service was second to none.
 
 The Clinic Club, which later evolved into the Social Work Group, bears testimony of Thomas's genuine feeling for the needy and the less fortunate. Thomas retired on 14 March 1974 and was succeeded by Mr C D Jensen whose stay was a short one.
 
@@ -75,13 +75,13 @@ The School continued to grow and would have suffered a split at the seams in 197
 
 #### New School Buildings
 
-With the continuing growth of the School, space could have been a problem again by the late 1980s had nothing been done. Fortunately for the School, Potong Pasir was being developed at that time and a 4.19-hectare site across the Kallang River was earmarked for education. 
+With the continuing growth of the School, space could have been a problem again by the late 1980s had nothing been done. Fortunately for the School, Potong Pasir was being developed at that time and a 4.19-hectare site across the Kallang River was earmarked for education.&nbsp;
 
-With the Lord's prompting, the nudging of the School Supervisor, Mr David Chelliah, and the blessings of Bishop Chiu Ban It, the School went in faith in 1981 to the Director of Education to "book" that site for the re-siting of the Senior Wing. It included plans to upgrade subsequently the present Woodsville site with full facilities for a growing and vibrant Junior School. 
+With the Lord's prompting, the nudging of the School Supervisor, Mr David Chelliah, and the blessings of Bishop Chiu Ban It, the School went in faith in 1981 to the Director of Education to "book" that site for the re-siting of the Senior Wing. It included plans to upgrade subsequently the present Woodsville site with full facilities for a growing and vibrant Junior School.&nbsp;
 
-Physical work on the new Secondary School and the Chapel-cum-Counselling Centre started on 3 November 1984. In response to the proposal by the then Minister for Education, the Secondary School commenced on a building extension programme to enable it to go single session. This was fulfilled in January 1994. 
+Physical work on the new Secondary School and the Chapel-cum-Counselling Centre started on 3 November 1984. In response to the proposal by the then Minister for Education, the Secondary School commenced on a building extension programme to enable it to go single session. This was fulfilled in January 1994.&nbsp;
 
-Mrs Priscilla Krempl took over the headship of the Secondary School from Mr Harry Tan in 1994. In the case of the Junior School, after the unfortunate demise of Mr Tan Cheng Lim, Mr Phua Eng Hee became the Principal of the Junior School in 1987. In 1990, he was succeeded by Ms Jacqueline Oehlers who in turn was succeeded by Miss Poh Chwee Sian in mid-December 1997. 
+Mrs Priscilla Krempl took over the headship of the Secondary School from Mr Harry Tan in 1994. In the case of the Junior School, after the unfortunate demise of Mr Tan Cheng Lim, Mr Phua Eng Hee became the Principal of the Junior School in 1987. In 1990, he was succeeded by Ms Jacqueline Oehlers who in turn was succeeded by Miss Poh Chwee Sian in mid-December 1997.&nbsp;
 
 Meanwhile, the Junior School at Woodsville suffered from noise pollution due to the expansion of the Pan-Island Expressway. A decision was made to relocate the Junior School from its Woodsville site to the school field nearer Potong Pasir. The new building was completed in January 1996. It was officially opened by the then Minister for Education, Rear-Admiral Teo Chee Hean, on 6 September 1997.
 

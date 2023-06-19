@@ -4,7 +4,6 @@ permalink: /committee/Educational-Technology/overview/
 description: ""
 third_nav_title: Educational Technology
 ---
-
 #### Committee Vision
 
 A community of self-directed, connected and future-ready digital learners.
@@ -66,11 +65,10 @@ Further Readings:
 
 ·         [Things Every Parent Can Do to Keep Kids Cyber-Safe: A tech dads special](https://www.schoolbag.edu.sg/story/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special)
 
-(hyperlink: [https://www.schoolbag.edu.sg/story/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special](https://www.schoolbag.edu.sg/story/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special)) 
 
 ·         [Are you struggling with your child’s excessive device use?](https://www.schoolbag.edu.sg/story/are-you-struggling-with-your-child-s-excessive-device-use?utm_source=newsletter+sb+article&utm_medium=newsletter&utm_campaign=may+2023+edm)
 
-(hyperlink: https://www.schoolbag.edu.sg/story/are-you-struggling-with-your-child-s-excessive-device-use?utm\_source=newsletter+sb+article&utm\_medium=newsletter&utm\_campaign=may+2023+edm) 
+ 
 
 ##### (ii) Eye rest and well-being
 

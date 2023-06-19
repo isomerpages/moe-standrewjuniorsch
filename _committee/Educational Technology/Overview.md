@@ -81,5 +81,3 @@ Parents can actively contribute to their child's eye health and overall well-bei
 As part of its commitment to nurturing future-ready learners, the Ministry of Education has implemented the Singapore Student Learning Space (SLS), an online learning platform that offers a wide range of curriculum-aligned resources and learning tools to empower students in their educational journey.
 
 [Click here](https://staging.dnfzur975cvj1.amplifyapp.com/general-information/student-learning-space/) to get started with SLS.
-
-(hyperlink: https://staging.dnfzur975cvj1.amplifyapp.com/general-information/student-learning-space/)

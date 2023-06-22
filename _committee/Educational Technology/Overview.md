@@ -45,7 +45,7 @@ There are numerous Family Safety tools available. Here are some of them:
 
 Delve into the following resources, curated for your exploration:
 
-·         [Connecting with your child about screen time](https://www.opal2.moe.edu.sg/csl/file/file/download?guid=1ca71dc8-2d34-4e1b-ad26-db36e831e20d&hash_sha1=255547bb)
+·         [Connecting with your child about screen time](/files/connecting%20with%20you%20child%20about%20screen%20time.pdf)
 
 ·         [How do I ensure my child uses their devices responsibly](https://www.opal2.moe.edu.sg/csl/file/file/download?guid=f2871a11-e00e-45a1-9b2f-21d7e06e7749&hash_sha1=9b2daee1)
 

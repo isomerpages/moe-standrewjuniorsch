@@ -49,17 +49,17 @@ Delve into the following resources, curated for your exploration:
 
 ·         [How do I ensure my child uses their devices responsibly](/files/how%20do%20i%20ensure%20my%20child%20uses%20their%20devices%20responsibly.pdf)
 
-·         [Tips for talking to your child about device usage](https://www.opal2.moe.edu.sg/csl/file/file/download?guid=2ab93571-ae3f-40bb-b143-a0244a670dfc&hash_sha1=9c589402)
+·         [Tips for talking to your child about device usage](/files/tips%20for%20talking%20to%20your%20child%20about%20device%20usage.pdf)
 
-·         [What can you say before giving your child their first device](https://www.opal2.moe.edu.sg/csl/file/file/download?guid=556c76bc-c793-4002-b78e-453a40e6377f&hash_sha1=0945915d)
+·         [What can you say before giving your child their first device](/files/what%20can%20you%20say%20before%20giving%20your%20child%20their%20first%20device.pdf)
 
-·         [How You Can Play An Active Role In Keeping Your Child Safe Online](https://www.opal2.moe.edu.sg/csl/file/file/download?guid=02643330-4e0c-4c41-8ba5-e5a97fc21f0d&hash_sha1=9b7b4ba1)
+·         [How You Can Play An Active Role In Keeping Your Child Safe Online](/files/how%20you%20can%20play%20an%20active%20role%20in%20keeping%20your%20child%20safe%20online.pdf)
 
-·         [Tips To Keep Your Child Safe Online](https://www.opal2.moe.edu.sg/csl/file/file/download?guid=c4c3fa22-6661-4e9e-bc90-f10f18018ea9&hash_sha1=060aa4d6)
+·         [Tips To Keep Your Child Safe Online](/files/tips%20to%20keep%20your%20child%20safe%20online.pdf)
 
-·         [5 Tips to Ensure Your Child Stays Safe & Happy Online](https://www.opal2.moe.edu.sg/csl/file/file/download?guid=4457a3d1-9322-4186-90d6-279f1278cf50&hash_sha1=24f24375)
+·         [[5 Tips to Ensure Your Child Stays Safe & Happy Online](/files/5%20tips%20to%20ensure%20your%20child%20stays%20safe%20&%20happy%20online.pdf)]
 
-·         [The Age Of Digital Parenting](https://www.opal2.moe.edu.sg/csl/file/file/download?guid=d6dd7721-daab-4760-9dbe-83a2e9f2e19c&hash_sha1=b847bcd0)
+·         [The Age Of Digital Parenting](/files/the%20age%20of%20digital%20parenting.pdf)
 
 Further Readings:
 

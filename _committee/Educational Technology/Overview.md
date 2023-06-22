@@ -47,7 +47,7 @@ Delve into the following resources, curated for your exploration:
 
 ·         [Connecting with your child about screen time](/files/connecting%20with%20you%20child%20about%20screen%20time.pdf)
 
-·         [How do I ensure my child uses their devices responsibly](https://www.opal2.moe.edu.sg/csl/file/file/download?guid=f2871a11-e00e-45a1-9b2f-21d7e06e7749&hash_sha1=9b2daee1)
+·         [How do I ensure my child uses their devices responsibly](/files/how%20do%20i%20ensure%20my%20child%20uses%20their%20devices%20responsibly.pdf)
 
 ·         [Tips for talking to your child about device usage](https://www.opal2.moe.edu.sg/csl/file/file/download?guid=2ab93571-ae3f-40bb-b143-a0244a670dfc&hash_sha1=9c589402)
 

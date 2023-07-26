@@ -7,6 +7,13 @@ description: ""
 
 Click on the picture for the album.
 
+
+#####  Musical (30 Jun 2023)
+
+<p><a href="https://photos.app.goo.gl/1shVyvfMXntyy5Z48"><img style="width:25%" src="/images/Photo%20Journal%202023/musical%202023.jpg"></a></p>
+
+
+
 #####  International Friendship Day (12 Apr 2023)
 
 <p><a href="https://photos.app.goo.gl/uH9sZxpyvZ9forj48"><img style="width:25%" src="/images/Photo%20Journal%202023/ifd%202023.jpg"></a></p>

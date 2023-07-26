@@ -8,6 +8,11 @@ description: ""
 Click on the picture for the album.
 
 
+#####  Mother Tongue Fortnight (10 Jul 2023)
+
+<p><a href="https://photos.app.goo.gl/jWgBt8svHpvDWPDVA"><img style="width:25%" src="/images/Photo%20Journal%202023/mt%20fortnight%202023.jpg"></a></p>
+
+
 #####  Musical (30 Jun 2023)
 
 <p><a href="https://photos.app.goo.gl/1shVyvfMXntyy5Z48"><img style="width:25%" src="/images/Photo%20Journal%202023/musical%202023.jpg"></a></p>

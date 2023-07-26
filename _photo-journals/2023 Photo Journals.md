@@ -10,6 +10,11 @@ Click on the picture for the album.
 
 #####  Mother Tongue Fortnight (10 Jul 2023)
 
+<p><a href="https://photos.app.goo.gl/rhx7qAbxHRNN6DLy6"><img style="width:25%" src="/images/Photo%20Journal%202023/racial%20harmony%20day%202023.jpg"></a></p>
+
+
+#####  Mother Tongue Fortnight (10 Jul 2023)
+
 <p><a href="https://photos.app.goo.gl/jWgBt8svHpvDWPDVA"><img style="width:25%" src="/images/Photo%20Journal%202023/mt%20fortnight%202023.jpg"></a></p>
 
 

@@ -26,4 +26,5 @@ To apply, please refer to the Service Requirements and Application Procedure bel
 
 **How to get there?**
 
-
+* Nearest MRT: Potong Pasir MRT (NE10 line) – 10 minutes walking distance
+* Bus number: Nearest bus stops are B61089 (along Potong Pasir Ave 3) and B60089 (along Jalan Toa Payoh) – both bus stops are within 5 minutes walking distance

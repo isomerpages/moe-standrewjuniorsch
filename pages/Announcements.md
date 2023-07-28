@@ -12,9 +12,9 @@ description: ""
 
 
 
-#### Parent Volunteer for P1 (Phase 2B)
+#### School Bus Advertisement
 
-The Parent Volunteer scheme for Primary 1 (year 2025) under phase 2B registration is open till 30th April 2023.
+X
 
 [Register here](https://form.gov.sg/642e2d92c10937001270b015)
 

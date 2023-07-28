@@ -5,4 +5,4 @@ description: ""
 ---
 # School Bus Advertisement
 
-The School Bus Advertisement will be made available on 1 August 2023.
+The School Bus Advertisement will be made available on 1 August 2023, 10am.

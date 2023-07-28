@@ -7,7 +7,7 @@ description: ""
 
 #### School Bus Advertisement
 
-Our school's call for proposal for our School Bus will begin on 1 August 2023 and closes on 11 August 2023. Please click on the click below to read more from 1 August 2023, onwards.
+Our school's call for proposal for our School Bus will begin on 1 August 2023 and closes on 11 August 2023.
 
 [Read more](https://go.gov.sg/sajs-school-bus-advertisement)
 

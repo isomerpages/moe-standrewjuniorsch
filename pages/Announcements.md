@@ -5,24 +5,11 @@ description: ""
 ---
 ### Announcements
 
+#### School Bus Advertisement
 
+Our school's call for proposal for our School Bus will begin on 1 August 2023, 10am and closes on 11 August 2023, 5pm.
 
-#### St Andrew’s Junior School presents: “Keep the Flame” &amp; Band Performance
-
-We warmly invite you and your family to watch an original SAJS musical production “Keep the Flame” and a performance by our Saints Symphonia.
-
-[For more information click here](/files/st%20andrew’s%20junior%20school%20presents%20keep%20the%20flame%20&amp;%20band%20performance.pdf)
-**<br>[Click here for Sales of Tickets](https://www.eventbrite.com/e/keep-the-flame-tickets-624111483247)**
-
-
-
-
-
-#### Parent Volunteer for P1 (Phase 2B)
-
-The Parent Volunteer scheme for Primary 1 (year 2025) under phase 2B registration is open till 30th April 2023.
-
-[Register here](https://form.gov.sg/642e2d92c10937001270b015)
+[Read more](https://go.gov.sg/sajs-school-bus-advertisement)
 
 * * *
 

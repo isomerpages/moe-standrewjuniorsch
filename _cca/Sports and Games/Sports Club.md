@@ -11,13 +11,16 @@ The Saints’ Sports Club (SSC) aims to provide all members with various opportu
 Committed to developing and nurturing talents at a young age, the SSC welcomes all Saints interested in a modular-based sport CCA as well as various opportunities to represent the school in selected sports tournaments.
 
   
+### Schedule
 
-#### Teachers-in-charge
+Training for CCA on Friday: 7:30am to 9:30am
 
-*   Mr Zhang Zishao Samuel 
-    
-*   Mr Shahriman Mostapa 
-    
-*   Mr Teo Weilun
-*   Ms Wendy Ong
-    
+### Teachers-in-charge
+
+Mr Samuel Zhang Zishao
+
+Mr Shahriman Mostapa
+
+Mrs Sharon Cheng
+
+Ms Ng Jun Qing

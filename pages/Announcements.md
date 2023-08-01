@@ -9,7 +9,7 @@ description: ""
 
 Our school's call for proposal for our School Bus will begin on 1 August 2023, 10am and closes on 11 August 2023, 5pm.
 
-[Read more](https://go.gov.sg/sajs-school-bus-advertisement)
+[Read more](https://www.saintandrewsjunior.moe.edu.sg/announcements-school-bus-advertisement/)
 
 * * *
 

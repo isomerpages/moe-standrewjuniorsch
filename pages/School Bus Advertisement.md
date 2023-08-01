@@ -23,6 +23,7 @@ To apply, please refer to the Service Requirements and Application Procedure bel
 * Contact No: 62884303
 * Email: sajs@moe.edu.sg
 * Contact Person: Ms Loh Jasmine
+* Proposals can be submitted from Monday to Friday (not including Public Holidays) from 8am to 5pm before the closing date
 
 **How to get there?**
 

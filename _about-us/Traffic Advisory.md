@@ -33,7 +33,8 @@ Our School is only accessible from *Potong Pasir Ave 3* (in the direction toward
 
 Do expect delays during our morning peak arrival period between 7.00am to 7.30am.
 
-During wet weather, there will be additional delay due to an increased amount of traffic. Please continue to make a conscious effort to cooperate and keep traffic flowing at a safe and efficient pace.
+During wet weather, there will be additional delay due to an increased amount of traffic. 
+ Please continue to make a conscious effort to cooperate and keep traffic flowing at a safe and efficient pace.
 
 (Refer to the map in the following page.)
 

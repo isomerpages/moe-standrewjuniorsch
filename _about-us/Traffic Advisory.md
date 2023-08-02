@@ -67,7 +67,7 @@ Upon entering School, please keep to the right of the orange rubber cones which 
 
 • Do not let your son alight elsewhere <u>before</u> the Drop-Off Zone.
 
-![](/images/Traffic%20advisory/traffic%204.PNG)
+<img style="width:65%" src="/images/Traffic%20advisory/traffic%204.PNG"><p></p>
 
 • Do not let your son alight on the wrong side of the road.
 

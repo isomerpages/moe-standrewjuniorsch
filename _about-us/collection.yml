@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Traffic Advisory.md
       - Mission, Vision and Values.md
       - Philosophy.md
       - History.md
@@ -10,3 +9,4 @@ collections:
       - School Song and Hymn.md
       - Contact Us.md
       - Getting to SAJS.md
+      - Traffic Advisory.md

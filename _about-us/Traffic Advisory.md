@@ -33,7 +33,7 @@ Our School is only accessible from *Potong Pasir Ave 3* (in the direction toward
 
 Do expect delays during our morning peak arrival period between 7.00am to 7.30am.
 
-***During wet weather, there will be additional delay due to an increased amount of traffic.*** <br>
+***During <u>wet weather</u>, there will be <u>additional delay</u> due to an increased amount of traffic.*** <br>
  Please continue to make a conscious effort to cooperate and keep traffic flowing at a safe and efficient pace.
 
 (Refer to the map in the following page.)
@@ -54,3 +54,15 @@ Upon entering School, please keep to the right of the orange rubber cones which 
 • **(IMPORTANT)** Please ensure that your son/ward has **completely move away safely** from your vehicle before driving off towards the exit.
 
 
+![](/images/Traffic%20advisory/traffic%203.PNG)
+
+
+
+### DON’T<br>
+• Do not cut queue or overtake cars queuing to enter school.
+
+• Do not speed <u>within school premises</u> even when the lane is clear.
+
+• Do not drive off when your son has yet to alight from your car safely.
+
+• Do not let your son alight elsewhere before the Drop-Off Zone.

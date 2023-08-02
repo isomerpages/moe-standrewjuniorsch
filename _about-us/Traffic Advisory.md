@@ -67,12 +67,12 @@ Upon entering School, please keep to the right of the orange rubber cones which 
 
 • Do not let your son alight elsewhere <u>before</u> the Drop-Off Zone.
 
-![](/images/Traffic%20advisory/traffic%204.PNG)
+<img style="width:60%" src="/images/Traffic%20advisory/traffic%204.PNG"><p></p>
 
 • Do not let your son alight on the wrong side of the road.
 
 
-![](/images/Traffic%20advisory/traffic%205.PNG)
+<img style="width:40%" src="/images/Traffic%20advisory/traffic%205.PNG"><p></p>
 
 
 • Drivers are <b>strongly discouraged from alighting</b> from the car to remove school bags from the car boot.
@@ -95,4 +95,4 @@ There is an alternative way to reach School by parking at nearby Public Car Park
 Please also find the various public car parks available near our School vicinity for your reference and consideration.
 
 
-![](/images/Traffic%20advisory/traffic%207.PNG)
+<img style="width:65%" src="/images/Traffic%20advisory/traffic%207.PNG"><p></p>

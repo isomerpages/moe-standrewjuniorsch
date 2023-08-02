@@ -29,7 +29,7 @@ Parents who wish to visit our General Office are required to register at our Gua
 
 Arriving in School by Car
 
-Our School is only accessible from Potong Pasir Ave 3 (in the direction towards Potong Pasir Ave 1). Please keep to the left lane along Meyappa Chettiar Road towards Potong Pasir Ave 3 after turning in from Upper Serangoon Road. Please join the car queue, if any to enter school.
+Our School is only accessible from *Potong Pasir Ave 3* (in the direction towards Potong Pasir Ave 1). Please keep to the left lane along *Meyappa Chettiar Road* towards *Potong Pasir Ave 3* after turning in from *Upper Serangoon Road*. Please join the car queue, if any to enter school.
 
 Do expect delays during our morning peak arrival period between 7.00am to 7.30am.
 

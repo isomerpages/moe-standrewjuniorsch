@@ -46,8 +46,10 @@ Upon entering School, please keep to the right of the orange rubber cones which 
 
 
 
-DO
-• Please move forward safely to close up any gap with the car in-front in the queue as well as the Drop-Off Zone.
-• Please help us manage traffic flow by ensuring that your son/ward is ready to alight from the car with his bags.
+### DO
+• Please **move forward safely** to close up any gap with the car in-front in the queue as well as the Drop-Off Zone.
+
+• Please help us manage traffic flow by ensuring that *your son/ward **is ready to alight** from the car with his bags.*
+
 • (IMPORTANT) Please ensure that your son/ward has completely move away safely from your vehicle before driving off towards the exit.
 Drop

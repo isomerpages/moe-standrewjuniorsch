@@ -51,5 +51,5 @@ Upon entering School, please keep to the right of the orange rubber cones which 
 
 • Please help us manage traffic flow by ensuring that *your son/ward **is ready to alight** from the car with his bags.*
 
-• (IMPORTANT) Please ensure that your son/ward has completely move away safely from your vehicle before driving off towards the exit.
+• **(IMPORTANT)** Please ensure that your son/ward has **completely move away safely** from your vehicle before driving off towards the exit.
 Drop

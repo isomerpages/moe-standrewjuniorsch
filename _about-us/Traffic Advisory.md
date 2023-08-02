@@ -63,6 +63,6 @@ Upon entering School, please keep to the right of the orange rubber cones which 
 
 • Do not speed <u>within school premises</u> even when the lane is clear.
 
-• Do not drive off when your son has yet to alight from your car safely.
+• Do not drive off <u>when</u> your son <b>has yet</b> to alight from your car safely.
 
-• Do not let your son alight elsewhere before the Drop-Off Zone.
+• Do not let your son alight elsewhere <u>before</u> the Drop-Off Zone.

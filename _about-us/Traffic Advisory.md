@@ -66,3 +66,15 @@ Upon entering School, please keep to the right of the orange rubber cones which 
 • Do not drive off <u>when</u> your son <b>has yet</b> to alight from your car safely.
 
 • Do not let your son alight elsewhere <u>before</u> the Drop-Off Zone.
+
+![](/images/Traffic%20advisory/traffic%204.PNG)
+
+• Do not let your son alight on the wrong side of the road.
+
+
+![](/images/Traffic%20advisory/traffic%205.PNG)
+
+
+• Drivers are <b>strongly discouraged from alighting</b> from the car to remove school bags from the car boot.
+
+![](/images/Traffic%20advisory/traffic%206.PNG)

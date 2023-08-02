@@ -78,3 +78,18 @@ Upon entering School, please keep to the right of the orange rubber cones which 
 • Drivers are <b>strongly discouraged from alighting</b> from the car to remove school bags from the car boot.
 
 ![](/images/Traffic%20advisory/traffic%206.PNG)
+
+
+Appointment/Ad-hoc Visit to School
+
+If you have an appointment or are parking and walking into the Campus to meet or pick up your son/charges, please
+
+* i. Park at a nearby Public Carpark if you are driving. There is no parking in School.
+* ii. Approach our Guard Post near Potong Pasir Ave 3 to register for a sticker (per entry) to gain access to the General Office only.
+
+
+Park and Walk (Alternate way to avoid congestion)
+
+There is an alternative way to reach School by parking at nearby Public Car Parks and walk with your son along the housing blocks to School via our Side Gate using the pedestrian crossing shown on the map below.
+
+Please also find the various public car parks available near our School vicinity for your reference and consideration.

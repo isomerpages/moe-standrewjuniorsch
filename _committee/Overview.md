@@ -6,7 +6,7 @@ description: ""
 Please click on the link below to view the committee:  
   
 
-*   [Character & Citizenship Education](../committee/Character-Education/overview/)
-*   [Student Management](../committee/student-management/)
-*   [Educational Technology](../committee/Educational-Technology/overview/)
-*   [Library](../committee/Library/)
+*   [Character & Citizenship Education](../Character-Education/overview/)
+*   [Student Management](../student-management/)
+*   [Educational Technology](../Educational-Technology/overview/)
+*   [Library](../Library/)

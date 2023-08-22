@@ -18,4 +18,4 @@ Please click on the link below to visit our partners:
     
 *   [St Andrew's Alumni](http://www.saints.org.sg/)  
     
-*   [St Andrew's Parents-Teachers Association](https://staging.dnfzur975cvj1.amplifyapp.com/general-information/SAPTA/overview/)
+*   [St Andrew's Parents-Teachers Association](https://sapta.sg/)

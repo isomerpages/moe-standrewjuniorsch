@@ -1,0 +1,10 @@
+collections:
+  old-pages:
+    output: true
+    order:
+      - SAPTA/Saints Mums Club.md
+      - SAPTA/Junior Saints Mum.md
+      - SAPTA/Dads Coffee Club.md
+      - SAPTA/SAPTA Cares.md
+      - SAPTA/Overview.md
+      - SAPTA/.keep

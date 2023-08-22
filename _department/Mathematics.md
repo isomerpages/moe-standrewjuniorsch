@@ -45,7 +45,7 @@ Acknowledge your child's effort beyond his achievements so that he will be encou
 
 ##### (ii) Help your child to focus on the process of learning and to strategize his effort
 
-Take time with your child to look at the working and not just the final answer of a sum. It is possible that there are a variety of methods that can be used to solve a problem. Identify common key words and vocabulary which would help the child restate the problem.
+Take time with your child to look at the working and not just the final answer of a sum. It is possible that there are a&nbsp;variety of methods&nbsp;that can be used to solve a problem. Identify common key words and vocabulary which would help the child restate the problem.
 
 ##### (iii) Check for reasonableness of answers
 
@@ -54,6 +54,10 @@ Make a conscious effort to train your child to check his work especially if he h
 
 #### Contact Us
 
-Mrs Pauline Poon ( HOD / Mathematics )
-<br>quek\_pauline@moe.edu.sg
+Ms Liu Huanjia Tracy ( Level Head / Mathematics )
+<br>liu_huanjia_tracy@moe.edu.sg
+<br>6288 4303
+
+Mrs Sharon Cheng Shimin​ ( Level Head / Mathematics )
+<br>sharon_cheng_shi_min@moe.edu.sg
 <br>6288 4303

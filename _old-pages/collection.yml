@@ -2,5 +2,6 @@ collections:
   old-pages:
     output: true
     order:
+      - SAPTA/SAPTA Cares.md
       - SAPTA/Overview.md
       - SAPTA/.keep

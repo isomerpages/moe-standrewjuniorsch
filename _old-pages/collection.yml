@@ -1,4 +1,5 @@
 collections:
   old-pages:
     output: true
-    order: []
+    order:
+      - SAPTA/.keep

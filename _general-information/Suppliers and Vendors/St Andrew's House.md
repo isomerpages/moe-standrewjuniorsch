@@ -10,8 +10,8 @@ third_nav_title: Suppliers and Vendors
 
 Address:  3 Francis Thomas Drive  
 Singapore 359341
-<br>6288 1782
-<br>6287 2991
+<br>Tel: 6288 1782
+<br>Tel: 6287 2991
 
 Operating Hours: 12noon to 7pm
 

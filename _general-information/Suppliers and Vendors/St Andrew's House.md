@@ -10,9 +10,9 @@ third_nav_title: Suppliers and Vendors
 
 Address:  3 Francis Thomas Drive  
 Singapore 359341
-<br> 6288 1782  
-<br> 6287 2991
+<br>Tel: 6288 1782
+<br>Tel: 6287 2991
 
 Operating Hours: 12noon to 7pm
 
-  [St Andrew's House Registration Form](/files/SAH%20Registration%20Form.pdf)
+[St Andrew's House Registration Form](/files/sah%20registration%20form%202024.pdf)

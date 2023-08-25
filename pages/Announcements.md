@@ -5,9 +5,9 @@ description: ""
 ---
 ### Announcements
 
-#### School Bus Advertisement
+#### Daily School Bus Operator for 2024 – 2025: 
 
-Our school's call for proposal for our School Bus will begin on 1 August 2023, 10am and closes on 11 August 2023, 5pm.
+Awarded to RS Transport Services
 
 [Read more](https://www.saintandrewsjunior.moe.edu.sg/announcements-school-bus-advertisement/)
 

@@ -58,6 +58,6 @@ Ms Liu Huanjia Tracy ( Level Head / Mathematics )
 <br>liu_huanjia_tracy@moe.edu.sg
 <br>6288 4303
 
-Mrs Sharon Cheng Shimin​ ( Level Head / Mathematics )
+Mrs Sharon Ee​ ( Level Head / Mathematics )
 <br>sharon_cheng_shi_min@moe.edu.sg
 <br>6288 4303

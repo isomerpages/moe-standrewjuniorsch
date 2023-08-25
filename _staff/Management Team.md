@@ -11,7 +11,7 @@ description: ""
 | 	| Vice-Principal<br><br>Mrs Karen Ivicz<br>karen_lim@schools.gov.sg ||| Vice-Principal<br><br>Mdm Caroline Hew<br>caroline_hew@schools.gov.sg 
 | 	| Vice-Principal (Administration)<br><br>Mr Boey Weng Yue<br>boey_weng_yue@schools.gov.sg 	|
 || HOD /English<br><br>Mrs Tan Siew Mei<br>tan_siew_mei@moe.edu.sg 	|   	|  	|  	|
- | 	| Level Head / Mathematics<br><br>Ms Liu Huanjia Tracy<br>liu_huanjia_tracy@moe.edu.sg 	|   	|  	|Level Head / Mathematics<br><br>Mrs Sharon Cheng Shimin<br>sharon_cheng_shi_min@moe.edu.sg 
+ | 	| Level Head / Mathematics<br><br>Ms Liu Huanjia Tracy<br>liu_huanjia_tracy@moe.edu.sg 	|   	|  	|Level Head / Mathematics<br><br>Mrs Sharon Ee<br>sharon_cheng_shi_min@moe.edu.sg 
 | | HOD / Science &amp; Environment<br><br>Mr Kevin Ng<br>ng_min_keong_kevin@moe.edu.sg 	|   	| | Level Head / Science &amp; Environment<br><br>Mdm Zuraidah Bte Abdul Malik<br>zuraidah_abdul_malik@moe.edu.sg 	|
 | 	| HOD / Mother Tongue<br><br>Ms Lin Jingya<br>lin_jingya@moe.edu.sg  	|   	| 	| Subject Head / Chinese Language<br><br>Mr Zhang Pu<br>zhang_pu@moe.edu.sg  	
 | 	| HOD / Educational Technology<br><br>Mr Lee Lin Shen<br>lee_lin_shen@moe.edu.sg 	|   	|	| Subject Head / PE (Covering)<br><br>Mr Edmond Toh<br>toh_boon_yong_edmond@moe.edu.sg	|

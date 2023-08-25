@@ -8,6 +8,12 @@ description: ""
 Click on the picture for the album.
 
 
+#####  National Day Celebrations (09 Aug 2023)
+
+<p><a href="https://photos.app.goo.gl/ynw4mURF7VZB6sMx6"><img style="width:25%" src="/images/Photo%20Journal%202023/ndp%202023%201.jpg"></a></p>
+
+
+
 #####  Racial Hermony Day (19 Jul 2023)
 
 <p><a href="https://photos.app.goo.gl/rhx7qAbxHRNN6DLy6"><img style="width:25%" src="/images/Photo%20Journal%202023/racial%20harmony%20day%202023.jpg"></a></p>

@@ -5,6 +5,8 @@ description: School Bus Advertisement
 ---
 # Daily School Bus Operator for 2024 – 2025: 
    
+Awarded to RS Transport Services
+
 Contact: Mr Richard Tan 6251 0281
 
 Bus fares for daily school bus services, based on Not to Exceed Price, applicable from 1 January 2024 to 31 December 2025:

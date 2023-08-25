@@ -138,8 +138,7 @@ Bus fares for daily school bus services, based on Not to Exceed Price, applicabl
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.5pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-SG" style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Arial;color:black;mso-bidi-language:TA">245</span><span style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Arial;color:black;mso-ansi-language:EN-US;mso-bidi-language:
-  TA"></span></p></td></tr></tbody></table>
-*Note: Fares are charged by month.
+  TA"></span></p></td></tr></tbody></table>*Note: Fares are charged by month.
 
 Bus Services for after school activities (i.e. sending students home from school after supplementary lessons / enrichment programmes and Co-Curricular Activities) departing before 4pm:
 

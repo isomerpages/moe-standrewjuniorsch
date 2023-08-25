@@ -9,7 +9,7 @@ description: ""
 
 Awarded to RS Transport Services
 
-[Read more](https://www.saintandrewsjunior.moe.edu.sg/announcements-school-bus-advertisement/)
+[Read more](https://www.saintandrewsjunior.moe.edu.sg/announcements-daily-school-bus-operator-for-2024-2025)
 
 * * *
 

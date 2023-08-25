@@ -5,9 +5,7 @@ description: ""
 ---
 ### Announcements
 
-#### Daily School Bus Operator for 2024 – 2025: 
-
-Awarded to RS Transport Services
+#### Daily School Bus Operator for 2024 – 2025: Awarded to RS Transport Services
 
 [Read more](https://www.saintandrewsjunior.moe.edu.sg/announcements-daily-school-bus-operator-for-2024-2025)
 

@@ -6,7 +6,7 @@ third_nav_title: Suppliers and Vendors
 ---
 ### St Andrew's House
 
-*Insert video here*
+
 
 Address:  3 Francis Thomas Drive  
 Singapore 359341

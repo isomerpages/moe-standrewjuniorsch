@@ -8,7 +8,7 @@ description: School Bus Advertisement
 Contact: Mr Richard Tan 6251 0281
 
 [Click here for Registration Form](https://go.gov.sg/sajs-bus-operator-registration) (inclusive of Terms &amp; Conditions)
-<br>Please complete the registration fillable form and email to: sajs@rstransport.com.sg
+<br>Please complete the fillable registration form and email to: sajs@rstransport.com.sg
 
 Bus fares for daily school bus services, based on Not to Exceed Price, applicable from 1 January 2024 to 31 December 2025:
 

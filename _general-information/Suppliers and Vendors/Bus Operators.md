@@ -10,9 +10,7 @@ Mr Richard Tan
 <br>6251 0281
 
   
-[Click here to RS Transport Registration Form](/files/RS%20Transport%20Bus%20Transport%20Registration%20Form.pdf)
-
-[Click here to RS Transport Terms &amp; Condition with FAQs](/files/RS%20Transport%20Bus%20t&amp;c.pdf)
+[Click here for Registration Form](https://go.gov.sg/sajs-bus-operator-registration)&nbsp;(inclusive of Terms &amp; Conditions)
 
 **Maximum Bus Fare Prices Schedule for Bus Services by Distance**
 Notes:

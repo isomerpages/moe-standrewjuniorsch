@@ -8,7 +8,7 @@ description: ""
 The 2024 booklists can be downloaded from the links below:
 
  
- [P1 2024 Booklist](/files/GeneralInfo_Booklist2024_P1.pdf)
+ [P1 2024 Booklist](/files/booklist2024_p1.pdf)
  
  
  ____

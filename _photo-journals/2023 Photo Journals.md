@@ -21,6 +21,12 @@ Click on the picture for the album.
 
 
 
+
+#####  PAM Festival  (18 Sept 2023)
+
+<p><a href="https://photos.app.goo.gl/YPjK7fCLYz4L4SME7"><img src="/images/Photo%20Journal%202023/pam%20cover%202023.jpg" style="width:25%"></a></p>
+
+
 #####  National Day Celebrations (09 Aug 2023)
 
 <p><a href="https://photos.app.goo.gl/ynw4mURF7VZB6sMx6"><img src="/images/Photo%20Journal%202023/ndp%202023%201.jpg" style="width:25%"></a></p>

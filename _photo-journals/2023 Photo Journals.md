@@ -2,6 +2,7 @@
 title: 2023 Photo Journals
 permalink: /photo-journals/2023/
 description: ""
+variant: markdown
 ---
 ### 2023 Photo Journals
 
@@ -12,6 +13,12 @@ Click on the picture for the album.
 #####  Primary 1 Orientation (30 OCT 2023)
 
 <p><a href="https://photos.app.goo.gl/eQntDb4BvUMAKEb59"><img src="/images/Photo%20Journal%202023/p1%20orientation%202023.jpg" style="width:25%"></a></p>
+
+
+#####  Children's Day Celebration / Character Day (05 Oct 2023)
+
+<p><a href="https://photos.app.goo.gl/Ui9Gu3tFshnfQtpF9"><img src="/images/Photo%20Journal%202023/cover%20image%20chara%20day.jpg" style="width:25%"></a></p>
+
 
 
 #####  National Day Celebrations (09 Aug 2023)

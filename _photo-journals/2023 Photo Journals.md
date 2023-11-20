@@ -10,7 +10,14 @@ Click on the picture for the album.
 
 
 
-#####  Primary 1 Orientation (30 OCT 2023)
+#####  Primary 6 Graduation Party (15 Nov 2023)
+
+<p><a href="https://photos.app.goo.gl/eQntDb4BvUMAKEb59"><img src="/images/Photo%20Journal%202023/P6_Grad_Party_2023_copy.jpg" style="width:25%"></a></p>
+
+
+
+
+#####  Primary 1 Orientation (30 Oct 2023)
 
 <p><a href="https://photos.app.goo.gl/eQntDb4BvUMAKEb59"><img src="/images/Photo%20Journal%202023/p1%20orientation%202023.jpg" style="width:25%"></a></p>
 

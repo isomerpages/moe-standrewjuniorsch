@@ -3,6 +3,7 @@ title: Rugby
 permalink: /cca/Sports-and-Games/rugby/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 ### Rugby
 
@@ -18,7 +19,7 @@ We hope you enjoy looking through our past achievements and our snapshots of som
 
 *   Mondays: 2 - 4 pm
 *   Wednesdays: 2 - 4pm
-*   Saturdays: 9 - 11am
+
 
 #### Teachers-in-charge
 

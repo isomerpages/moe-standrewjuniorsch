@@ -2,8 +2,17 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
 ### Announcements
+
+#### Primary 1 Orientation slides
+
+[Read more](https://www.saintandrewsjunior.moe.edu.sg/letters-and-updates/p1orientation2024/)
+
+
+
+
 
 #### Daily School Bus Operator for 2024 – 2025: Awarded to RS Transport Services
 

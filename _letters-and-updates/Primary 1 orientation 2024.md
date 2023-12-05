@@ -4,6 +4,11 @@ permalink: /letters-and-updates/p1orientation2024/
 variant: markdown
 description: ""
 ---
+Dear Parent/Guardian,
+
+2024 P1 Orientation slides are available for viewing:
+
+
 [P1 Orientation Slides](/files/P1_Orientation_Slides_for_2023_30_Oct__P_s_briefing.pdf)
 
 

@@ -2,6 +2,7 @@ collections:
   letters-and-updates:
     output: true
     order:
+      - Primary 1 orientation 2024.md
       - Teaching Award Nominations.md
       - 2023 Meet the Parents Slides.md
       - Overview.md

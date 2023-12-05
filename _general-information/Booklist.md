@@ -2,15 +2,24 @@
 title: Booklist
 permalink: /general-information/booklist/
 description: ""
+variant: markdown
 ---
 ### Booklist
 
 The 2024 booklists can be downloaded from the links below:
 
  
-[P1 2024 Booklist](/files/booklist2024_p1%20(1).pdf)
+[P1 2024 Booklist](/files/P1_2024.pdf)
+
+[P2 2024 Booklist](/files/P2_2024.pdf)
+
+[P3 2024 Booklist](/files/P3_2024.pdf)
+
+[P4 2024 Booklist](/files/P4_2024.pdf)
+
+
  
- 
+
  ____
 
 The 2023 booklists can be downloaded from the links below:

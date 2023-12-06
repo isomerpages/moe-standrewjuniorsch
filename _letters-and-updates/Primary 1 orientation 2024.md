@@ -10,6 +10,7 @@ Dear Parent/Guardian,
 
 
 * [P1 Orientation Slides](/files/P1_Orientation_Slides_for_2023_30_Oct__P_s_briefing.pdf)
+* [First day of school for P1](/files/First_Day_of_School_for_P1_2024_2.pdf)
  
 
 * [Getting to St Andrew's Junior School Safely](/files/Traffic_Advisory___Getting_to_St_Andrews_Junior_School_Safely_2024.pdf)

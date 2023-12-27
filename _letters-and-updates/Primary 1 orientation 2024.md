@@ -27,3 +27,4 @@ Dear Parent/Guardian,
 * [Packing of Bag P1 Orientation (Video)](https://drive.google.com/file/d/1c6GaM2gJKJoqSxVMndUH21TQhcMV1DjY/view?usp=sharing)
 
 * [Preparation for P1 (Video)](https://drive.google.com/file/d/12m7RYNIfRBq0gITCjNyVQPy8mrC0HrQU/view?usp=sharing)
+* [Youth Preventive Dental Service | Primary School Orientation](https://www.youtube.com/watch?v=7-FEntl6mJg)

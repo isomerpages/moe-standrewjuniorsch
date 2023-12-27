@@ -11,7 +11,7 @@ Click on the picture for the album.
 
 
 
-#####  Primary 6 Graduation Party (15 Nov 2023)
+#####  Saints' Awards Ceremony (17 Nov 2023)
 
 <p><a href="https://photos.app.goo.gl/Yf1SGxqCjDciUFBV9"><img src="/images/Photo%20Journal%202023/SAD_2023_cover.jpg" style="width:25%"></a></p>
 

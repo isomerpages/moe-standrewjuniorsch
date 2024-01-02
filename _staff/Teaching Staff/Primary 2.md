@@ -15,5 +15,5 @@ variant: markdown
 |	| P2 Empathy<br>(Form Teacher)<br><br>Mrs Esther Morales<br>morales_esther_auriel@moe.edu.sg	|   	|	| P2 Empathy<br>(Form Teacher)<br><br>Mdm Tong Xin<br>tong_xin@moe.edu.sg|
 |	| P2 Wonder<br>(Form Teacher)<br><br>Mdm Poh Ser Lee<br>poh_ser_lee@moe.edu.sg	|   	|  	|  P2 Wonder<br>(Form Teacher)<br><br> Mrs Irene Lim - Koh Hui Ling<br>koh_hui_ling_a@moe.edu.sg	|
 | 	| P2 Integrity<br>(Form Teacher)<br><br>Mdm Chong Kwee Chin Valentina<br>chong_kwee_chin@moe.edu.sg|  	|	| P2 Integrity <br>(Form Teacher)<br><br>Mrs Yogeshwari Manikandan Yap<br>kannadasan_yogeswari@moe.edu.sg	|
-| 	| P2 Self-Discipline<br>(Form Teacher)<br><br>Mrs Esther Morales<br>morales_esther_auriel@moe.edu.sg<br> 	|   	|	| P2 Self-Discipline <br>(Form Teacher)<br><br>Mr Zhang Pu<br>zhang_pu@moe.edu.sg 	|
-| 	| P2 Excellence<br>(Form Teacher)<br><br>Mdm Alexia Quek<br>quek_yi_lin_alexia@moe.edu.sg	|   	|  	| P2 Excellence<br>(Form Teacher)<br><br>Mdm Sofia Bte Othman<br>sofia_othman@moe.edu.sg
+| 	| P2 Self-Discipline<br>(Form Teacher)<br><br>Mdm Halimatus Saadiah Binte Roslan<br>halimatus_saadiah_roslan@moe.edu.sg<br> 	|   	|	| P2 Self-Discipline <br>(Form Teacher)<br><br>Mdm Lim Li suan<br>lim_li_suan@moe.edu.sg 	|
+| 	| P2 Excellence<br>(Form Teacher)<br><br>Mdm Sellammal D/O Varadarajalu<br>sellammal_varadarajalu@moe.edu.sg	|   	|  	| P2 Excellence<br>(Form Teacher)<br><br>Mdm Lin Yan Qing<br>lin_yan_qing@moe.edu.

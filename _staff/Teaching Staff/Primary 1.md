@@ -10,7 +10,7 @@ variant: markdown
 |  	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
 |  	| P1 Thanksgiving<br>(Form Teacher)<br><br> Mdm Lew Puay Ling<br>lew_puay_ling@moe.edu.sg	|   	|| P1 Thanksgiving<br>(Form Teacher)<br><br>  Mdm Tin Shu Yee<br>tin_shu_yee@moe.edu.sg	|
-| 	| P1 Resilience<br>(Form Teacher)<br><br>Mrs Joanne Yak<br>joanne_yak@moe.edu.sg 	|   	| 	| P1 Resilience<br>(Form Teacher)<br><br>Mrs Loh-Goh Seow Ting<br>goh_seow_ting@moe.edu.sg 	|
+| 	| P1 Resilience<br>(Form Teacher)<br><br>Mdm Sandy Low<br>sandy_low_giat_hong@moe.edu.sg 	|   	| 	| P1 Resilience<br>(Form Teacher)<br><br>Mrs Loh-Goh Seow Ting<br>goh_seow_ting@moe.edu.sg 	|
 | 	| P1 Unity <br>(Form Teacher)<br><br>Mdm Lew Puay Ling<br>lew_puay_ling@moe.edu.sg 	|   	|	| P1 Unity <br>(Form Teacher)<br><br>Ms Norashikin Binte Suhadi<br>norashikin_suhadi@moe.edu.sg  	|
 | 	| P1 Empathy<br>(Form Teacher)<br><br>Mrs&nbsp;Catherine Yew<br>hwong_choi_foong_catherine@moe.edu.sg<br> 	|   	|| P1 Empathy<br>(Form Teacher)<br><br>Mdm Tong Xin<br>tong_xin@moe.edu.sg 	|
 | 	| P1 Wonder<br>(Form Teacher)<br><br>Mrs Irene Lim - Koh Hui Ling<br>koh_hui_ling_a@moe.edu.sg 	|   	| | P1 Wonder<br>(Form Teacher)<br><br>Mdm Poh Ser Lee<br>poh_ser_lee@moe.edu.sg 	|

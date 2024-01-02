@@ -3,12 +3,13 @@ title: Primary 1
 permalink: /staff/Teaching-Staff/primary1/
 description: ""
 third_nav_title: Teaching Staff
+variant: markdown
 ---
 ### Primary 1
 
 |  	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-|  	| P1 Thanksgiving<br>(Form Teacher)<br><br>Mdm&nbsp;Revathi D/O Selvaraja<br>revathi_selvaraja@moe.edu.sg 	|   	|| P1 Thanksgiving<br>(Form Teacher)<br><br>Mdm Wu Shixian<br>wu_shixian@moe.edu.sg	|
+|  	| P1 Thanksgiving<br>(Form Teacher)<br><br> Mdm Lew Puay Ling<br>lew_puay_ling@moe.edu.sg	|   	|| P1 Thanksgiving<br>(Form Teacher)<br><br>  Mdm Tin Shu Yee<br>tin_shu_yee@moe.edu.sg	|
 | 	| P1 Resilience<br>(Form Teacher)<br><br>Mrs Joanne Yak<br>joanne_yak@moe.edu.sg 	|   	| 	| P1 Resilience<br>(Form Teacher)<br><br>Mrs Loh-Goh Seow Ting<br>goh_seow_ting@moe.edu.sg 	|
 | 	| P1 Unity <br>(Form Teacher)<br><br>Mdm Lew Puay Ling<br>lew_puay_ling@moe.edu.sg 	|   	|	| P1 Unity <br>(Form Teacher)<br><br>Ms Norashikin Binte Suhadi<br>norashikin_suhadi@moe.edu.sg  	|
 | 	| P1 Empathy<br>(Form Teacher)<br><br>Mrs&nbsp;Catherine Yew<br>hwong_choi_foong_catherine@moe.edu.sg<br> 	|   	|| P1 Empathy<br>(Form Teacher)<br><br>Mdm Tong Xin<br>tong_xin@moe.edu.sg 	|

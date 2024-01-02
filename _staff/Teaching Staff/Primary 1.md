@@ -11,9 +11,9 @@ variant: markdown
 |---	|---	|---	|---	|---	|
 |  	| P1 Thanksgiving<br>(Form Teacher)<br><br> Mdm Lew Puay Ling<br>lew_puay_ling@moe.edu.sg	|   	|| P1 Thanksgiving<br>(Form Teacher)<br><br>  Mdm Tin Shu Yee<br>tin_shu_yee@moe.edu.sg	|
 | 	| P1 Resilience<br>(Form Teacher)<br><br>Mdm Sandy Low<br>sandy_low_giat_hong@moe.edu.sg 	|   	| 	| P1 Resilience<br>(Form Teacher)<br><br>Mdm Sofia Bte Othman<br>sofia_othman@moe.edu.sg	|
-| 	| P1 Unity <br>(Form Teacher)<br><br>Mdm Lew Puay Ling<br>lew_puay_ling@moe.edu.sg 	|   	|	| P1 Unity <br>(Form Teacher)<br><br>Ms Norashikin Binte Suhadi<br>norashikin_suhadi@moe.edu.sg  	|
-| 	| P1 Empathy<br>(Form Teacher)<br><br>Mrs&nbsp;Catherine Yew<br>hwong_choi_foong_catherine@moe.edu.sg<br> 	|   	|| P1 Empathy<br>(Form Teacher)<br><br>Mdm Tong Xin<br>tong_xin@moe.edu.sg 	|
-| 	| P1 Wonder<br>(Form Teacher)<br><br>Mrs Irene Lim - Koh Hui Ling<br>koh_hui_ling_a@moe.edu.sg 	|   	| | P1 Wonder<br>(Form Teacher)<br><br>Mdm Poh Ser Lee<br>poh_ser_lee@moe.edu.sg 	|
+| 	| P1 Unity <br>(Form Teacher)<br><br> Mr Jimmy Lim<br>lim_boon_heng_jimmy@moe.edu.sg 	|   	|	| P1 Unity <br>(Form Teacher)<br><br> Ms Nicolette Yap<br>nicolette\_yap\_jee\_lian@moe.edu.sg 	|
+| 	| P1 Empathy<br>(Form Teacher)<br><br> Ms Vasanthi D/O K Sinnathamby<br>vasanthi_k_sinnathamby@moe.edu.sg|   	|| P1 Empathy<br>(Form Teacher)<br><br>Mdm Alexia Quek<br>quek\_yi\_lin\_alexia@moe.edu.sg	|
+| 	| P1 Wonder<br>(Form Teacher)<br><br>Ms Amanda Lye Su Wen<br>amanda_lye_su_wen@moe.edu.sg 	|   	| | P1 Wonder<br>(Form Teacher)<br><br>Mdm Poh Ser Lee<br>poh_ser_lee@moe.edu.sg 	|
 | 	| P1 Integrity<br>(Form Teacher)<br><br>Mdm Chong Kwee Chin Valentina<br>chong_kwee_chin@moe.edu.sg	|   	|	| P1 Integrity<br>(Form Teacher)<br><br>Mr Jimmy Lim<br>lim_boon_heng_jimmy@moe.edu.sg	|
 |	| P1 Self-Discipline<br>(Form Teacher)<br><br>Mdm Halimatus Saadiah Binte Roslan<br>halimatus_saadiah_roslan@moe.edu.sg 	|    	| 	| P1 Self-Discipline<br>(Form Teacher)<br><br>Ms Ng Jun Qing<br>ng_jun_qing@moe.edu.sg 	 	|
 | | P1 Excellence<br>(Form Teacher)<br><br>Mr Quek Ye Shaun<br>quek_ye_shaun@moe.edu.sg 	|   	| 	| P1 Excellence <br>(Form Teacher)<br><br>Mdm Lin Yan Qing<br>lin_yan_qing@moe.edu.sg 	|

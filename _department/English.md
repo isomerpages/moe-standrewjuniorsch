@@ -2,6 +2,7 @@
 title: English
 permalink: /department/english/
 description: ""
+variant: markdown
 ---
 #### Department Vision
 
@@ -119,17 +120,17 @@ Some recommendations from our teachers
 
 #### SAJS Productions
 
-We are delighted to share that _Hearts and Voices: Volume 3_ is available now!
+We are delighted to share that&nbsp;_Hearts and Voices: Volume 3_&nbsp;is available now!
 
-You can download the online version of Hearts and Voices: Volume 1 [here] Upload PDF here, Volume 2 [here] Upload PDF here and Volume 3 [here] Upload PDF here.
+You can download the online version of Hearts and Voices: Volume 1&nbsp;[here] Upload PDF here, Volume 2&nbsp;[here] Upload PDF here&nbsp;and Volume 3&nbsp;[here] Upload PDF here.
 
 * * *
 
 #### Contact Us
 
-Mrs Tan Siew Mei ( HOD / English )
-<br> tan\_siew\_mei@moe.edu.sg
-<br> 6288 4303
+Ms Victoria Koay ( Level Head / English )
+<br> victoria_koay@moe.edu.sg
+
 
 * * *
 

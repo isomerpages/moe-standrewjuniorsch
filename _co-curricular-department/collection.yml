@@ -1,5 +1,5 @@
 collections:
-  committee:
+  co-curricular-department:
     output: true
     order:
       - Overview.md

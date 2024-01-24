@@ -1,0 +1,29 @@
+collections:
+  general-information:
+    output: true
+    order:
+      - Parents Portal.md
+      - Parents Gateway.md
+      - Academic Grades.md
+      - Admission/P1 Registration.md
+      - Admission/School Transfer.md
+      - Admission/.keep
+      - Application for Leave of Absence.md
+      - Attire, Grooming & Behaviour Guidelines.md
+      - Booklist.md
+      - NAPFA Standards.md
+      - Partners.md
+      - School Hours, Terms & Holidays.md
+      - Suppliers and Vendors/Overview.md
+      - Suppliers and Vendors/Bookshop.md
+      - Suppliers and Vendors/Bus Operators.md
+      - Suppliers and Vendors/Shoes & Uniform Suppliers.md
+      - Suppliers and Vendors/St Andrew's House.md
+      - Suppliers and Vendors/Dental Clinic.md
+      - Suppliers and Vendors/School Library.md
+      - Suppliers and Vendors/ICT Service Centre.md
+      - Suppliers and Vendors/.keep
+      - Supporting Singaporean Students.md
+      - Student Insurance.md
+      - Getting Started with Student Learning Space.md
+      - Useful Links.md

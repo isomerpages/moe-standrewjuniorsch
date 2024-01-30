@@ -16,4 +16,3 @@ variant: markdown
 
 **[Download now](/files/2023%20School%20Term%20Calendar%20-%20Semester%201.pdf)**
 
--

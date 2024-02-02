@@ -2,8 +2,13 @@
 title: Attire, Grooming & Behaviour Guidelines
 permalink: /general-information/attire-grooming-and-behavior-guidelines/
 description: ""
+variant: markdown
 ---
 ### School Uniform
+
+
+<p><a href="website_url"><img src="/images/Chinese_Knot.png" style="width:40%" align="right"></a></p>
+
 
 A saint must always wear his uniform with pride.
 

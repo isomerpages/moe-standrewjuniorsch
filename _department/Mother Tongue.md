@@ -2,6 +2,7 @@
 title: Mother Tongue
 permalink: /department/mother-tongue/
 description: ""
+variant: markdown
 ---
 #### Programmes
 
@@ -30,8 +31,6 @@ At Primary 5 and Primary 6 levels, teachers will focus on enhancing all linguist
 
 #### Some Useful Websites:
 
-*   [XueLe 学乐 (欢乐伙伴)](https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html)
-*   [youth.zaobao.com](https://youth.zaobao.com/friday/tu.html)
 *   [ezhishi.net](https://www.ezhishi.net/)
 
 * * *
@@ -42,21 +41,21 @@ At Primary 5 and Primary 6 levels, teachers will focus on enhancing all linguist
 
 Help your child to adopt the right learning attitude towards Mother Tongue. Praise his effort, not just his achievement.
 
-##### (ii) Monitoring 
+##### (ii) Monitoring&nbsp;
 
-Ensure your child follows the class training plan (promptness in preparation, homework, revision).
+Ensure your child's punctuality in preparation, homework, and revision to enhance their academic success and organizational skills.
 
-##### (iii) Reading 
+##### (iii) Reading&nbsp;
 
 Encourage your child to read (books, magazines, papers), watch and listen to the news daily.
 
-##### (iii) Speaking 
+##### (iii) Speaking&nbsp;
 
-Ensure your child gets as much support in his learning as possible (at least one adult: parent/ sibling/ grandparent to speak to him in his MT and help him at home).
+Ensure your child gets as much support in his learning as possible&nbsp;(at least one adult: parent/ sibling/ grandparent to speak to him in his MT and&nbsp;help him at home).
 
 * * *
 
 #### Contact Us
 
-Ms Lin Jingya ( HOD  / Mother Tongue)  <br> lin_jingya@moe.edu.sg
+Ms Lin Jingya ( HOD&nbsp; / Mother Tongue)  <br>&nbsp;lin_jingya@moe.edu.sg
 <br> 6288 4303

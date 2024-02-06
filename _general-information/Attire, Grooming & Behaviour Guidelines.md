@@ -7,7 +7,6 @@ variant: markdown
 ### School Uniform
 
 
-<p><a href="https://forms.moe.edu.sg/forms/v82PMo"><img src="/images/Chinese_Knot.png" style="width:40%" align="right"></a></p>
 
 
 A saint must always wear his uniform with pride.

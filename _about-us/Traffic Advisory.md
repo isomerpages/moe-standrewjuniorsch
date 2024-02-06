@@ -2,6 +2,7 @@
 title: Traffic Advisory
 permalink: /about-us/traffic-advisory/
 description: ""
+variant: markdown
 ---
 ### Getting to St. Andrew’s Junior School Safely
  
@@ -31,7 +32,7 @@ Parents who wish to visit our General Office are required to register at our Gua
 
 Our School is only accessible from *Potong Pasir Ave 3* (in the direction towards Potong Pasir Ave 1). Please keep to the left lane along *Meyappa Chettiar Road* towards *Potong Pasir Ave 3* after turning in from *Upper Serangoon Road*. Please join the car queue, if any to enter school.
 
-Do expect delays during our morning peak arrival period between 7.00am to 7.30am.
+Do expect delays during our morning peak arrival period between 7.00am to 7.20am.
 
 ***During <u>wet weather</u>, there will be <u>additional delay</u> due to an increased amount of traffic.*** <br>
  Please continue to make a conscious effort to cooperate and keep traffic flowing at a safe and efficient pace.
@@ -49,7 +50,7 @@ Upon entering School, please keep to the right of the orange rubber cones which 
 ### DO
 • Please **move forward safely** to close up any gap with the car in-front in the queue as well as the Drop-Off Zone.
 
-• Please help us manage traffic flow by ensuring that *your son/ward **is ready to alight** from the car with his bags.*
+• Please help us manage traffic flow by ensuring that <a style="color:red;">*your son/ward <b>is ready to alight</b> from the car with his bags.*</a>
 
 • **(IMPORTANT)** Please ensure that your son/ward has **completely move away safely** from your vehicle before driving off towards the exit.
 

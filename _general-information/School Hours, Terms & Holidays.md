@@ -8,7 +8,7 @@ variant: tiptap
 2023 and end on Friday, 17 November 2023. This takes into account 40 weeks
 of curriculum time for the school year. Please refer to the school calendar
 below.</p>
-<p></p><a class="isomer-image-wrapper" href="https://forms.moe.edu.sg/forms/oay8Eo"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Chinese_Knot.png"></a>
+<p></p>
 <p></p>
 <h4>School Terms for 2024</h4>
 <table>

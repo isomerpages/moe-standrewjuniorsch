@@ -4,7 +4,7 @@ permalink: /photo-journals/2024/
 variant: tiptap
 description: ""
 ---
-<h2><strong>2023 Photo Journals</strong></h2>
+<h2><strong>2024 Photo Journals</strong></h2>
 <p>Click on the picture for the album.</p>
 <p></p>
 <p><strong>Total Defence Day (14 Feb 2924)</strong>

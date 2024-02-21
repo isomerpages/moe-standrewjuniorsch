@@ -4,8 +4,13 @@ permalink: /photo-journals/2024/
 variant: tiptap
 description: ""
 ---
-<h2><strong>2023 Photo Journals</strong></h2>
+<h2><strong>2024 Photo Journals</strong></h2>
 <p>Click on the picture for the album.</p>
+<p><strong>Prefect's Commendation (20 Feb 2024)</strong>
+</p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://photos.app.goo.gl/9hBmAH9VN44Ln3B16"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Photo journal 2024/Prefect_s_comm_2024.jpg"></a>
+<p></p>
 <p></p>
 <p><strong>Total Defence Day (14 Feb 2924)</strong>
 </p>

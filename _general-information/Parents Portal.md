@@ -40,15 +40,9 @@ variant: tiptap
 <img style="width:85%" height="auto" width="100%" src="/images/pp4.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/pp5.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://forms.gle/pG8N1Hu3vc626iWB9"><img style="width:85%" height="auto" width="100%" src="/images/pp5.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/pp6.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://forms.gle/pG8N1Hu3vc626iWB9"><img style="width:85%" height="auto" width="100%" src="/images/pp6.png"></a>
 </td>
 </tr>
 <tr>

@@ -6,6 +6,14 @@ description: ""
 ---
 <h2><strong>2024 Photo Journals</strong></h2>
 <p>Click on the picture for the album.</p>
+<p></p>
+<p></p>
+<p><strong>Saints Games day (8 Mar 2024)</strong>
+</p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://photos.app.goo.gl/x7pE5UDTN1J7gGzi6"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Photo journal 2024/saints_games_day_2024_cover_.jpg"></a>
+<p></p>
+<p></p>
 <p><strong>Prefect's Commendation (20 Feb 2024)</strong>
 </p>
 <p></p>

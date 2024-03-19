@@ -22,7 +22,7 @@ description: ""
 <p></p>
 <p><strong>Total Defence Day (14 Feb 2924)</strong>
 </p>
-<p></p><a class="isomer-image-wrapper" href="https://photos.app.goo.gl/ebcMjMSL5wfsGnfH8"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Photo journal 2024/TDD_cover_photo_2024.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://photos.app.goo.gl/JbmPfcnKxpLUqFCe6"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Photo journal 2024/TDD_cover_photo_2024.jpg"></a>
 <p></p>
 <p></p>
 <p></p>

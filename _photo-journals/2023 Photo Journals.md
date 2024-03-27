@@ -1,6 +1,6 @@
 ---
 title: 2023 Photo Journals
-permalink: /photo-journals/2023/
+permalink: /removethistextphoto-journals/2023/
 description: ""
 variant: markdown
 ---

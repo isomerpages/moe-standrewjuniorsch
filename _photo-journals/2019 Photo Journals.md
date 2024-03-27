@@ -1,7 +1,8 @@
 ---
 title: 2019 Photo Journals
-permalink: /photo-journals/2019/
+permalink: /removethistextphoto-journals/2019/
 description: ""
+variant: tiptap
 ---
 ### 2019 Photo Journals
 
@@ -31,5 +32,5 @@ Click on the picture for the album.
 | <a href="https://photos.app.goo.gl/Mg3Vko6LZnEkh2Ua7"><img style="width:99%" src="/images/pj338.png"></a> 	| Chinese New Year Celebration Activities<br>(P5 and P6 Quiz)<br><br>24 Jan 2019 	|  	| <a href="https://photos.app.goo.gl/KkaF2TfuMsp59oQz9"><img style="width:99%" src="/images/pj339.png"></a> 	| Chinese New Year Celebration Activities<br>(Recess Booths)<br><br>28 Jan 2019 	|
 | <a href="https://photos.app.goo.gl/f6bqtLYQEtJDktZb6"><img style="width:99%" src="/images/pj340.png"></a> 	| P2 and P3 Mentoring Programme<br><br>23 Jan 2019 	|  	| <a href="https://photos.app.goo.gl/QqLvtz4fTUJSe9sz8"><img style="width:99%" src="/images/pj341.png"></a> 	| Chinese New Year Celebration Activities<br>(P1 Colouring Activity)<br><br>24 Jan 2019 	|
 | <a href="https://photos.app.goo.gl/AwkQAz2tzyQTyzUN9"><img style="width:99%" src="/images/pj342.png"></a> 	| Chinese New Year Celebration Activities<br>(P4 Red Packet Design)<br><br>22 Jan 2019 	|  	| <a href="https://photos.app.goo.gl/LgsKJeyjrk2xqZMr9"><img style="width:99%" src="/images/pj343.png"></a> 	| Chinese New Year Celebration Activities<br>(P2 Paper Origami)<br><br>22 Jan 2019 	|
-| <a href="https://photos.app.goo.gl/5PQTosjm3wtuACyFA"><img style="width:99%" src="/images/pj344.png"></a> 	| P1 & P4 Mentoring Programme<br><br>02 Jan 2019 	|  	| <a href="https://photos.app.goo.gl/VEJJrVxoYsppuWKS7"><img style="width:99%" src="/images/pj345.png"></a> 	| Chinese New Year Celebration Activities<br>(P3 Red Packet Design)<br><br>21 Jan 2019 	|
+| <a href="https://photos.app.goo.gl/5PQTosjm3wtuACyFA"><img style="width:99%" src="/images/pj344.png"></a> 	| P1 &amp; P4 Mentoring Programme<br><br>02 Jan 2019 	|  	| <a href="https://photos.app.goo.gl/VEJJrVxoYsppuWKS7"><img style="width:99%" src="/images/pj345.png"></a> 	| Chinese New Year Celebration Activities<br>(P3 Red Packet Design)<br><br>21 Jan 2019 	|
 | <a href="https://photos.app.goo.gl/r4k56QHhjheQcFHu8"><img style="width:99%" src="/images/pj346.png"></a> 	| Beginning of Term Service<br><br>02 Jan 2019 	|  	| <a href="https://photos.app.goo.gl/d6LCSd9P7ritibN4A"><img style="width:99%" src="/images/pj347.png"></a> 	| P1 Parents Dialogue Session<br><br>02 Jan 2019 	|

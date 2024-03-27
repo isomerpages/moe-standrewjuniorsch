@@ -1,7 +1,8 @@
 ---
 title: 2021 Photo Journals
-permalink: /photo-journals/2021/
+permalink: /removethistextphoto-journals/2021/
 description: ""
+variant: tiptap
 ---
 ### 2021 Photo Journals
 

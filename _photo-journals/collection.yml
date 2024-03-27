@@ -2,6 +2,7 @@ collections:
   photo-journals:
     output: true
     order:
+      - 2016 Photo Journals.md
       - 2024 Photo Journals.md
       - 2023 Photo Journals.md
       - 2022 Photo Journals.md

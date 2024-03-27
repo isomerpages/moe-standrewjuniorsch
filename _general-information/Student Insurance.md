@@ -2,12 +2,13 @@
 title: Student Insurance
 permalink: /general-information/student-insurance/
 description: ""
+variant: markdown
 ---
 ### Student Insurance
 
 #### Group Personal Accident Insurance for Student Factsheet
 
-[Click here to download factsheet](/files/GPA%20Product%20Fact%20Sheet%202020.pdf)
+[[Click here to learn more]](https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students)
 
  
 

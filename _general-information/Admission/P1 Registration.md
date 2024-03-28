@@ -17,7 +17,7 @@ Please refer to the links below for more information pertaining to Primary One R
 
 
 ### Register as Parent Volunteer Application (P1 Registration under Phase 2B)
-Whose parent that are interested to register themselves to our school as a parent volunteer not later than 1 July of the year before P1 registration and has given at least 40 hours of voluntary service to the school by 30 June of the year of P1 registration.
+For parent/guardian that are interested to register themself to our school as a parent volunteer not later than 1 July of the year before P1 registration and has given at least 40 hours of voluntary service to the school by 30 June of the year of P1 registration.
 
 Please apply via the form in the link below:
 

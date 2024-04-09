@@ -2,6 +2,7 @@ collections:
   photo-journals:
     output: true
     order:
+      - Webinar Video.md
       - 2024 Photo Journals.md
       - 2023 Photo Journals.md
       - 2022 Photo Journals.md

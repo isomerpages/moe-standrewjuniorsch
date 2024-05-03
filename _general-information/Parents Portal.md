@@ -26,15 +26,14 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/pp3.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://pg.moe.edu.sg/forms/sdf"><img style="width:85%" height="auto" width="100%" src="/images/pp4.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://form.gov.sg/5d229344bf829f00113c1876"><img style="width:85%" height="auto" width="100%" src="/images/pp5.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://form.gov.sg/5d229344bf829f00113c1876"><img style="width:85%" height="auto" width="100%" src="/images/pp6.png"></a>
 </td>

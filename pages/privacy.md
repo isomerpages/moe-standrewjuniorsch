@@ -7,8 +7,8 @@ variant: tiptap
 <blockquote>
 <h4>&nbsp;<strong>St Andrew’s Junior School privacy statement</strong></h4>
 </blockquote>
-<p><strong>        </strong>1.&nbsp; This is St Andrew’s Junior School’s
-website. Thank you for examining our privacy statement.</p>
+<p>1.&nbsp; This is St Andrew’s Junior School’s website. Thank you for examining
+our privacy statement.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;2.&nbsp; If you are only browsing this
 website, we do not capture data that allows us to identify you individually.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;3.&nbsp; If you choose to make an application

@@ -401,7 +401,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Administration Manager
+<br>
+<br>Ms Ng Yoke Choo
+<br>ng_yoke_choo@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

@@ -56,7 +56,7 @@ programmes, driving IT developments and managing our resources.</p>
 <p>Administration Manager
 <br>
 <br>Ms Ng Yoke Choo
-<br>ng_yoke_choo@schools.gov.sg</p>
+<br>ng_yoke_choo_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -80,6 +80,26 @@ programmes, driving IT developments and managing our resources.</p>
 <br>
 <br>Mr Henry Roy Jacob
 <br>henry_roy_jacob@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager
+<br>
+<br>Mr Jason Isac Soh
+<br>jason_isac_soh@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

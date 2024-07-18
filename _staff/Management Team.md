@@ -157,7 +157,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Chinese Language
+<p>HOD / Educational Technology
 <br>
 <br>Mr Zhang Pu
 <br>zhang_pu@moe.edu.sg</p>
@@ -180,10 +180,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / PE (Covering)
-<br>
-<br>Mr Edmond Toh
-<br>toh_boon_yong_edmond@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -257,7 +254,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Special Educational Needs
+<p>HOD / Special Educational Needs
 <br>
 <br>Mrs Kieu-Tan Chu Hua Doreen
 <br>tan_chu_hua@moe.edu.sg</p>
@@ -404,7 +401,7 @@ variant: tiptap
 <p>Administration Manager
 <br>
 <br>Ms Ng Yoke Choo
-<br>ng_yoke_choo@schools.gov.sg</p>
+<br>ng_yoke_choo_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

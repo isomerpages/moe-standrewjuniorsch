@@ -3,9 +3,10 @@ collections:
     output: true
     order:
       - Overview.md
-      - Character Education/Overview.md
-      - Character Education/Sexuality Education.md
       - Character Education/.keep
+      - Character Education/Overview.md
+      - Character Education/Edusave Character Award (ECHA).md
+      - Character Education/Sexuality Education.md
       - Student Management.md
       - Educational Technology/Overview.md
       - Educational Technology/Cyber Wellness.md

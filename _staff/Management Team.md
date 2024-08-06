@@ -81,7 +81,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Level Head /English
 <br>
-<br>Ms Victora Koay
+<br>Ms Victoria Koay
 <br>victoria_koay@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">

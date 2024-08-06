@@ -35,7 +35,7 @@ still do commendably well in academic and non-academic domains.</p>
 <p>o Students may be nominated regardless of their academic results provided
 that their weak academic results are not due to negative character traits
 but are attributed to difficulties that go beyond the control of the student.</p>
-<h4><u>Award Quantum </u></h4>
+<h4><u>Award Quantum</u></h4>
 <p>The ECHA maximum quota will be capped at 2% of the total enrolment of
 Singaporean students in the school.</p>
 <p>The award quanta are as follows, depending on the level of study:</p>

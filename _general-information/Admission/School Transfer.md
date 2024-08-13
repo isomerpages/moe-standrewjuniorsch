@@ -12,7 +12,7 @@ for admission to St. Andrew Junior School in the event that a vacancy becomes
 available may submit a transfer application to the school for consideration.
 Please complete the application by&nbsp;<strong>30 November 2024.</strong>
 </p>
-<p><em>* Please note that all application for </em><strong><em>2025 waitlist</em></strong><em> will open on the </em><strong><em>1st of november 2024</em>. *</strong>
+<p><em>* Please note that all application for </em><strong><em>2025 waitlist</em></strong><em> will open on the </em><strong><em>1st of November 2024</em>. *</strong>
 </p>
 <p><strong>Instructions:</strong>
 </p>

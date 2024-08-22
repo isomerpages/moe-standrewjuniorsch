@@ -48,7 +48,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vice-Principal (Administration)
+<br>
+<br>Mr Boey Weng Yue
+<br>boey_weng_yue@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -68,10 +71,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (Administration)
+<p>Vice-Principal
 <br>
-<br>Mr Boey Weng Yue
-<br>boey_weng_yue@schools.gov.sg</p>
+<br>Ms Sng Wan Xian
+<br>sng_wan_xian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

@@ -153,22 +153,16 @@ programmes, driving IT developments and managing our resources.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer
-<br>
-<br>Mr Reyner Leong Kwok Mun
-<br>rk.leong@ncs.com.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer
-<br>
-<br>Ms Nurlydia
-<br>nurlydia_liyana_akbar_ali@moe.edu.sg</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -188,7 +182,10 @@ programmes, driving IT developments and managing our resources.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Corporate Support Officer
+<br>
+<br>Ms Nurlydia
+<br>nurlydia_liyana_akbar_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

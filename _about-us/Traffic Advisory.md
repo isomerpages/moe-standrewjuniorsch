@@ -12,7 +12,7 @@ Student safety is a priority of our School. The safety of students using roads l
 
 During peak traffic periods such as morning arrival time, students arriving to school by car are to alight at the Drop-Off Zone. Please cooperate with our staff and security guards who are deployed to facilitate the flow of traffic and reinforce road safety behaviour.
 
-### Walking to School via Diocese Gate
+### Walking to School via Diocese Gate (6:30am - 7:30am)
 
 Do allow your son to walk to School by himself <u>at the top of the stairs and after the Diocese Building</u> (as shown on the map and picture below). Please refrain from accompanying your son along Francis Thomas Drive to exit at Potong Pasir Ave 3.
 

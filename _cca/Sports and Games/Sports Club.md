@@ -14,7 +14,18 @@ various opportunities to represent the school in selected sports tournaments.</p
 <h3>Schedule</h3>
 <p>Training for CCA on Friday: 7:30am to 9:30am (Including 30 mins recess)</p>
 <h3>Teachers-in-charge</h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mr Samuel Zhang Zishao</p>
+</li>
+<li>
 <p>Mr Shahriman Mostapa</p>
-<p>Mrs Sharon Cheng</p>
+</li>
+<li>
+<p>Mrs Sharon Ee</p>
+</li>
+<li>
 <p>Ms Ng Jun Qing</p>
+</li>
+</ul>
+<p></p>

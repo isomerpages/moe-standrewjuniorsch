@@ -13,8 +13,8 @@ training sessions.&nbsp; Our teachers and coaches emphasize on Character
 Development such that players will learn commitment, self-discipline and
 are able to lead themselves well as good role-models.</p>
 <h4>Schedule</h4>
-<p>Fridays, 7:30 - 9:30 a.m. ( Competition squads training Schedule would
-be announced to selected players.</p>
+<p>Fridays, 7:30am to 9:30am (Including 30 mins recess)</p>
+<p>Competition squads training schedule would be announced to selected players.</p>
 <h4>Venue</h4>
 <p>Gym &amp; Outdoor Court</p>
 <h4>Teachers-in-charge</h4>

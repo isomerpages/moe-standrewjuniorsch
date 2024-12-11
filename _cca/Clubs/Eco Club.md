@@ -29,7 +29,6 @@ which the school has taken part in.</p>
 </p>
 <hr>
 <h4>Teachers-in-charge</h4>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mdm Ngin Chor Hong</p>

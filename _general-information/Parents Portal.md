@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://forms.moe.edu.sg/forms/oORKjJ"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Icons/pp12.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://forms.moe.edu.sg/forms/vWd4QJ"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Icons/pp7.png"></a>
@@ -37,7 +37,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://forms.moe.edu.sg/forms/oORKjJ"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Icons/pp12.png"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

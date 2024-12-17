@@ -73,8 +73,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Vice-Principal
 <br>
-<br>Ms Sng Wan Xian
-<br>sng_wan_xian@moe.edu.sg</p>
+<br>Mrs Stephanie Goh</p>
+<p>stephanie_lim_mei_fong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

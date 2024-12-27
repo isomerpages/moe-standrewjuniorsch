@@ -69,10 +69,10 @@ self-esteem and sense of independence.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead SEN Officer
+<p>HOD SEN
 <br>
-<br>Ms Nur Afni
-<br>nur_afni_mohamed_amin@moe.edu.sg</p>
+<br>Mrs Doreen Kieu-Tan Chu Hua
+<br>tan_chu_hua@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

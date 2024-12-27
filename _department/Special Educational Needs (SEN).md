@@ -6,6 +6,7 @@ description: ""
 ---
 <h1>Overview</h1>
 <p></p>
+<p></p>
 <p>The Special Educational Needs (SEN) Department seeks to nurture, develop
 and support students with learning needs by working together with the teachers,
 parents and/or psychologist/therapist(s).</p>
@@ -21,9 +22,13 @@ and independence, preparing them for life’s challenges.</p>
 support and plan instructional strategies and adapt lessons for students
 with special educational needs and share strategies with other teachers
 in school.</p>
-<p>For consultation on special educational needs:&nbsp;</p>
-<p>Please contact Mrs Doreen Kieu- Tan Chu Hua (Head of Dept/Special Educational
-Needs) at&nbsp;<a href="mailto:tan_chu_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chu_hua@moe.edu.sg</a>.</p>
+<p>For consultation on special educational needs:&nbsp;
+<br>Please contact Mrs Doreen Kieu- Tan Chu Hua (Head of Dept/Special Educational
+Needs) at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">tan_chu_hua@moe.edu.sg</a>.</strong>
+</p>
+<p>For submission of child’s psychological reports/ memo:</p>
+<p>Please submit the PDF copy by clicking onto this link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/submitreport</a>
+</p>
 <p></p>
 <h1>Access Arrangements (AAs)</h1>
 <p>Students with learning or physical disabilities can apply for access arrangements
@@ -81,7 +86,15 @@ form by clicking onto this link: <a href="https://go.gov.sg/submitreport" rel="n
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members Mdm Revathi (Teacher and AA Coordinator)</p>
+<p>Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Revathi (Teacher and AA Coordinator)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Soh Kwan (SENO)</p>
@@ -127,32 +140,24 @@ form by clicking onto this link: <a href="https://go.gov.sg/submitreport" rel="n
 <p>Mrs Vivienne John (SC)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
 <h2>Useful links</h2>
-<p><strong>1.</strong>&nbsp;<strong><u>What are Special Needs</u></strong>
+<p>1.&nbsp;<strong><u>What are Special Needs</u></strong>
 <br><strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/special-educational-needs/understand</a></strong>
 </p>
-<p><strong>2.</strong>&nbsp;<strong><u>Support in Schools</u></strong>
+<p>2.&nbsp;<strong><u>Support in Schools</u></strong>
 <br><strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/special-educational-needs/school-support/primary-schools</a></strong>
 </p>
-<p><strong>3.</strong>&nbsp;<strong><u>Dyslexia</u></strong>
+<p>3.&nbsp;<strong><u>Dyslexia</u></strong>
 <br>Dyslexia Association of Singapore
 <br>Website:&nbsp;&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">http://www.das.org.sg/</a></strong>
 <a rel="noopener noreferrer nofollow" target="_blank">
 <br>Deslexia</a>Association of Singapore provides a range of services catered
 for individuals with dyslexia and other specific learning differences.</p>
-<p><strong>4.</strong>&nbsp;<strong><u>Autism Spectrum Disorder (ASD)</u></strong>
+<p>4.&nbsp;<strong><u>Autism Spectrum Disorder (ASD)</u></strong>
 </p>
 <p><u>i) Autism Resource Centre</u>
 <br>Website:&nbsp;<strong><em><a rel="noopener noreferrer nofollow" target="_blank">https://www.autism.org.sg/?utm_source=aas-website&amp;utm_medium=topmenu&amp;utm_campaign=onsite&amp;utm_content=menulink</a></em></strong>
@@ -167,7 +172,7 @@ for individuals with dyslexia and other specific learning differences.</p>
 <p>Website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.awwa.org.sg/awwa-school/allied-health-professionals-services/#</a>
 </p>
 <p></p>
-<p><strong>5.</strong>&nbsp;<strong><u>Attention Deficit Hyperactivity Disorder (ADHD)</u></strong>
+<p>5.&nbsp;<strong><u>Attention Deficit Hyperactivity Disorder (ADHD)</u></strong>
 <br><u>i) Society for the Promotion of ADHD Research and Knowledge (SPARK)</u>
 <br>Website:&nbsp;&nbsp;<strong><em><a rel="noopener noreferrer nofollow" target="_blank">http://www.spark.org.sg/</a></em></strong>
 </p>

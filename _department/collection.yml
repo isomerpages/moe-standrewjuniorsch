@@ -2,10 +2,10 @@ collections:
   department:
     output: true
     order:
-      - Special Educational Needs (SEN).md
       - Overview.md
       - English.md
       - Mathematics.md
       - Science.md
       - Mother Tongue.md
       - PE, Art & Music.md
+      - Special Educational Needs (SEN).md

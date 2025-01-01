@@ -4,14 +4,18 @@ permalink: /general-information/school-hours-terms-holidays/
 description: ""
 variant: tiptap
 ---
-<p>The school year for all MOE primary schools will start on Tuesday, 3 January
-2023 and end on Friday, 17 November 2023. This takes into account 40 weeks
-of curriculum time for the school year. Please refer to the school calendar
-below.</p>
+<p>The school year for all MOE primary schools will start on Thursday, 2
+January 2025 and end on Friday, 21 November 2025. This takes into account
+40 weeks of curriculum time for the school year. Please refer to the school
+calendar below.</p>
 <p></p>
 <p></p>
-<h4>School Terms for 2024</h4>
-<table>
+<h4>School Terms for 2025</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -26,7 +30,7 @@ below.</p>
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue 2 Jan to Fri 8 Mar</p>
+<p>Thu 2 Jan to Fri 14 Mar</p>
 </td>
 </tr>
 <tr>
@@ -34,12 +38,16 @@ below.</p>
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 18 Mar to Fri 24 May</p>
+<p>Mon 24 Mar to Fri 30 May</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -54,7 +62,7 @@ below.</p>
 <p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 24 Jun to Fri 30 Aug</p>
+<p>Mon 30 Jun to Fri 5 Sep</p>
 </td>
 </tr>
 <tr>
@@ -62,13 +70,17 @@ below.</p>
 <p>Term 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 9 Sep to *Fri 15 Nov</p>
+<p>Mon 15 Sep to Fri 21 Nov</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>School Holidays for 2024</h4>
-<table>
+<h4>School Holidays for 2025</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -83,7 +95,7 @@ below.</p>
 <p>Between Terms I &amp; II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 9 Mar to Sun 17 Mar</p>
+<p>Sat 15 Mar to Sun 23 Mar</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +103,7 @@ below.</p>
 <p>Between Semesters I &amp; II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 25 May to Sun 23 Jun</p>
+<p>Sat 31 May to Sun 29 Jun</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +111,7 @@ below.</p>
 <p>Between Terms III &amp; IV</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 31 Aug to Sun 8 Sep</p>
+<p>Sat 6 Sep to Sun 14 Sep</p>
 </td>
 </tr>
 <tr>
@@ -107,13 +119,17 @@ below.</p>
 <p>At End of School Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 16 Nov to Tue 31 Dec</p>
+<p>Sat 22 Nov to Wed 31 Dec</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Scheduled School Holidays for 2024</h4>
-<table>
+<h4>Scheduled School Holidays for 2025</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -128,7 +144,7 @@ below.</p>
 <p>Youth Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sun 30 Jun (The following Monday, 1 Jul will be a scheduled school holiday.)</p>
+<p>Sun 6 Jul (The following Monday, 7 Jul will be a school holiday.)</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +152,8 @@ below.</p>
 <p>Day after National Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 9 Aug</p>
+<p>Mon, 11 Aug will be a school holiday. Schools will be closed including
+General Office.</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +161,7 @@ below.</p>
 <p>Teachers’ Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 30 Aug</p>
+<p>Fri 5 Sep</p>
 </td>
 </tr>
 <tr>
@@ -152,21 +169,25 @@ below.</p>
 <p>Children’s Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 4 Oct</p>
+<p>Fri 3 Oct</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Public Holidays for 2024</h4>
+<h4>Public Holidays for 2025</h4>
 <p>Public holiday dates are available via Ministry of Manpower website:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.mom.gov.sg/newsroom/press-releases/2023/0524-public-holidays-for-2024" rel="noopener noreferrer nofollow" target="_blank">[Public Holidays 2024]</a>
+<p><a href="https://www.mom.gov.sg/newsroom/press-releases/2024/0805-public-holidays-for-2025" rel="noopener noreferrer nofollow" target="_blank">[Public Holidays 2025]</a>
 </p>
 </li>
 </ul>
 <h4>School Hours</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -203,7 +224,12 @@ below.</p>
 </tbody>
 </table>
 <h4>School Library Opening Hours</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -263,7 +289,12 @@ below.</p>
 </tbody>
 </table>
 <h4>ICT Service Centre Opening Hours</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -281,10 +312,10 @@ below.</p>
 <p>Monday to Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 a.m. to 3:30 p.m.</p>
+<p>8 a.m. to 4:30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 a.m. to 3 p.m.</p>
+<p>8 a.m. to 4:30 p.m.</p>
 </td>
 </tr>
 <tr>

@@ -44,8 +44,8 @@ variant: tiptap
 <p>P5 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Ms Victoria Koay
-<br>victoria_koay@moe.edu.sg</p>
+<br>Mrs Rena Lee
+<br>wong_ee-vernn_rena@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -57,8 +57,8 @@ variant: tiptap
 <p>P5 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Ms Ng Jun Qing
-<br>ng_jun_qing@moe.edu.sg</p>
+<br>Ms Karpaga Valli D/O Manickam karpaga_valli_manickam@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -72,8 +72,8 @@ variant: tiptap
 <p>P5 Resilience
 <br>(Form Teacher)
 <br>
-<br>Mrs Tay-Tan Lee Lian
-<br>tan_lee_lian@moe.edu.sg</p>
+<br>Mrs Yogeshwari Manikandan kannadasan_yogeshwari@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -85,8 +85,8 @@ variant: tiptap
 <p>P5 Resilience
 <br>(Form Teacher)
 <br>
-<br>Mdm Wu Ting Ting
-<br>wu_ting_ting@moe.edu.sg</p>
+<br>Ms Aw Jie Shi
+<br>aw_jie_shi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -100,8 +100,7 @@ variant: tiptap
 <p>P5 Unity
 <br>(Form Teacher)
 <br>
-<br>Mr Zhang Pu
-<br>zhang_pu@moe.edu.sg</p>
+<br>Mr Adrian Chia Junyong adrian_chia_junyong@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -113,8 +112,8 @@ variant: tiptap
 <p>P5 Unity
 <br>(Form Teacher)
 <br>
-<br>Mr Adrian Chia Junyong
-<br>adrian_chia_junyong@moe.edu.sg</p>
+<br>Ms Ng Jacqueline ng_jacqueline@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -128,8 +127,8 @@ variant: tiptap
 <p>P5 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mrs Kieu-Tan Chu Hua Doreen
-<br>tan_chu_hua@moe.edu.sg</p>
+<br>Mr Zahrul Bin Zaiden zahrul_zaiden@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -141,7 +140,8 @@ variant: tiptap
 <p>P5 Empathy
 <br>(Form Teacher)
 <br>
-<br>Ms Tang Junlitang_junli@moe.edu.sg</p>
+<br>Ms Chen Ying Carissa chen_ying_carissa@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -155,8 +155,8 @@ variant: tiptap
 <p>P5 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mdm Tan Ming Ju
-<br>tan_ming_ju@moe.edu.sg</p>
+<br>Mrs Andreatte Loh lucy_andreatte_yip@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -168,8 +168,8 @@ variant: tiptap
 <p>P5 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mr Khairil Anuar B Idris
-<br>khairil_anuar@moe.edu.sg</p>
+<br>Mr Shahriman shahriman_mostapa@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -183,8 +183,8 @@ variant: tiptap
 <p>P5 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mr Quek Ye Shaun
-<br>quek_ye_shaun@moe.edu.sg</p>
+<br>Mr Kevin Ng ng_min_keong_kevin@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -196,8 +196,8 @@ variant: tiptap
 <p>P5 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mr Lo Chien-Chi
-<br>lo_chien-chi@moe.edu.sg</p>
+<br>Mdm Poh Ser Lee poh_ser_lee@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

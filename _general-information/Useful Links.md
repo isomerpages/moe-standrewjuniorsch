@@ -110,7 +110,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p><a href="https://members.myactivesg.com/swimsafer/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>SwimSafer My Active </u></a>
+<p><a href="https://members.myactivesg.com/swimsafer/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>SwimSafer My Active</u></a>
 </p>
 </li>
 </ul>

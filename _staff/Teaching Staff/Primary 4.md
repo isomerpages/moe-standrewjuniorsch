@@ -40,8 +40,8 @@ variant: tiptap
 <p>P4 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Mrs Ong Swee Ying
-<br>ng_swee_ying@moe.edu.sg</p>
+<br>Mr Sitt Wei Kian sitt_wei_kian@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -53,8 +53,8 @@ variant: tiptap
 <p>P4 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Mr Leo Hee Meng Kelvin
-<br>leo_hee_meng_kelvin@moe.edu.sg</p>
+<br>Mdm Xu Jing
+<br>xu_jing_b_1@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -65,18 +65,20 @@ variant: tiptap
 <p>P4 Resilience
 <br>(Form Teacher)
 <br>
-<br>Mrs Susan Thomas
-<br>susan_zachariah@moe.edu.sg
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<br>Mr Lee Kai Chuen Bruce lee_kai_chuen_bruce@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Resilience
+<br>(Form Teacher)</p>
+<p></p>
+<p>Ms Cherie Lee cherie_lee_sze_ern@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -88,8 +90,7 @@ variant: tiptap
 <p>P4 Unity
 <br>(Form Teacher)
 <br>
-<br>Mdm Ngin Chor Hong
-<br>ngin_chor_hong@moe.edu.sg</p>
+<br>Mr Zhang Zishao Samuel zhang_zishao@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -101,8 +102,8 @@ variant: tiptap
 <p>P4 Unity
 <br>(Form Teacher)
 <br>
-<br>Mdm Zuraidah Bte Abdul Malik
-<br>zuraidah_abdul_malik@moe.edu.sg</p>
+<br>Mrs Tracy Liu liu_huanjia_tracy@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -113,10 +114,8 @@ variant: tiptap
 <p>P4 Empathy
 <br>(Form Teacher)
 <br>
-<br>Ms Karpaga Valli D/O Manickam
-<br>karpaga_valli_manickam@moe.edu.sg
-<br>
-</p>
+<br>Mr Edmond Toh toh_boon_yong_edmond@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -128,8 +127,8 @@ variant: tiptap
 <p>P4 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mr Yeo Peng Seng
-<br>yeo_peng_seng@moe.edu.sg</p>
+<br>Ms Nur Hazura Binte Hamdan nur_hazura_hamdan@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -140,8 +139,9 @@ variant: tiptap
 <p>P4 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mr Anthony Luke Fernandez
-<br>anthony_luke_fernandez@moe.edu.sg</p>
+<br>Ms Tan Xian-En Kimberly</p>
+<p>tan_xian-en_kimberly@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -153,8 +153,9 @@ variant: tiptap
 <p>P4 Wonder
 <br>(Form Teacher)
 <br>
-<br>Ms Cherie Lee
-<br>cherie_lee_sze_ern@moe.edu.sg</p>
+<br>Mdm Tong Xin</p>
+<p>tong_xin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -165,8 +166,8 @@ variant: tiptap
 <p>P4 Integrity
 <br>(Form Teacher)
 <br>
-<br>Ms Lin Jingya
-<br>lin_jingya@moe.edu.sg</p>
+<br>Mr Alvin Chooi chooi_sian_woon@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -178,8 +179,8 @@ variant: tiptap
 <p>P4 Integrity
 <br>(Form Teacher)
 <br>
-<br>Ms Pushpa D/O Selvaraju
-<br>pushpa_selvaraju@moe.edu.sg</p>
+<br>Mdm Wu Shixian wu_shixian@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>

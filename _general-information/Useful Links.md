@@ -246,5 +246,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>*All Logos and Icons belongs to their respective Companies, Organisers
-and Trademarks.</p>
+<p></p>

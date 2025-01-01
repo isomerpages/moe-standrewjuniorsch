@@ -160,13 +160,22 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>HOD / Educational Technology
 <br>
 <br>Mr Zhang Pu
 <br>zhang_pu@moe.edu.sg</p>
 </td>
-</tr>
-<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -175,15 +184,6 @@ variant: tiptap
 <br>
 <br>Mr Lo Chien-Chi
 <br>lo_chien-chi@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -312,10 +312,27 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>P5 / P6 Year Head
 <br>
 <br>Ms Jacqueline Ng
 <br>ng_jacqueline@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -369,26 +386,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / English
-<br>
-<br>Mrs Susan Thomas
-<br>susan_zachariah@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Administration Manager (ICT)
 <br>
 <br>Mr Lim Jin Yong
@@ -414,8 +411,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Operations Manager
 <br>
-<br>Mr Allan Wang Chong Nong
-<br>wang_chong_nong@moe.edu.sg</p>
+<br>Mr Jason Isac Soh
+<br>jason_isac_soh@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -428,26 +425,6 @@ variant: tiptap
 <br>
 <br>Mr Henry Roy Jacob
 <br>henry_roy_jacob@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager
-<br>
-<br>Mr Jason Isac Soh
-<br>jason_isac_soh@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

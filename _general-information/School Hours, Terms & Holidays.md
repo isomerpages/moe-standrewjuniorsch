@@ -178,7 +178,7 @@ General Office.</p>
 <p>Public holiday dates are available via Ministry of Manpower website:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.mom.gov.sg/newsroom/press-releases/2024/0805-public-holidays-for-2025" rel="noopener noreferrer nofollow" target="_blank">[Public Holidays 2024]</a>
+<p><a href="https://www.mom.gov.sg/newsroom/press-releases/2024/0805-public-holidays-for-2025" rel="noopener noreferrer nofollow" target="_blank">[Public Holidays 2025]</a>
 </p>
 </li>
 </ul>

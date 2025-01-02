@@ -2,12 +2,12 @@ collections:
   department:
     output: true
     order:
-      - Access Arrangements (AAs)/Special Educational Needs (SEN).md
-      - Access Arrangements (AAs)/Access Arrangements (AAs).md
-      - Access Arrangements (AAs)/.keep
       - Overview.md
       - English.md
       - Mathematics.md
       - Science.md
       - Mother Tongue.md
       - PE, Art & Music.md
+      - Access Arrangements (AAs)/.keep
+      - Access Arrangements (AAs)/Special Educational Needs (SEN).md
+      - Access Arrangements (AAs)/Access Arrangements (AAs).md

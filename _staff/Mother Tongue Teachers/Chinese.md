@@ -220,6 +220,25 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Aw Jie Shi</p>
+<p>aw_jie_shi@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wan Xiaolin Sophie</p>
+<p>wan_xiaolin@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

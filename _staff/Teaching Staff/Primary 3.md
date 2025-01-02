@@ -161,7 +161,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 Wonder
+<p>P3 Integrity
 <br>(Form Teacher)
 <br>
 <br>Mdm Lin Jingya
@@ -174,7 +174,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 Wonder
+<p>P3 Integrity
 <br>(Form Teacher)</p>
 <p></p>
 <p>Mr Muhammad Hafiz Bin Mohamed Khalil</p>

@@ -49,12 +49,10 @@ self-esteem and sense of independence.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<th rowspan="1" colspan="1">
-<p>HOD SEN
-<br>
-<br>Mrs Doreen Kieu-Tan Chu Hua
-<br>tan_chu_hua@moe.edu.sg</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>HOD SEN</p>
+<p>Mrs Doreen Kieu-Tan Chu Hua tan_chu_hua@moe.edu.sg</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

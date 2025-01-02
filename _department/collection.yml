@@ -2,6 +2,7 @@ collections:
   department:
     output: true
     order:
+      - Access Arrangements (AAs)/.keep
       - Overview.md
       - English.md
       - Mathematics.md

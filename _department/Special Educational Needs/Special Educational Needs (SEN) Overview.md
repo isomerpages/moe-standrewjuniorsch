@@ -1,8 +1,8 @@
 ---
-title: Special Educational Needs (SEN)
+title: Special Educational Needs (SEN) Overview
 permalink: /special-educational-needs-sen/
 variant: tiptap
-description: ""
+description: SEN SAJS
 third_nav_title: Special Educational Needs
 ---
 <h1>Overview</h1>

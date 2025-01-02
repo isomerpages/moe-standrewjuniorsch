@@ -15,8 +15,9 @@ of enriching programmes and activities outside the classroom. The SEN Officers
 will also build rapport with the pupils to help them improve their self-confidence,
 self-esteem and sense of independence.</p>
 <p></p>
-<table style="minWidth: 125px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -40,39 +41,17 @@ self-esteem and sense of independence.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior School Counsellor
-<br>
-<br>Mr Dennis Tan Lai Hoe
-<br>dennis_tan_lai_hoe@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor
-<br>
-<br>Mrs Vivienne John
-<br>vivienne_voon_siew_ken@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD SEN
-<br>
-<br>Mrs Doreen Kieu-Tan Chu Hua
-<br>tan_chu_hua@moe.edu.sg</p>
+<p>HOD SEN</p>
+<p>Mrs Doreen Kieu-Tan Chu Hua tan_chu_hua@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -83,34 +62,9 @@ self-esteem and sense of independence.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -134,6 +88,9 @@ self-esteem and sense of independence.</p>
 <br>Ms Gayathri Naidu
 <br>gayathri_naidu_r_ganasan@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -156,6 +113,35 @@ self-esteem and sense of independence.</p>
 <br>
 <br>Mr Chow Cheng Zhong
 <br>chow_cheng_zhong_xavier@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor
+<br>
+<br>Mr Dennis Tan Lai Hoe
+<br>dennis_tan_lai_hoe@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor
+<br>
+<br>Mrs Vivienne John
+<br>vivienne_voon_siew_ken@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

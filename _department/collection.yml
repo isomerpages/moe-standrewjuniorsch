@@ -2,7 +2,6 @@ collections:
   department:
     output: true
     order:
-      - Access Arrangements (AAs)/Special Educational Needs (SEN).md
       - Access Arrangements (AAs)/.keep
       - Overview.md
       - English.md

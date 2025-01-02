@@ -21,7 +21,7 @@ is <strong><u>Term 3, Week 10.</u></strong>
 </p>
 <p>We regret to inform that late applications will <strong><u>not</u></strong> be
 processed.</p>
-<p><strong>Online Access Arrangements Form </strong>
+<p><strong>Online Access Arrangements Form</strong>
 </p>
 <p>For all applicants for access arrangements, please fill up an online application
 form by clicking onto this link: <a href="https://go.gov.sg/submitreport" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/submitreport</u></a>

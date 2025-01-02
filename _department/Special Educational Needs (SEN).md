@@ -26,8 +26,8 @@ in school.</p>
 <br>Please contact Mrs Doreen Kieu- Tan Chu Hua (Head of Dept/Special Educational
 Needs) at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">tan_chu_hua@moe.edu.sg</a>.</strong>
 </p>
-<p>For submission of child’s psychological reports/ memo:</p>
-<p>Please submit the PDF copy by clicking onto this link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/submitreport</a>
+<p>For submission of child’s psychological reports/ memo, please submit the
+PDF copy by clicking onto this link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/submitreport</a>
 </p>
 <p></p>
 <h1>Access Arrangements (AAs)</h1>
@@ -44,10 +44,12 @@ arrangements must be submitted by <strong><u>Week 3 of each term.</u></strong>
 is <strong><u>Term 3, Week 10.</u></strong>
 </p>
 <p>We regret to inform that late applications will <strong><u>not</u></strong> be
-processed.Access</p>
-<p>Arrangements Form</p>
+processed.</p>
+<p></p>
+<p><strong>Online Access Arrangements Form</strong>
+</p>
 <p>For all applicants for access arrangements, please fill up an online application
-form by clicking onto this link: <a href="https://go.gov.sg/submitreport" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/submitreport</a>
+form by clicking onto this link: <a href="https://go.gov.sg/submitreport" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/trialapplication</a>
 </p>
 <p></p>
 <p></p>
@@ -144,7 +146,7 @@ form by clicking onto this link: <a href="https://go.gov.sg/submitreport" rel="n
 </table>
 <p></p>
 <p></p>
-<h2>Useful links</h2>
+<h2>SEN INFORMATION</h2>
 <p>1.&nbsp;<strong><u>What are Special Needs</u></strong>
 <br><strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/special-educational-needs/understand</a></strong>
 </p>

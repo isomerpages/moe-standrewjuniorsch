@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Special Educational Needs (SEN).md
+      - Access Arrangements (AAs)/Access Arrangements (AAs).md
       - Access Arrangements (AAs)/.keep
       - Overview.md
       - English.md

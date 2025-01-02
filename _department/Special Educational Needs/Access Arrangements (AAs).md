@@ -24,5 +24,5 @@ processed.</p>
 <p><strong>Online Access Arrangements Form</strong>
 </p>
 <p>For all applicants for access arrangements, please fill up an online application
-form by clicking onto this link: <a href="https://go.gov.sg/submitreport" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/submitreport</u></a>
+form by clicking onto this link: <a href="https://go.gov.sg/trialapplication" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/trialapplication</u></a>
 </p>

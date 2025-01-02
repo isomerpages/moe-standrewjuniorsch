@@ -37,11 +37,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 1
-<br>Primary 4
-<br>Primary 5
-<br>
-<br>Mr Shahriman Mostapa
+<p>Mr Shahriman Mostapa
 <br>shahriman_mostapa@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,11 +47,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 5 Foundation
-<br>
-<br>
-<br>
-<br>Mr Khairil Anuar
+<p>Mr Khairil Anuar
 <br>khairil_anuar@moe.edu.sg</p>
 </td>
 </tr>
@@ -64,11 +56,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 2
-<br>Primary 3
-<br>Primary 6
-<br>
-<br>Mdm Sofia Bte Othman
+<p>Mdm Sofia Bte Othman
 <br>sofia_othman@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -116,7 +116,12 @@ variant: tiptap
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://pazhahutamil.com/login/index.php" rel="noopener nofollow" target="_blank">Pazhahutamil</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>

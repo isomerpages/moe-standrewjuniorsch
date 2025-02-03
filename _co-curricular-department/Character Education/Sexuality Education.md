@@ -49,14 +49,14 @@ more information on MOE Sexuality Education.</p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click here for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <h4><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics on sexuality include:</strong></h4>
 <p><strong>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</strong>
 </p>
 <p><strong>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</strong>
 </p>
-<h4><strong>5.          Sexuality Education Lessons</strong>:</h4>
+<h4><strong>5. Sexuality Education Lessons</strong>:</h4>
 <p>The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
 and have to grapple with physical, emotional and psychological changes
@@ -141,7 +141,7 @@ boundaries of any relationship. They will also recognise the negative impact
 of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 <p></p>
-<h4><strong>6.        Information for Parents</strong></h4>
+<h4><strong>6. Information for Parents</strong></h4>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
 supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education

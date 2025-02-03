@@ -9,7 +9,6 @@ variant: tiptap
 <p>Mrs Siew
 <br>6286 2871
 <br>9 a.m. to 4 p.m.</p>
-<p>For walk-in purchase:</p>
-<p>11 a.m. to 12.30 p.m.
+<p>For walk-in purchase:
 <br>2 p.m. to 3 p.m.&nbsp;
 <br>Monday to Thursday (During School Term)</p>

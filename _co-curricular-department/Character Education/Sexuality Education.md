@@ -146,7 +146,7 @@ and learn to behave maturely towards each other.</p>
 supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="/files/SEd_Letter_new.pdf" rel="noopener nofollow" target="_blank">here</a>. The
+&nbsp;to parents at the start of the year and is also downloadable <a href="/files/SEd_Letternew2025.pdf" rel="noopener nofollow" target="_blank">here</a>. The
 completed opt-out form is to be submitted to the form teacher.</p>
 <p>Parents can contact the Head of Department for Character and Citizenship
 Education, Mrs Angela Lim at <strong><em><a rel="noopener noreferrer nofollow" target="_blank">angela_lim@schools.gov.sg</a> </em></strong>or <strong><em>6288 4303 </em></strong>for

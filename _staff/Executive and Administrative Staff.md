@@ -66,23 +66,12 @@ programmes, driving IT developments and managing our resources.</p>
 <td rowspan="1" colspan="1">
 <p>Operations Manager
 <br>
-<br>Mr Allan Wang Chong Nong
-<br>wang_chong_nong@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager
-<br>
 <br>Mr Henry Roy Jacob
 <br>henry_roy_jacob@moe.edu.sg</p>
 </td>
-</tr>
-<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -91,15 +80,6 @@ programmes, driving IT developments and managing our resources.</p>
 <br>
 <br>Mr Jason Isac Soh
 <br>jason_isac_soh@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

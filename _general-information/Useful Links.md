@@ -110,7 +110,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p><a href="https://members.myactivesg.com/swimsafer/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>SwimSafer My Active</u></a>
+<p><a href="/files/Recommended_Chinese_Storybook_List_for_Higher_Primary.pdf" rel="noopener nofollow" target="_blank">Recommended Chinese Storybook List for Higher Primary</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Recommended_Chinese_Storybook_List_for_Lower_Primary.pdf" rel="noopener nofollow" target="_blank">Recommended Chinese Storybook List for Lower Primary</a>
 </p>
 </li>
 </ul>
@@ -122,6 +126,19 @@ variant: tiptap
 </p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p><a href="https://members.myactivesg.com/swimsafer/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>SwimSafer My Active</u></a>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

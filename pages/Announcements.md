@@ -6,14 +6,7 @@ variant: markdown
 ---
 ### Announcements
 
-#### Parent Volunteer Registration
 
-Application as Public Parent Volunteer (PPV) scheme for parents of Singapore Citizen (SC) and Permanent Resident (PR) boys (at time of registration) and born between 2 January 2019 and 1 January 2020 only, who will be registering for Primary 1 in July/August 2025 and starting school in 2026 is open now till 30 April 2024.
-
-[Apply now](https://form.gov.sg/6600d251ef5d3fbd8a3aaff6)
-
-
-***
 
 #### Primary 1 Orientation slides
 

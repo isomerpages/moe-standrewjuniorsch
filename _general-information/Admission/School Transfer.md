@@ -10,9 +10,9 @@ variant: tiptap
 <p>Students who are studying in MOE primary schools and wish to be considered
 for admission to St. Andrew Junior School in the event that a vacancy becomes
 available may submit a transfer application to the school for consideration.
-Please complete the application by&nbsp;<strong>30 November 2024.</strong>
+Please complete the application by&nbsp;<strong>30<sup>th</sup> November of the Current Year.</strong>
 </p>
-<p><em>* Please note that all application for </em><strong><em>2025 waitlist</em></strong><em> will open on the </em><strong><em>1st of November 2024</em>. *</strong>
+<p><em>* Please note that all application for </em><strong><em>the NEXT year's waitlist</em></strong><em> will open on the </em><strong><em>1<sup>st</sup> of October of the Current Year</em>. *</strong>
 </p>
 <p><strong>Instructions:</strong>
 </p>

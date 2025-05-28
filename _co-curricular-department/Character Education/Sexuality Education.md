@@ -81,66 +81,14 @@ from sexuality-related risks.</p>
 </p>
 <p></p>
 </blockquote>
-<h4><strong><u>Growing Years for Primary 5</u></strong></h4>
-<h4><strong>Lesson Title&nbsp;: The Changes in Me. Lesson 1(60 min)</strong></h4>
-<p><strong>Time Period: Term 2</strong>
-</p>
-<p><strong>Lesson Overview</strong>
-</p>
-<p>This lesson focuses on helping students identify the emotions and stress
-caused by physical changes during puberty. Students will learn to describe
-the healthy ways to manage their negative feelings during this time. They
-will also learn to recognise that one’s identity need not be negatively
-affected, even when one’s body is experiencing changes due to puberty.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
-<h4><strong>Lesson Title&nbsp;: Did You Know? Lesson 2(60 min)</strong></h4>
-<p><strong>Time Period: Term 3</strong>
-</p>
-<p><strong>Lesson Overview</strong>
-</p>
-<p>This lesson focuses on helping students know what pornography is and how
-it can affect themselves and others. Students will learn about the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
-</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
-<h4><strong>Lesson Title&nbsp;: Keeping Myself Safe. Lesson 3 (60 min)</strong></h4>
-<p><strong>Time Period: Term 3</strong>
-</p>
-<p><strong>Lesson Overview</strong>
-</p>
-<p>In this lesson, students will learn about sexual abuse, how it can happen
-during online and offline interactions and the impact of such abuse on
-victims. They also learn how to take precautionary measures to be safe
-and how to seek help for themselves and their friends. <em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
-<h4><strong><br><u>Growing Years for Primary 6</u></strong></h4>
-<h4><strong>Lesson Title&nbsp;: Are We More than Friends? Lesson 1 (60 min)</strong></h4>
-<p><strong>Time Period: Term 2</strong>
-</p>
-<p><strong>Lesson Overview</strong>
-</p>
-<p>In this lesson, students will learn to distinguish between the characteristics
-of love and infatuation, and identify the strong emotions that may arise
-from experiencing the feelings of infatuation. They will recognise that
-experiencing feelings of infatuation is part of growing up and becoming
-infatuated with someone does not mean that they should be involved in a
-romantic relationship. Instead, they should focus on building strong and
-healthy friendships with their circles of friends.</p>
-<h4><strong>Lesson Title&nbsp;: Are We More than Friends? Lesson 2 (60 min)</strong></h4>
-<p><strong>Time Period: Term 3</strong>
-</p>
-<p><strong>Lesson Overview</strong>
-</p>
-<p>In this lesson, students will learn healthy ways to manage the emotions
-arising from infatuation and recognise the importance of respecting the
-boundaries of any relationship. They will also recognise the negative impact
-of teasing their peers who may be experiencing the feelings of infatuation
-and learn to behave maturely towards each other.</p>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P5_SED.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_SED.png">
+</div>
 <h4><strong>6. Information for Parents</strong></h4>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
 supplementary Sexuality Education programmes by MOE-approved external providers.</p>

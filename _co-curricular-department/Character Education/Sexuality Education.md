@@ -86,6 +86,7 @@ from sexuality-related risks.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P5_SED.png">
 </div>
 <p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_SED.png">
 </div>

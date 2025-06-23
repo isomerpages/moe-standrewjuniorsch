@@ -44,9 +44,9 @@ Singaporean students in the school.</p>
 <p>Primary 4 to 6 $350</p>
 <h4><u>Nomination</u></h4>
 <p>You may nominate deserving Primary 3 to Primary 6 students. All nominations
-have to be made using the online nomination form, <a href="https://go.gov.sg/sajs2024echa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajs2024echa</a>,
-available from the school website and Parent Gateway from Monday, 12 August
-2024.</p>
-<p>3) The closing date for nomination is Friday, 16 August 2024 (5 pm) and
+have to be made using the online nomination form,&nbsp;<a href="https://go.gov.sg/sajs2025echa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sajs2025echa</a>,
+available from the school website and Parent Gateway from Monday, 7 July,
+2025.</p>
+<p>3) The closing date for nomination is Friday, 11 July 2025 (5 pm) and
 all nominations must be submitted by the closing date and time.</p>
 <p></p>

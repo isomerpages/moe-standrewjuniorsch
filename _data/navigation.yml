@@ -59,8 +59,8 @@ links:
     sublinks:
       - title: Department
         url: /department/overview/
-      - title: Committee
-        url: /committee/overview/
+      - title: Co Curricular Department
+        url: /cocurriculardepartment/overview/
   - title: CCA
     url: /cca/overview/
     sublinks:

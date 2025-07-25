@@ -23,4 +23,4 @@ Please apply via the form in the link below:
 
 *   [Parent Volunteer Registration Form](https://form.gov.sg/67eba6bc92a61cd11ad27620)
 
-<center> Timeline </center>
+<center> <u>Timeline</u> </center>

@@ -22,3 +22,5 @@ For parent/guardian that are interested to register themself to our school as a 
 Please apply via the form in the link below:
 
 *   [Parent Volunteer Registration Form](https://form.gov.sg/67eba6bc92a61cd11ad27620)
+
+<center> <u>Timeline</u> </center>

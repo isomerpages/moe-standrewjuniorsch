@@ -71,7 +71,7 @@ you would like to contact them directly.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A6. &nbsp;You may view our<a href="/school-calendar/" rel="noopener noreferrer nofollow" target="_blank">school calendar here.</a>
+<p>A6. &nbsp;You may view our <a href="/school-calendar/" rel="noopener noreferrer nofollow" target="_blank">school calendar here.</a>
 </p>
 </li>
 </ul>

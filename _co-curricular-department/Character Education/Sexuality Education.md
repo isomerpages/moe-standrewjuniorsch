@@ -45,7 +45,7 @@ pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here </a>for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h4><strong>Overview of St Andrew’s Junior School’s Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>Overview of ST Andrew's School(Junior)’s Sexuality Education Programme for 2025</strong></h4>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -77,7 +77,7 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p></p>
 <blockquote>
-<p><strong>At St Andrew’s Junior School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At ST Andrew's School(Junior), the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 <p></p>
 </blockquote>

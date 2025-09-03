@@ -13,7 +13,7 @@ locations:
         time: 7.30am - 5.00pm
         description: Closed on Public Holidays
     maps_link: https://goo.gl/maps/5MPRnHmL1PYYjPSLA
-    title: St Andrew's Junior School
+    title: St Andrew's School(Junior)
 contacts:
   - content:
       - phone: +65 6288 4303
@@ -30,4 +30,5 @@ contacts:
       - email: SAJS@moe.edu.sg
       - other: "ICT Service & Support: <i>ICT@saintandrewsjunior.moe.edu.sg</i>"
     title: General Enquiries & Feedback
+feedback: ""
 ---

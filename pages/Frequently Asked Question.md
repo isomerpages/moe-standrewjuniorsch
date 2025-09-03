@@ -4,7 +4,7 @@ permalink: /faq/
 description: ""
 variant: tiptap
 ---
-<p><strong>Q1.</strong> |<strong>How do I get to St Andrew's Junior School?</strong>
+<p><strong>Q1.</strong> |<strong>How do I get to St Andrew’s School(Junior)?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>

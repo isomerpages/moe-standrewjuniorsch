@@ -57,8 +57,5 @@ possible.</p>
 <li>
 <p>Ms Chen Ying Carissa</p>
 </li>
-<li>
-<p>Mrs Clara Wee</p>
-</li>
 </ul>
 <p></p>

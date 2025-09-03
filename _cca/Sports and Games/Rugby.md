@@ -42,8 +42,5 @@ of some great memories that have made Saints rugby what it is today.</p>
 <li>
 <p>Mr Zahrul Zaidin</p>
 </li>
-<li>
-<p>Mr Adrian Chia Junyong</p>
-</li>
 </ul>
 <p></p>

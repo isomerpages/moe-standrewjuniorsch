@@ -40,7 +40,7 @@ learners of the competencies necessary in our globalised world, namely</p>
 <h4>Teachers-in-charge</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Oriana Ying Pui Leng</p>
+<p>Mr Lo Chien-Chi</p>
 </li>
 </ul>
 <p></p>

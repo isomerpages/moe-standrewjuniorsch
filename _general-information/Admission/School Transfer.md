@@ -8,8 +8,8 @@ variant: tiptap
 <h3>School Transfer</h3>
 <p>Thank you for your interest in joining the Saint Andrew's family.</p>
 <p>Students who are studying in MOE primary schools and wish to be considered
-for admission to St. Andrew Junior School in the event that a vacancy becomes
-available may submit a transfer application to the school for consideration.
+for admission to St Andrew School (Junior) in the event that a vacancy
+becomes available may submit a transfer application to the school for consideration.
 Please complete the application by&nbsp;<strong>30<sup>th</sup> November of the Current Year.</strong>
 </p>
 <p><em>* Please note that, application will close from </em><strong><em>1<sup>st</sup> of August</em></strong><em> and applications will reopen for </em><strong><em>the NEXT year's waitlist</em></strong><em> will open on the </em><strong><em>1<sup>st</sup> of October of the Current Year</em>. *</strong>

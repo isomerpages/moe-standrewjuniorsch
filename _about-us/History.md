@@ -2,12 +2,13 @@
 title: History
 permalink: /about-us/history/
 description: ""
+variant: markdown
 ---
 ### History
 
-The beginning of St Andrew's School, perhaps, could be traced to the 1850s when two Anglicans, namely, Mr Sim Quee and Mr Tye Kim, set up a private institution in Chin Chew Street.
+The beginning of St Andrew’s School (Junior), perhaps, could be traced to the 1850s when two Anglicans, namely, Mr Sim Quee and Mr Tye Kim, set up a private institution in Chin Chew Street.
 
-#### Founding of St Andrew's School
+#### Founding of St Andrew’s School (Junior)
 
 As a result of Rev Humphreys' sermon on Whitsunday 1856, a group of laymen formed themselves into a committee for the spreading of the Gospel in the then 37-year old Singapore.
 

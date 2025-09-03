@@ -2,33 +2,85 @@
 title: Frequently Asked Question
 permalink: /faq/
 description: ""
+variant: tiptap
 ---
-**Q1.**	|**How do I get to St Andrew's Junior School?**
-* A1.  Buses nearby are Bus 8, 26, 31, 90, 90A, 142, 151, 154, 857, 966 & 985  
-* MRT nearby is Potong Pasir 
-
-
-**Q2.** | **How do I contact the school?** 
-* A2.   You may contact us at the following:  
-* General enquires & feedback email: SAJS@moe.edu.sg  
-* Tel: +65 6288 4303
-* Fax: +65 6289 5242
-* For IT Service & Support: ICT@saintandrewsjunior.moe.edu.sg  
-
- **Q3.** |  **What CCAs are offered at St Andrew's Junior School?** 
-* A3.  Clubs: Chess, Eco, Media, Visual Art Club  
-* Performing Arts: Band, Choir  
-* Sport and Games: Badminton, Basketball, Hockey, Rugby, Sports Club, Swimming  
-* Uniform Groups: Boys' Brigade, Scouts 
-
-**Q4.** |  **How do I update my child's particulars or travel declaration?** 
-* A4.  You may download the [Parents Gateway app](https://pg.moe.edu.sg/) on your smart device and update your child's particulars or travel declaration within the app. 
-
-**Q5.** |  **I would like to contact one of the school staff.** 
-* A5.   You may find our staff's contact email address [here](/staff/management-team/) if you would like to contact them directly.
-
-**Q6.** |  **Where do I view the school's calendar of events?** 
-* A6.   You may view our[school calendar here.](/school-calendar/)
-
-**Q7.** |  **My child needs to take a school bus to school. How can I make the necessary arrangements?** 
-* A7.   You may contact the school's [bus operators](/general-information/Suppliers-and-Vendors/bus-operators/) to make the necessary arrangements.
+<p><strong>Q1.</strong> |<strong>How do I get to St Andrew's Junior School?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A1. Buses nearby are Bus 8, 26, 31, 90, 90A, 142, 151, 154, 857, 966 &amp;
+985</p>
+</li>
+<li>
+<p>MRT nearby is Potong Pasir</p>
+</li>
+</ul>
+<p><strong>Q2.</strong> | <strong>How do I contact the school?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A2. &nbsp;You may contact us at the following:</p>
+</li>
+<li>
+<p>General enquires &amp; feedback email: SAJS@moe.edu.sg</p>
+</li>
+<li>
+<p>Tel: +65 6288 4303</p>
+</li>
+<li>
+<p>Fax: +65 6289 5242</p>
+</li>
+<li>
+<p>For IT Service &amp; Support: ICT@saintandrewsjunior.moe.edu.sg</p>
+</li>
+</ul>
+<p><strong>Q3.</strong> | &nbsp;<strong>What CCAs are offered at St Andrew’s School(Junior)?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A3. Clubs: Chess, Eco, Media, Visual Art Club</p>
+</li>
+<li>
+<p>Performing Arts: Band, Choir</p>
+</li>
+<li>
+<p>Sport and Games: Badminton, Basketball, Hockey, Rugby, Sports Club, Swimming</p>
+</li>
+<li>
+<p>Uniform Groups: Boys' Brigade, Scouts</p>
+</li>
+</ul>
+<p><strong>Q4.</strong> | &nbsp;<strong>How do I update my child's particulars or travel declaration?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A4. You may download the&nbsp;<a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway app</a>&nbsp;on your smart
+device and update your child's particulars or travel declaration within&nbsp;the
+app.</p>
+</li>
+</ul>
+<p><strong>Q5.</strong> | &nbsp;<strong>I would like to contact one of the school staff.</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A5. &nbsp;You may find our staff's contact email address&nbsp;<a href="/staff/management-team/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;if
+you would like to contact them directly.</p>
+</li>
+</ul>
+<p><strong>Q6.</strong> | &nbsp;<strong>Where do I view the school's calendar of events?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A6. &nbsp;You may view our<a href="/school-calendar/" rel="noopener noreferrer nofollow" target="_blank">school calendar here.</a>
+</p>
+</li>
+</ul>
+<p><strong>Q7.</strong> | &nbsp;<strong>My child needs to take a school bus to school. How can I make the necessary arrangements?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A7. &nbsp;You may contact the school's&nbsp;<a href="/general-information/Suppliers-and-Vendors/bus-operators/" rel="noopener noreferrer nofollow" target="_blank">bus operators</a>&nbsp;to
+make the necessary&nbsp;arrangements.</p>
+</li>
+</ul>
+<p></p>

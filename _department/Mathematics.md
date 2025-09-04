@@ -49,7 +49,7 @@ you say that, I used to think…Now I think, See-Think-Wonder and Connect-Extend
 <p>In our continuous pursuit for excellence. Mathematics has been integrated
 in different platforms such as the Charity Pushcart Programme, Learning
 Journeys for our Primary One and Two students, P5 Math trail (in collaboration
-with St. Andrew's Secondary School) as well as P6 Entrepreneurship Day.
+with St Andrew's School (Secondary) ) as well as P6 Entrepreneurship Day.
 A yearly activity where pupils work in groups to plan, market, price, promote
 and implement their projects to raise funds for the needy.</p>
 <hr>

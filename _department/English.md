@@ -70,11 +70,11 @@ clarity.</p>
 <h5>(v) Morning Oracy Progamme</h5>
 <p>Selected P6 pupils undergo this specially designed program to prepare
 them for the PSLE Oral Examinations. Parent Volunteers (PVs) work together
-with SAJS EL teachers to provide additional support to prepare our boys
+with SAS(J) EL teachers to provide additional support to prepare our boys
 for their oral examinations.</p>
 <p>All PVs in this programme participate in a training session with a representative
 from the EL department, who leads the programme. Their active participation
-is key to the success of this programme and SAJS is especially grateful
+is key to the success of this programme and SAS(J) is especially grateful
 to them for supporting our boys’ learning.</p>
 <h5>(vi) Hearts and Voices</h5>
 <p>Hearts and Voices is a Key Signature Programme where pupils are provided
@@ -201,7 +201,7 @@ and even short stories)</p>
 </li>
 </ul>
 <hr>
-<h4>SAJS Productions</h4>
+<h4>SAS(J) Productions</h4>
 <p>We are delighted to share that&nbsp;<em>Hearts and Voices: Volume 3</em>&nbsp;is
 available now!</p>
 <p></p>

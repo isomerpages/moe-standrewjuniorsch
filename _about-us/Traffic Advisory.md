@@ -4,7 +4,7 @@ permalink: /about-us/traffic-advisory/
 description: ""
 variant: tiptap
 ---
-<h3>Getting to ST Andrew's School(Junior) Safely</h3>
+<h3>Getting to ST Andrew's School (Junior) Safely</h3>
 <p>Student safety is a priority of our School. The safety of students using
 roads leading to and from the school is the responsibility of all. We need
 motorists to play their part by slowing down as they approach the vicinity

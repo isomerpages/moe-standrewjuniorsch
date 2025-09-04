@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 <hr>
 <h4></h4>
-<h4>Sexuality Education in SAJS</h4>
+<h4>Sexuality Education in SAS(J)</h4>
 <p>The school uses the Growing Years package as recommended by MOE. Only
 teachers trained in the package are deployed to teach the lessons. Lessons
 are taught during curriculum hours and are delivered through a modular...</p>

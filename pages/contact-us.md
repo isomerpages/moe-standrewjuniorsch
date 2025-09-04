@@ -28,7 +28,7 @@ contacts:
   - content:
       - phone: ""
       - email: SAJS@moe.edu.sg
-      - other: "ICT Service & Support: <i>ICT@saintandrewsjunior.moe.edu.sg</i>"
-    title: General Enquiries & Feedback
+      - other: "<b>ICT Service & Support: </b>ICT@saintandrewsjunior.moe.edu.sg"
+    title: "General Enquiries & Feedback:"
 feedback: ""
 ---

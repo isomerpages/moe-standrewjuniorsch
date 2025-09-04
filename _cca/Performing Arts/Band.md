@@ -24,9 +24,6 @@ musical talents through local and international performances and competitions.
 We welcome everyone to audition and be a part of this exciting CCA!</p>
 <p><strong>Special note:</strong>&nbsp;&nbsp;Students with medical conditions
 such as fits, and epilepsy are not encouraged to apply for the band.</p>
-<h4>Band Website</h4>
-<p><strong><a href="http://www.tinyurl.com/sajsband" rel="noopener noreferrer nofollow" target="_blank">SAS(J) Band</a></strong>
-</p>
 <h4>Teachers-in-charge</h4>
 <ul data-tight="true" class="tight">
 <li>

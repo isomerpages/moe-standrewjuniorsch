@@ -5,7 +5,7 @@ variant: tiptap
 ---
 <h1><strong>PRIVACY STATEMENT</strong></h1>
 <blockquote>
-<h4>&nbsp;<strong>St Andrew’s School(Junior) privacy statement</strong></h4>
+<h4>&nbsp;<strong>St Andrew’s School (Junior) privacy statement</strong></h4>
 </blockquote>
 <p>1.&nbsp; This is St Andrew’s School(Junior)'s website. Thank you for examining
 our privacy statement.</p>

@@ -6,7 +6,7 @@ third_nav_title: Sports and Games
 variant: tiptap
 ---
 <h3>Badminton</h3>
-<p>The SAJS Badminton CCA aims to equip all our members with a strong foundation
+<p>The SAS(J) Badminton CCA aims to equip all our members with a strong foundation
 of basic badminton skills and develop them to their fullest potential.
 In badminton, every CCA session always starts and ends with emphasis on
 character building. The members get ample opportunities for develop their

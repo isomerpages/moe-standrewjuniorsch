@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: ST Andrew School (Junior)
+title: St Andrew School (Junior)
 description: Brief site description here
 image: /images/sajlogo.png
 permalink: /

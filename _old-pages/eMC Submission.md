@@ -3,7 +3,6 @@ title: eMC Submission
 permalink: /letters-and-updates/Parents-Portal/emc-submission/
 description: ""
 ---
-
 ### eMC Submission
 
 Please select your child's respective class to submit the electronic Medical Certificate.  

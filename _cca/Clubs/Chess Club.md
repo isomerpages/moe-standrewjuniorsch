@@ -32,10 +32,8 @@ and think of better moves</p>
 <p><strong><a href="http://www.chess.com/" rel="noopener noreferrer nofollow" target="_blank">Chess.com</a></strong>
 </p>
 <h4>Teachers-in-Charge</h4>
+<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Ms Nicolette Yap</p>
-</li>
 <li>
 <p>Mrs Lin Yanqing</p>
 </li>

@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: St Andrew's Junior School
+agency_name: St Andrew's School (Junior)
 locations:
   - address:
       - 2 Francis Thomas Drive
@@ -13,7 +13,7 @@ locations:
         time: 7.30am - 5.00pm
         description: Closed on Public Holidays
     maps_link: https://goo.gl/maps/5MPRnHmL1PYYjPSLA
-    title: St Andrew's Junior School
+    title: St Andrew's School (Junior)
 contacts:
   - content:
       - phone: +65 6288 4303
@@ -28,6 +28,7 @@ contacts:
   - content:
       - phone: ""
       - email: SAJS@moe.edu.sg
-      - other: "ICT Service & Support: <i>ICT@saintandrewsjunior.moe.edu.sg</i>"
-    title: General Enquiries & Feedback
+      - other: "<b>ICT Service & Support: </b>ICT@saintandrewsjunior.moe.edu.sg"
+    title: "General Enquiries & Feedback:"
+feedback: ""
 ---

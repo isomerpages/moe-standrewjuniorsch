@@ -148,10 +148,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2 Wonder
-<br>(Form Teacher)
-<br>
-<br>Mdm Oriana Ying ying_pui_leng_oriana@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>

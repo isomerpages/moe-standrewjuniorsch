@@ -59,7 +59,7 @@ not to renew their LOA application.</p>
 <p>Submit application form to the school.</p>
 </li>
 <li>
-<p>Enclose a cheque made payable to "<strong>St Andrew's Junior School</strong>"
+<p>Enclose a cheque made payable to "<strong>ST Andrew's School(Junior)</strong>"
 (if application is made by post) or make cash payment at the school. Please
 do not send cash by post.</p>
 </li>

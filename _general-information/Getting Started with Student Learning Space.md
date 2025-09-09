@@ -5,8 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3>Getting Started with Student Learning Space</h3>
-<p>*If your account is locked, please request an account unlock by clicking&nbsp;
-<a href="https://form.gov.sg/#!/5d229344bf829f00113c1876" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>SYSTEM REQUIREMENTS</strong>
 </p>
 <ol data-tight="true" class="tight">

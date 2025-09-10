@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /committee/Character-Education/sexuality-education/
+permalink: /committee/character-education/sexuality-education/
 description: ""
 third_nav_title: Character Education
 variant: tiptap

@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /committee/Character-Education/overview/
+permalink: /committee/character-education/overview/
 description: ""
 third_nav_title: Character Education
 variant: tiptap

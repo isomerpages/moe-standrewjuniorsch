@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /committee/overview/
+permalink: /cocurricular/overview/
 description: ""
 variant: tiptap
 ---

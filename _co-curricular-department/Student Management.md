@@ -1,6 +1,6 @@
 ---
 title: Student Management
-permalink: /committee/student-management/
+permalink: /cocurricular/student-management/
 description: ""
 variant: tiptap
 ---

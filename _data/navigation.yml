@@ -60,7 +60,7 @@ links:
       - title: Department
         url: /department/overview/
       - title: Co Curricular Department
-        url: /cocurriculardepartment/
+        url: /cocurriculardepartment/overview/
   - title: CCA
     url: /cca/overview/
     sublinks:

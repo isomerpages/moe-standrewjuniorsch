@@ -1,32 +1,16 @@
 ---
-title: Bus Operators
-permalink: /general-information/Suppliers-and-Vendors/bus-operators/
-description: ""
-third_nav_title: Suppliers and Vendors
-variant: tiptap
+title: Daily School Bus Operator for 2026
+permalink: /announcements-daily-school-bus-operator-for-2026/
+description: School Bus Advertisement
+variant: markdown
 ---
-<h3>RS Transport Services</h3>
-<p>Mr Richard Tan
-<br>6251 0281</p>
-<p><a href="https://go.gov.sg/sasj-bus-operator-registration" rel="noopener noreferrer nofollow" target="_blank">Click here for Registration Form</a>&nbsp;(inclusive
+<h1>Daily School Bus Operator for 2026: Awarded to RS Transport Services</h1>
+<p>Contact: Mr Richard Tan 6251 0281</p>
+<p><a href="https://go.gov.sg/sasj-bus-operator-registration" rel="noopener noreferrer nofollow" target="_blank">Click here for Registration Form</a> (inclusive
 of Terms &amp; Conditions)
 <br>Please complete the fillable registration form and email to: sajs@rstransport.com.sg</p>
-<p><strong>Maximum Bus Fare Prices Schedule for Bus Services by Distance</strong>
-</p>
-<p>Notes:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The unit bus fare price for all categories of bus seating capacity should
-be quoted as ‘Not to Exceed’ price (i.e. maximum price) for each distance
-range (i.e. Up to 2km, &gt;2 - 4km, &gt;4 – 6km).</p>
-</li>
-<li>
-<p>Daily School Bus Services based on Not to Exceed Price (i.e. for sending
-students from home to school and vice versa).</p>
-</li>
-</ul>
 <p>Bus fares for daily school bus services, based on Not to Exceed Price,
-applicable from 1 January 2024 to 31 December 2025:</p>
+applicable from 1 January 2026 to 31 December 2026:</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>

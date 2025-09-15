@@ -4,13 +4,13 @@ permalink: /announcements-daily-school-bus-operator-for-2026-2027/
 description: School Bus Advertisement
 variant: markdown
 ---
-<h1>Daily School Bus Operator for 2026 – 2027: Awarded to RS Transport Services</h1>
+<h1>Daily School Bus Operator for 2026: Awarded to RS Transport Services</h1>
 <p>Contact: Mr Richard Tan 6251 0281</p>
 <p><a href="https://go.gov.sg/sasj-bus-operator-registration" rel="noopener noreferrer nofollow" target="_blank">Click here for Registration Form</a> (inclusive
 of Terms &amp; Conditions)
 <br>Please complete the fillable registration form and email to: sajs@rstransport.com.sg</p>
 <p>Bus fares for daily school bus services, based on Not to Exceed Price,
-applicable from 1 January 2026 to 31 December 2027:</p>
+applicable from 1 January 2026 to 31 December 2026:</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>

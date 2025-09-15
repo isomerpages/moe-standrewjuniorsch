@@ -2,8 +2,9 @@
 title: Daily School Bus Operator for 2024 – 2025
 permalink: /announcements-daily-school-bus-operator-for-2024-2025/
 description: School Bus Advertisement
+variant: markdown
 ---
-# Daily School Bus Operator for 2024 – 2025: Awarded to RS Transport Services
+# Daily School Bus Operator for 2025 – 2026: Awarded to RS Transport Services
    
 Contact: Mr Richard Tan 6251 0281
 

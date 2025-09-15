@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Announcements</h3>
 <h4>Daily School Bus Operator for 2026 – 2027: Awarded to RS Transport Services</h4>
-<p><a href="https://www.saintandrewsjunior.moe.edu.sg/announcements-daily-school-bus-operator-for-2024-2025" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
+<p><a href="https://www.saintandrewsjunior.moe.edu.sg/announcements-daily-school-bus-operator-for-2026-2027/" rel="noopener nofollow" target="_blank">Read more</a>
 </p>
 <hr>
 <h4>Primary 1 Orientation slides</h4>

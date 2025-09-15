@@ -3,6 +3,7 @@ title: Bus Operators
 permalink: /general-information/Suppliers-and-Vendors/bus-operators/
 description: ""
 third_nav_title: Suppliers and Vendors
+variant: markdown
 ---
 ### RS Transport Services
 
@@ -10,7 +11,7 @@ Mr Richard Tan
 <br>6251 0281
 
   
-[Click here for Registration Form](https://go.gov.sg/sajs-bus-operator-registration)&nbsp;(inclusive of Terms &amp; Conditions)
+[Click here for Registration Form](https://go.gov.sg/sasj-bus-operator-registration)&nbsp;(inclusive of Terms &amp; Conditions)
 <br>Please complete the fillable registration form and email to: sajs@rstransport.com.sg
 
 **Maximum Bus Fare Prices Schedule for Bus Services by Distance**
@@ -213,4 +214,4 @@ Bus Services for after school activities (i.e. sending students home from school
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.5pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Arial;color:black;mso-ansi-language:EN-US;mso-bidi-language:
   TA">130</span></p></td></tr></tbody></table>
-*Note: Fares are charged by term. 
+*Note: Fares are charged by term.

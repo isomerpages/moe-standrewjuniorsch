@@ -11,7 +11,7 @@ Contact: Mr Richard Tan 6251 0281
 [Click here for Registration Form](https://go.gov.sg/sajs-bus-operator-registration) (inclusive of Terms &amp; Conditions)
 <br>Please complete the fillable registration form and email to: sajs@rstransport.com.sg
 
-Bus fares for daily school bus services, based on Not to Exceed Price, applicable from 1 January 2024 to 31 December 2025:
+Bus fares for daily school bus services, based on Not to Exceed Price, applicable from 1 January 2025 to 31 December 2026:
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:

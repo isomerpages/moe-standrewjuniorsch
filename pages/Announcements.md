@@ -9,7 +9,7 @@ variant: tiptap
 <p><a href="https://www.saintandrewsjunior.moe.edu.sg/letters-and-updates/p1orientation2024/" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 <hr>
-<h4>Daily School Bus Operator for 2024 – 2025: Awarded to RS Transport Services</h4>
+<h4>Daily School Bus Operator for 2026 – 2027: Awarded to RS Transport Services</h4>
 <p><a href="https://www.saintandrewsjunior.moe.edu.sg/announcements-daily-school-bus-operator-for-2024-2025" rel="noopener noreferrer nofollow" target="_blank">Read more</a>
 </p>
 <hr>

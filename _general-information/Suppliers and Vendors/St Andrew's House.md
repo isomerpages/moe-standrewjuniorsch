@@ -9,7 +9,8 @@ variant: tiptap
 <p>Address: 3 Francis Thomas Drive
 <br>Singapore 359341
 <br>Tel: 6288 1782
-<br>Tel: 6287 2991</p>
+<br>Tel: 6287 2991
+<br>Email: admin@sah.org.sg</p>
 <p>Operating Hours: 12noon to 7pm</p>
 <p><a href="/files/SAH_Registration_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">St Andrew's House Registration form</a>
 </p>

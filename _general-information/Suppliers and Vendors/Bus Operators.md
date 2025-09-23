@@ -26,7 +26,7 @@ students from home to school and vice versa).</p>
 </li>
 </ul>
 <p>Bus fares for daily school bus services, based on Not to Exceed Price,
-applicable from 1 January 2024 to 31 December 2025:</p>
+applicable from 1 January 2026 to 31 December 2026:</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>

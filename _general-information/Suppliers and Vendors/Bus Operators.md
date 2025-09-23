@@ -10,7 +10,7 @@ variant: tiptap
 <br>6251 0281</p>
 <p><a href="https://go.gov.sg/sasj-bus-operator-registration" rel="noopener noreferrer nofollow" target="_blank">Click here for Registration Form</a>&nbsp;(inclusive
 of Terms &amp; Conditions)
-<br>Please complete the fillable registration form and email to: sajs@rstransport.com.sg</p>
+<br>Please complete the fillable registration form and email to: sasj@rstransport.com.sg</p>
 <p><strong>Maximum Bus Fare Prices Schedule for Bus Services by Distance</strong>
 </p>
 <p>Notes:</p>

@@ -18,7 +18,7 @@ Please complete the application by&nbsp;<strong>30<sup>th</sup> November of the 
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Application is to be done strictly via the link <a href="https://form.gov.sg/65016d83e3fae000119e5995" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Application is to be done strictly via the link <a href="https://form.gov.sg/6879b591f62dd50240167abc" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 </li>
 <li>

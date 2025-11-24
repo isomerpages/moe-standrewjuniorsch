@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Booklist</h3>
-<p>The 2025 booklists can be downloaded from the links below:</p>
+<p>The 2026 book lists can be downloaded from the links below:</p>
 <p><a href="/files/P1__booklist_2026.pdf" rel="noopener nofollow" target="_blank">P1 booklist 2026</a>
 <br>
 </p>

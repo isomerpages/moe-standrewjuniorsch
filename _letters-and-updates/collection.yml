@@ -2,7 +2,7 @@ collections:
   letters-and-updates:
     output: true
     order:
-      - Primary 1 Orientation 2026.md
       - Overview.md
+      - Primary 1 Orientation 2026.md
       - Primary 1 orientation 2025.md
       - 2023 Meet the Parents Slides.md

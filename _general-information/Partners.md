@@ -13,7 +13,7 @@ Please click on the link below to visit our partners:
     
 *   [Church of the Ascension](http://www.ascension.org.sg/)  
 
-*   [St Andrew's House](../general-information/Suppliers-and-Vendors/st-andrews-house/)
+*   [St Andrew's House](https://www.saintandrewsjunior.moe.edu.sg/general-information/Suppliers-and-Vendors/st-andrews-house/)
     
 *   [St Andrew's School (Secondary)](http://www.standrewssec.moe.edu.sg/)  
     

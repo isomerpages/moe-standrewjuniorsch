@@ -2,7 +2,7 @@
 title: Daily School Bus Operator for 2026
 permalink: /announcements-daily-school-bus-operator-for-2026/
 description: School Bus Advertisement
-variant: markdown
+variant: tiptap
 ---
 <h1>Daily School Bus Operator for 2026: Awarded to RS Transport Services</h1>
 <p>Contact: Mr Richard Tan 6251 0281</p>
@@ -100,61 +100,5 @@ applicable from 1 January 2026 to 31 December 2026:</p>
 </tbody>
 </table>
 <p>*Note: Fares are charged by month.</p>
-<p>Bus Services for after school activities (i.e. sending students home from
-school after supplementary lessons / enrichment programmes and Co-Curricular
-Activities) departing before 4pm:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Distance</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Up to 15-seater</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&gt;15-seater</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Up to 2km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>120/term</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>120/term</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;2 – 4km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>135/term</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>135/term</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;4 – 6km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>150/term</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>150/term</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p>*Note: Fares are charged by term.</p>

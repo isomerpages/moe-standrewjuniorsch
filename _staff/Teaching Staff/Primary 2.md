@@ -63,7 +63,8 @@ variant: tiptap
 <p>P2 Resilience
 <br>(Form Teacher)
 <br>
-<br>Mrs Ong Swee Ying ng_swee_ying@moe.edu.sg</p>
+<br>Mrs Ong Swee Ying</p>
+<p>ng_swee_ying@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -89,7 +90,8 @@ variant: tiptap
 <p>P2 Unity
 <br>(Form Teacher)
 <br>
-<br>Mdm Gao Lihua gao_lihua@moe.edu.sg</p>
+<br>Mdm Gao Lihua</p>
+<p>gao_lihua@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +140,8 @@ variant: tiptap
 <p>P2 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mdm Lew Puay Ling lew_puay_ling@moe.edu.sg</p>
+<br>Mdm Lew Puay Ling</p>
+<p>lew_puay_ling@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,7 +165,8 @@ variant: tiptap
 <p>P2 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mr Quek Ye Shaun quek_ye_shaun@moe.edu.sg</p>
+<br>Mr Quek Ye Shaun</p>
+<p>quek_ye_shaun@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

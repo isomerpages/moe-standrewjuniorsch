@@ -109,8 +109,7 @@ variant: tiptap
 <p>P1 Empathy
 <br>(Form Teacher)
 <br>
-<br>Ms Norashikin Binte Suhadi</p>
-<p>norashikin_suhadi@moe.edu.sg</p>
+<br>Miss Ranjinidevi D/O NV Thanasegaram ranjinidevi_thanasegaram@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,7 +121,7 @@ variant: tiptap
 <p>P1 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mdm Yu Suling, Ingrid</p>
+<br>Mr Jimmy Lim lim_boon_heng_jimmy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

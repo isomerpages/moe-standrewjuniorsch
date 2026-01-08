@@ -44,8 +44,8 @@ variant: tiptap
 <p>P5 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Mrs Rena Lee
-<br>wong_ee-vernn_rena@moe.edu.sg</p>
+<br>Miss Serene Han Tui Kin</p>
+<p>serene_han_tui_kin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -57,7 +57,8 @@ variant: tiptap
 <p>P5 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Ms Karpaga Valli D/O Manickam karpaga_valli_manickam@moe.edu.sg</p>
+<br>Ms Wendy Foo</p>
+<p>wendy_foo_siew_li@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,7 +73,8 @@ variant: tiptap
 <p>P5 Resilience
 <br>(Form Teacher)
 <br>
-<br>Mrs Yogeshwari Manikandan kannadasan_yogeshwari@moe.edu.sg</p>
+<br>Ms Tan Xian-En Kimberly</p>
+<p>tan_xian-en_kimberly@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,8 +87,8 @@ variant: tiptap
 <p>P5 Resilience
 <br>(Form Teacher)
 <br>
-<br>Ms Aw Jie Shi
-<br>aw_jie_shi@moe.edu.sg</p>
+<br>Ms Tang Junli</p>
+<p>tang_junli@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

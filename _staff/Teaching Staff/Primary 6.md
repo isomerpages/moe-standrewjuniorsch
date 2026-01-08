@@ -39,8 +39,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6 Thanksgiving
 <br>(Form Teacher)</p>
-<p>Ms Victoria Koay</p>
-<p>victoria_koay@moe.edu.sg</p>
+<p>Mrs Angela Lim
+<br>angela_lim@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,8 +52,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6 Thanksgiving
 <br>(Form Teacher)</p>
-<p>Mr Leo Hee Meng Kelvin</p>
-<p>leo_hee_meng_kelvin@moe.edu.sg</p>
+<p>Ms Karpaga Valli D/O Manickam</p>
+<p>karpaga_valli_manickam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -63,8 +63,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6 Resilience
 <br>(Form Teacher)</p>
-<p>Mrs Tay-Tan Lee Lian</p>
-<p>tan_lee_lian@moe.edu.sg</p>
+<p>Ms Aw Jie Shi
+<br>aw_jie_shi@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,114 +76,115 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6 Resilience
 <br>(Form Teacher)</p>
-<p>Mdm Wu Ting Ting</p>
+<p>Mrs Yogeshwari Manikandan</p>
+<p>kannadasan_yogeshwari@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Unity
+<br>(Form Teacher)</p>
+<p>Mr Zhang Zishao Samuel</p>
+<p>zhang_zishao@moe.edu.sg</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Unity
+<br>(Form Teacher)</p>
+<p>Ms Ng Jacqueline</p>
+<p>ng_jacqueline@moe.edu.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Empathy
+<br>(Form Teacher)
+<br>
+<br>Ms Chen Ying Carissa</p>
+<p>chen_ying_carissa@moe.edu.sg</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Empathy
+<br>(Form Teacher)
+<br>
+<br>Ms Leong Shiao Shyan Emily</p>
+<p>leong_shiao_shyan_emily@moe.edu.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Wonder
+<br>(Form Teacher)
+<br>
+<br>Mr Shahriman</p>
+<p>shahriman_mostapa@moe.edu.sg</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Wonder
+<br>(Form Teacher)
+<br>
+<br>Mrs Andreatte Loh</p>
+<p>lucy_andreatte_yip@moe.edu.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Integrity
+<br>(Form Teacher)
+<br>
+<br>Ms Nur Hazura Binte Hamdan</p>
+<p>nur_hazura_hamdan@moe.edu.sg</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Integrity
+<br>(Form Teacher)
+<br>
+<br>Mdm Wu Ting Ting</p>
+<p></p>
 <p>wu_ting_ting@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 Unity
-<br>(Form Teacher)</p>
-<p>Ms Victoria Phua</p>
-<p>victoria_phua_yiling@moe.edu.sg</p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 Unity
-<br>(Form Teacher)</p>
-<p>Mr Zhang Pu</p>
-<p>zhang_pu@moe.edu.sg</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 Empathy
-<br>(Form Teacher)
-<br>
-<br>Mrs Kieu-Tan Chu Hua Doreen</p>
-<p>tan_chu_hua@moe.edu.sg</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 Empathy
-<br>(Form Teacher)
-<br>
-<br>Ms Tang Junli</p>
-<p>tang_junli@moe.edu.sg</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 Wonder
-<br>(Form Teacher)
-<br>
-<br>Mr Khairil Anuar B Idris</p>
-<p>khairil_anuar@moe.edu.sg</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 Wonder
-<br>(Form Teacher)
-<br>
-<br>Ms Ng Jun Qing</p>
-<p>ng_jun_qing@moe.edu.sg</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 Integrity
-<br>(Form Teacher)
-<br>
-<br>Mrs Loh-Goh Seow Ting</p>
-<p>goh_seow_ting@moe.edu.sg</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 Integrity
-<br>(Form Teacher)
-<br>
-<br>Mrs Angela Lim</p>
-<p>angela_lim@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>

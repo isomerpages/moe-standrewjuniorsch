@@ -76,7 +76,8 @@ variant: tiptap
 <p>P4 Resilience
 <br>(Form Teacher)</p>
 <p></p>
-<p>Ms Saw Lay Lay saw_lay_lay@moe.edu.sg</p>
+<p>Ms Saw Lay Lay</p>
+<p>saw_lay_lay@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>

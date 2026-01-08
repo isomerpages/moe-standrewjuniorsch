@@ -102,8 +102,7 @@ variant: tiptap
 <p>P2 Unity
 <br>(Form Teacher)
 <br>
-<br>Mdm Wan Xiaolin Sophie
-<br>Wan_xiaolin@moe.edu.sg</p>
+<br>Mr Lee Kai Chuen Bruce lee_kai_chuen_bruce@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

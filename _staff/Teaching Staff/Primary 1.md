@@ -40,8 +40,7 @@ variant: tiptap
 <p>P1 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Mrs Sharon Ee</p>
-<p>sharon_cheng_shi_min@moe.edu.sg</p>
+<br>Mr Edmond Toh toh_boon_yong_edmond@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -53,7 +52,7 @@ variant: tiptap
 <p>P1 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Mdm Ong Geok Peng Wendy</p>
+<br>Mdm Ong Geok Peng Wendy ong_geok_peng_wendy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -64,8 +63,7 @@ variant: tiptap
 <p>P1 Resilience
 <br>(Form Teacher)
 <br>
-<br>Mrs Ong Swee Ying</p>
-<p>ng_swee_ying@moe.edu.sg</p>
+<br>Mdm Alexia Quek quek_yi_lin_alexia@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -77,7 +75,7 @@ variant: tiptap
 <p>P1 Resilience
 <br>(Form Teacher)
 <br>
-<br>Mdm Lee I Gwen</p>
+<br>Mdm Xu Jing xu_jing_b_1@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -88,8 +86,7 @@ variant: tiptap
 <p>P1 Unity
 <br>(Form Teacher)
 <br>
-<br>Ms Nicolette Yap</p>
-<p>nicolette_yap_jee_lian@moe.edu.sg</p>
+<br>Mrs Germaine Cheng yap_limin_germaine@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -101,8 +98,7 @@ variant: tiptap
 <p>P1 Unity
 <br>(Form Teacher)
 <br>
-<br>Mrs Esther Morales</p>
-<p>morales_esther_auriel@moe.edu.sg</p>
+<br>Mdm Xiang Zhen xiang_zhen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

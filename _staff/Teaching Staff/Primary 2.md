@@ -63,7 +63,7 @@ variant: tiptap
 <p>P2 Resilience
 <br>(Form Teacher)
 <br>
-<br>Mdm Sandy Low sandy_low_gait_hong@moe.edu.sg</p>
+<br>Mrs Ong Swee Ying ng_swee_ying@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -76,7 +76,7 @@ variant: tiptap
 <br>(Form Teacher)</p>
 <p></p>
 <p></p>
-<p>Mdm Sofia Bte Othman sofia_othman@moe.edu.sg</p>
+<p>Mdm Wu Shixian wu_shixian@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>

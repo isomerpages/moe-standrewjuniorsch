@@ -162,7 +162,7 @@ variant: tiptap
 <p>P2 Integrity
 <br>(Form Teacher)
 <br>
-<br>Ms Wendy Foo wendy_foo_siew_li@moe.edu.sg</p>
+<br>Mr Quek Ye Shaun quek_ye_shaun@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,8 +175,7 @@ variant: tiptap
 <p>P2 Integrity
 <br>(Form Teacher)
 <br>
-<br>Ms Chan Shi Hui
-<br>chan_shi_hui@moe.edu.sg</p>
+<br>Mdm Nora Bte Izaharnora_izahar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +186,7 @@ variant: tiptap
 <p>P2 Self-Discipline
 <br>(Form Teacher)
 <br>
-<br>Mrs Germaine Cheng yap_limin_germaine@moe.edu.sg</p>
+<br>Mrs Catherine Yew hwong_choi_foong_catherine@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,7 +199,7 @@ variant: tiptap
 <p>P2 Self-Discipline
 <br>(Form Teacher)
 <br>
-<br>Ms Pushpa D/O Selvaraju pushpa_selvaraju@moe.edu.sg</p>
+<br>Ms Cherie Lee cherie_lee_sze_ern@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>

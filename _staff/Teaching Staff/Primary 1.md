@@ -132,8 +132,7 @@ variant: tiptap
 <p>P1 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mdm Lew Puay Ling</p>
-<p>lew_puay_ling@moe.edu.sg</p>
+<br>Mdm Agnes Zheng zheng_chuxiang_agnes@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -145,8 +144,7 @@ variant: tiptap
 <p>P1 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mdm Lin Yan Qing</p>
-<p>lin_yan_qing@moe.edu</p>
+<br>Mdm Sofia Bte Othman sofia_othman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -157,8 +155,7 @@ variant: tiptap
 <p>P1 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mr Quek Ye Shaun</p>
-<p>quek_ye_shaun@moe.edu.sg</p>
+<br>Mdm Agnes Zheng Zheng_Chuxiang_Agnes</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

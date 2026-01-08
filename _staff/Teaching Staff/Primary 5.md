@@ -102,7 +102,8 @@ variant: tiptap
 <p>P5 Unity
 <br>(Form Teacher)
 <br>
-<br>Mr Adrian Chia Junyong adrian_chia_junyong@moe.edu.sg</p>
+<br>Mr Sitt Wei Kian</p>
+<p>sitt_wei_kian@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -114,7 +115,8 @@ variant: tiptap
 <p>P5 Unity
 <br>(Form Teacher)
 <br>
-<br>Ms Ng Jacqueline ng_jacqueline@moe.edu.sg</p>
+<br>Mr Tan Jia Jun Jake
+<br>tan_jia_jun_jake @moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +131,7 @@ variant: tiptap
 <p>P5 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mr Zahrul Bin Zaiden zahrul_zaiden@moe.edu.sg</p>
+<br>Mrs Kieu-Tan Chu Hua Doreen tan_chu_hua@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,7 +144,7 @@ variant: tiptap
 <p>P5 Empathy
 <br>(Form Teacher)
 <br>
-<br>Ms Chen Ying Carissa chen_ying_carissa@moe.edu.sg</p>
+<br>Mr Adrian Chia Junyong adrian_chia_junyong@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,7 +159,7 @@ variant: tiptap
 <p>P5 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mrs Andreatte Loh lucy_andreatte_yip@moe.edu.sg</p>
+<br>Ms Victoria Koay victoria_koay@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,7 +172,28 @@ variant: tiptap
 <p>P5 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mr Shahriman shahriman_mostapa@moe.edu.sg</p>
+<br>Mr Teo Shi Han</p>
+<p>teo_shi_han_A@moe.edu.sg</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,7 +208,7 @@ variant: tiptap
 <p>P5 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mr Kevin Ng ng_min_keong_kevin@moe.edu.sg</p>
+<br>Ms Victoria Phua victoria_phua_yiling@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,7 +221,7 @@ variant: tiptap
 <p>P5 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mdm Poh Ser Lee poh_ser_lee@moe.edu.sg</p>
+<br>Mr Leo Hee Meng Kelvin leo_hee_meng_kelvin@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

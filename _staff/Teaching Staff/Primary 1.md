@@ -155,7 +155,7 @@ variant: tiptap
 <p>P1 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mdm Agnes Zheng Zheng_Chuxiang_Agnes</p>
+<br>Mdm Sandy Low sandy_low_gait_hong@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -167,8 +167,7 @@ variant: tiptap
 <p>P1 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mdm Nora Bte Izahar</p>
-<p>nora_izahar@moe.edu.sg</p>
+<br>Mdm Pamela Low low_yi_qing_pamela@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -179,8 +178,7 @@ variant: tiptap
 <p>P1 Self-Discipline
 <br>(Form Teacher)
 <br>
-<br>Mrs Catherine Yew</p>
-<p>hwong_choi_foong_catherine@moe.edu.sg</p>
+<br>Mdm Tin Shu Yee tin_shu_yee@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -192,7 +190,7 @@ variant: tiptap
 <p>P1 Self-Discipline
 <br>(Form Teacher)
 <br>
-<br>Mdm Lim Boon Geok</p>
+<br>Mrs Jane Ong wu_mei_chan_jane@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -203,8 +201,7 @@ variant: tiptap
 <p>P1 Excellence
 <br>(Form Teacher)
 <br>
-<br>Mrs Irene Lim - Koh Hui Ling</p>
-<p>koh_hui_ling_a@moe.edu.sg</p>
+<br>Mdm Lim Boon Geok lim_boon_geok@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -216,8 +213,7 @@ variant: tiptap
 <p>P1 Excellence
 <br>(Form Teacher)
 <br>
-<br>Mdm Chong Kwee Chin Valentina</p>
-<p>chong_kwee_chin@moe.edu.sg</p>
+<br>Mdm Revathi D/O Selvaraja revathi_selvaraja@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>

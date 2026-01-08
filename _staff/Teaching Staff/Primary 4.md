@@ -89,7 +89,8 @@ variant: tiptap
 <p>P4 Unity
 <br>(Form Teacher)
 <br>
-<br>Mrs Tracy Liu liu_huanjia_tracy@moe.edu.sg</p>
+<br>Mrs Tracy Liu</p>
+<p>liu_huanjia_tracy@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

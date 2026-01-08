@@ -82,19 +82,42 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Master Teacher / Chinese Language
+<br>
+<br>Zhou Enguo</p>
+<p>zhou_enguo@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head /English
+<br>
+<br>Ms Andrea Mori
+<br>quah_shi_qi_andrea@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Level Head /English
 <br>
 <br>Ms Victoria Koay
 <br>victoria_koay@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -203,10 +226,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Aesthetics
+<p>Subject Head / Aesthetics, PE &amp; CCA
 <br>
-<br>Ms Tan Xian-En Kimberly
-<br>tan_xian-en_kimberly@moe.edu.sg</p>
+<br>Mr Tan Jia Jun Jake</p>
+<p>tan_jia_jun_jake@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +249,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Subject Head / Character &amp; Citizenship Education
+<br>
+<br>Ms Tan Xian-En Kimberly
+<br>tan_xian-en_kimberly@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -246,10 +272,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Student Management
-<br>
-<br>Mr Anthony Luke Fernandez
-<br>anthony_luke_fernandez@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -302,8 +325,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P3 / P4 Year Head
 <br>
-<br>Mr Yeo Peng Seng
-<br>yeo_peng_seng@moe.edu.sg</p>
+<br>Mr Anthony Luke Fernandez
+<br>anthony_luke_fernandez@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -340,10 +363,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer
+<p>School Staff Developer (covering)
 <br>
-<br>Mrs Tay-Tan Lee Lian
-<br>tan_lee_lian@moe.edu.sg</p>
+<br>Mrs Kieu-Tan Chu Hua Doreen
+<br>tan_chu_hua@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

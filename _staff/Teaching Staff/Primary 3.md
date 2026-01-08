@@ -40,7 +40,7 @@ variant: tiptap
 <p>P3 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Mr Adam Harisan Wilkinson adam_harisan_wilkinson@moe.edu.sg</p>
+<br>Ms Pushpa D/O Selvaraju pushpa_selvaraju@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +53,7 @@ variant: tiptap
 <p>P3 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Ms Sun Yuanxin sun_yuanxin@moe.edu.sg</p>
+<br>Miss Liu Muhan</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ variant: tiptap
 <p>P3 Resilience
 <br>(Form Teacher)
 <br>
-<br>Mr Anthony Luke Fernandez anthony_luke_fernandez@moe.edu.sg</p>
+<br>Mrs Loh-Goh Seow Ting goh_seow_ting@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,7 +77,8 @@ variant: tiptap
 <p>P3 Resilience
 <br>(Form Teacher)
 <br>
-<br>Ms Saw Lay Lay saw_lay_lay@moe.edu.sg</p>
+<br>Miss P Radha</p>
+<p>p_radha@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -89,7 +90,7 @@ variant: tiptap
 <p>P3 Unity
 <br>(Form Teacher)
 <br>
-<br>Mr Yeo Peng Seng yeo_peng_seng@moe.edu.sg</p>
+<br>Mr Duane Chan Xin Jie duane_chan_xin_jie@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +103,7 @@ variant: tiptap
 <p>P3 Unity
 <br>(Form Teacher)
 <br>
-<br>Mdm Shanthi D/O E Ramian shanthi_e_ramian@moe.edu.sg</p>
+<br>Mr Khairil Anuar B Idris khairil_anuar@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -114,7 +115,7 @@ variant: tiptap
 <p>P3 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mdm Zuraidah Bte Abdul Malik zuraidah_abdul_malik@moe.edu.sg</p>
+<br>Mrs Andrea Mori quah_shi_qi_andrea@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,7 +128,7 @@ variant: tiptap
 <p>P3 Empathy
 <br>(Form Teacher)
 <br>
-<br>Ms Lim Ju Hong Janna ju_hong_janna_lim@moe.edu.sg</p>
+<br>Mr Alvin Chooi chooi_sian_woon@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -139,7 +140,8 @@ variant: tiptap
 <p>P3 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mdm Revathi D/O Selvaraja revathi_selvaraja@moe.edu.sg</p>
+<br>Mr Zhang Pu</p>
+<p>zhang_pu@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,8 +154,7 @@ variant: tiptap
 <p>P3 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mr Lo Chien Chi
-<br>lo_chien-chi@moe.edu.sg</p>
+<br>Miss Gayathree D/O Vellasamy</p>
 </td>
 </tr>
 <tr>
@@ -164,8 +165,7 @@ variant: tiptap
 <p>P3 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mdm Lin Jingya
-<br>lin_jingya@moe.edu.sg</p>
+<br>Ms Nicolette Yap nicolette_yap_jee_lian@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -177,7 +177,7 @@ variant: tiptap
 <p>P3 Integrity
 <br>(Form Teacher)</p>
 <p></p>
-<p>Mr Muhammad Hafiz Bin Mohamed Khalil</p>
+<p>Mdm Ngin Chor Hong ngin_chor_hong@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

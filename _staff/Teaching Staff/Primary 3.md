@@ -77,7 +77,8 @@ variant: tiptap
 <p>P3 Resilience
 <br>(Form Teacher)
 <br>
-<br>Miss P Radha p_radha@moe.edu.sg</p>
+<br>Miss P Radha</p>
+<p>p_radha@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -139,7 +140,8 @@ variant: tiptap
 <p>P3 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mr Zhang Pu zhang_pu@moe.edu.sg</p>
+<br>Mr Zhang Pu</p>
+<p>zhang_pu@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

@@ -39,7 +39,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P2 Thanksgiving
 <br>(Form Teacher)</p>
-<p>Mdm Ngin Chor Hong ngin_chor_hong@moe.edu.sg</p>
+<p>Mrs Sharon Ee sharon_cheng_shi_min@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -51,7 +51,7 @@ variant: tiptap
 <p>P2 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Mdm Tin Shu Yee tin_shu_yee@moe.edu.sg</p>
+<br>Miss Lee Jia En Joanna lee_jia_en_joanna_a@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>

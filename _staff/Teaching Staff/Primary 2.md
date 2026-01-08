@@ -76,7 +76,8 @@ variant: tiptap
 <br>(Form Teacher)</p>
 <p></p>
 <p></p>
-<p>Mdm Wu Shixian wu_shixian@moe.edu.sg</p>
+<p>Mrs Rena Lee
+<br>wong_ee-vernn_rena@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -88,7 +89,7 @@ variant: tiptap
 <p>P2 Unity
 <br>(Form Teacher)
 <br>
-<br>Mr Jimmy Lim lim_boon_heng_jimmy@moe.edu.sg</p>
+<br>Mdm Gao Lihua gao_lihua@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

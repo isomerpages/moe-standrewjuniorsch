@@ -211,7 +211,7 @@ variant: tiptap
 <p>P2 Excellence
 <br>(Form Teacher)
 <br>
-<br>Mdm Leow Hui Mei leow_hui_mei@moe.edu.sg</p>
+<br>Mrs Irene Lim - Koh Hui Ling koh_hui_ling_ai@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -223,8 +223,8 @@ variant: tiptap
 <p>P2 Excellence
 <br>(Form Teacher)
 <br>
-<br>Mdm Sellammal D/O Varadarajalu
-<br>sellammal_varadarajalu@moe.edu.sg</p>
+<br>Mdm Wan Xiaolin Sophie
+<br>Wan_xiaolin@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

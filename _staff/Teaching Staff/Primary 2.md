@@ -113,7 +113,7 @@ variant: tiptap
 <p>P2 Empathy
 <br>(Form Teacher)
 <br>
-<br>Ms Vasanthi D/O K Sinnathamby vasanthi_k_sinnathamby@moe.edu.sg</p>
+<br>Ms Norashikin Binte Suhadi norashikin_suhadi@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,7 +126,7 @@ variant: tiptap
 <p>P2 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mdm Alexia Quek quek_yi_lin_alexia@moe.edu.sg</p>
+<br>Mdm Wu Shixian wu_shixian@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -138,7 +138,7 @@ variant: tiptap
 <p>P2 Wonder
 <br>(Form Teacher)
 <br>
-<br>Ms Amanda Lye Su Wen amanda_lye_su_wen@moe.edu.sg</p>
+<br>Mdm Lew Puay Ling lew_puay_ling@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,7 +148,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>P2 Wonder
+<br>(Form Teacher)</p>
 <p></p>
+<p>Mdm Lin Yan Qing lin_yan_qing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

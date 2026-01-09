@@ -52,7 +52,7 @@ variant: tiptap
 <p>P2 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Miss Lee Jia En Joanna
+<br>Miss Joanna Lee
 <br>lee_jia_en_joanna_a@moe.edu.sg</p>
 <p></p>
 </td>
@@ -106,7 +106,7 @@ variant: tiptap
 <p>P2 Unity
 <br>(Form Teacher)
 <br>
-<br>Mr Lee Kai Chuen Bruce
+<br>Mr Bruce Lee
 <br>lee_kai_chuen_bruce@moe.edu.sg</p>
 </td>
 </tr>
@@ -145,8 +145,8 @@ variant: tiptap
 <p>P2 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mdm Lew Puay Ling</p>
-<p>lew_puay_ling@moe.edu.sg</p>
+<br>Mdm Lew Puay Ling
+<br>lew_puay_ling@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -159,7 +159,8 @@ variant: tiptap
 <p>P2 Wonder
 <br>(Form Teacher)</p>
 <p></p>
-<p>Mdm Lin Yan Qing lin_yan_qing@moe.edu.sg</p>
+<p>Mdm Lin Yan Qing
+<br>lin_yan_qing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +171,7 @@ variant: tiptap
 <p>P2 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mr Quek Ye Shaun
+<br>Mr Shaun Quek
 <br>quek_ye_shaun@moe.edu.sg</p>
 <p></p>
 </td>
@@ -223,7 +224,7 @@ variant: tiptap
 <p>P2 Excellence
 <br>(Form Teacher)
 <br>
-<br>Mrs Irene Lim - Koh Hui Ling
+<br>Mrs Irene Lim
 <br>koh_hui_ling_ai@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,7 +237,7 @@ variant: tiptap
 <p>P2 Excellence
 <br>(Form Teacher)
 <br>
-<br>Mdm Wan Xiaolin Sophie
+<br>Mdm Sophie Wan
 <br>Wan_xiaolin@moe.edu.sg</p>
 </td>
 </tr>

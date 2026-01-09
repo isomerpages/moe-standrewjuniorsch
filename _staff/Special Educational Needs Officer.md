@@ -24,13 +24,13 @@ self-esteem and sense of independence.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Designation</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Email</p>
 </th>
 </tr>
 <tr>

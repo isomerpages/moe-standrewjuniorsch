@@ -207,7 +207,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD / Educational Technology </strong>
+<p><strong>HOD / Educational Technology</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -455,6 +455,67 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Manager (ICT)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Jin Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_jin_yong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Yoke Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_yoke_choo_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Henry Roy Jacob</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>henry_roy_jacob@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jason Soh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jason_isac_soh@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

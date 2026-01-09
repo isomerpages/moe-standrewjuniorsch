@@ -66,7 +66,7 @@ programmes, driving IT developments and managing our resources.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Manager </strong>
+<p><strong>Operations Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +78,7 @@ programmes, driving IT developments and managing our resources.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Manager </strong>
+<p><strong>Operations Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

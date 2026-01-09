@@ -362,14 +362,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Assistant Year Head (P1 / P2)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<p>Mdm Sandy Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sandy_low_gait_hong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

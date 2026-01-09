@@ -53,7 +53,7 @@ variant: tiptap
 <p>P1 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Mdm Ong Geok Peng Wendy ong_geok_peng_wendy@moe.edu.sg</p>
+<br>Mdm Wendy Ong ong_geok_peng_wendy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +114,8 @@ variant: tiptap
 <p>P1 Empathy
 <br>(Form Teacher)
 <br>
-<br>Miss Ranjinidevi D/O NV Thanasegaram ranjinidevi_thanasegaram@moe.edu.sg</p>
+<br>Miss Ranjinidevi
+<br>ranjinidevi_thanasegaram@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -226,7 +227,7 @@ variant: tiptap
 <p>P1 Excellence
 <br>(Form Teacher)
 <br>
-<br>Mdm Revathi D/O Selvaraja
+<br>Mdm Revathi
 <br>revathi_selvaraja@moe.edu.sg</p>
 <p></p>
 </td>

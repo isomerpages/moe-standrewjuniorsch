@@ -40,7 +40,8 @@ variant: tiptap
 <p>P4 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Mr Adam Harisan Wilkinson adam_harisan_wilkinson@moe.edu.sg</p>
+<br>Mr Adam Harisan Wilkinson
+<br>adam_harisan_wilkinson@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +54,8 @@ variant: tiptap
 <p>P4 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Mdm Valentina Chong chong_kwee_chin@moe.edu.sg</p>
+<br>Mdm Valentina Chong
+<br>chong_kwee_chin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +118,8 @@ variant: tiptap
 <p>P4 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mdm Zuraidah Bte Abdul Malik zuraidah_abdul_malik@moe.edu.sg</p>
+<br>Mdm Zuraidah Bte Abdul Malik
+<br>zuraidah_abdul_malik@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

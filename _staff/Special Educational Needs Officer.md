@@ -15,11 +15,8 @@ of enriching programmes and activities outside the classroom. The SEN Officers
 will also build rapport with the pupils to help them improve their self-confidence,
 self-esteem and sense of independence.</p>
 <p></p>
-<table style="minWidth: 150px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -35,32 +32,25 @@ self-esteem and sense of independence.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD / Special Educational Needs</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Doreen Kieu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_chu_hua@moe.edu.sg</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / SEN</p>
-<p>Mrs Doreen Kieu-Tan Chu Hua
-<br>tan_chu_hua@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,28 +59,14 @@ self-esteem and sense of independence.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>SEN Officer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEN Officer
-<br>
-<br>Mdm Tan Soh Kwan
-<br>tan_soh_kwan@moe.edu.sg</p>
+<p>Mdm Tan Soh Kwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SEN Officer
-<br>
-<br>Ms Gayathri Naidu
-<br>gayathri_naidu_r_ganasan@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>tan_soh_kwan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -98,25 +74,10 @@ self-esteem and sense of independence.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEN Officer
-<br>
-<br>Ms Wee Huili Nathalie
-<br>wee_huili_nathalie@moe.edu.sg</p>
+<p>Ms Gayathri Naidu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SEN Officer
-<br>
-<br>Mr Chow Cheng Zhong
-<br>chow_cheng_zhong_xavier@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>gayathri_naidu_r_ganasan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -124,25 +85,68 @@ self-esteem and sense of independence.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior School Counsellor
-<br>
-<br>Mr Dennis Tan Lai Hoe
-<br>dennis_tan_lai_hoe@moe.edu.sg</p>
+<p>Ms Nathalie Wee</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>wee_huili_nathalie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Xavier Chow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chow_cheng_zhong_xavier@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Deepa Asha Dewi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>deepa_asha_dewi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor
-<br>
-<br>Mrs Vivienne John
-<br>vivienne_voon_siew_ken@moe.edu.sg</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior School Counsellor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dennis Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>dennis_tan_lai_hoe@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Counsellor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Vivienne John</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>vivienne_voon_siew_ken@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

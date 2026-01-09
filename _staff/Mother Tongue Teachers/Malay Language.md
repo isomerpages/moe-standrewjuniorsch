@@ -6,10 +6,8 @@ third_nav_title: Mother Tongue Teachers
 variant: tiptap
 ---
 <h3>Malay Language</h3>
-<table style="minWidth: 125px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -17,13 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<p>Teachers</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -37,17 +29,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shahriman Mostapa</p>
-<p>shahriman_mostapa@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Khairil Anuar</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>khairil_anuar@moe.edu.sg</p>
 </td>
 </tr>
@@ -56,17 +40,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Shahriman Mostapa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shahriman_mostapa@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Sofia Bte Othman</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>sofia_othman@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

@@ -40,7 +40,8 @@ variant: tiptap
 <p>P4 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Mr Adam Harisan Wilkinson adam_harisan_wilkinson@moe.edu.sg</p>
+<br>Mr Adam Harisan Wilkinson
+<br>adam_harisan_wilkinson@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +54,8 @@ variant: tiptap
 <p>P4 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Mdm Chong Kwee Chin Valentina chong_kwee_chin@moe.edu.sg</p>
+<br>Mdm Valentina Chong
+<br>chong_kwee_chin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +66,8 @@ variant: tiptap
 <p>P4 Resilience
 <br>(Form Teacher)
 <br>
-<br>Mr Anthony Luke Fernandez anthony_luke_fernandez@moe.edu.sg</p>
+<br>Mr Luke Fernandez
+<br>anthony_luke_fernandez@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -102,7 +105,7 @@ variant: tiptap
 <p>P4 Unity
 <br>(Form Teacher)
 <br>
-<br>Mdm Shanthi D/O E Ramian
+<br>Mdm Shanthi
 <br>shanthi_e_ramian@moe.edu.sg</p>
 <p></p>
 </td>
@@ -115,7 +118,8 @@ variant: tiptap
 <p>P4 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mdm Zuraidah Bte Abdul Malik zuraidah_abdul_malik@moe.edu.sg</p>
+<br>Mdm Zuraidah Bte Abdul Malik
+<br>zuraidah_abdul_malik@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +132,7 @@ variant: tiptap
 <p>P4 Empathy
 <br>(Form Teacher)
 <br>
-<br>Miss Tan Jia Ying Estelle
+<br>Miss Estelle Tan
 <br>tan_jia_ying_estelle@moe.edu.sg</p>
 <p></p>
 </td>

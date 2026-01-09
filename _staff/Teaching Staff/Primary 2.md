@@ -39,7 +39,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P2 Thanksgiving
 <br>(Form Teacher)</p>
-<p>Mrs Sharon Ee sharon_cheng_shi_min@moe.edu.sg</p>
+<p>Mrs Sharon Ee
+<br>sharon_cheng_shi_min@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -51,7 +52,8 @@ variant: tiptap
 <p>P2 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Miss Lee Jia En Joanna lee_jia_en_joanna_a@moe.edu.sg</p>
+<br>Miss Lee Jia En Joanna
+<br>lee_jia_en_joanna_a@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -63,8 +65,8 @@ variant: tiptap
 <p>P2 Resilience
 <br>(Form Teacher)
 <br>
-<br>Mrs Ong Swee Ying</p>
-<p>ng_swee_ying@moe.edu.sg</p>
+<br>Mrs Ong Swee Ying
+<br>ng_swee_ying@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -90,8 +92,8 @@ variant: tiptap
 <p>P2 Unity
 <br>(Form Teacher)
 <br>
-<br>Mdm Gao Lihua</p>
-<p>gao_lihua@moe.edu.sg</p>
+<br>Mdm Gao Lihua
+<br>gao_lihua@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +106,8 @@ variant: tiptap
 <p>P2 Unity
 <br>(Form Teacher)
 <br>
-<br>Mr Lee Kai Chuen Bruce lee_kai_chuen_bruce@moe.edu.sg</p>
+<br>Mr Lee Kai Chuen Bruce
+<br>lee_kai_chuen_bruce@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +118,8 @@ variant: tiptap
 <p>P2 Empathy
 <br>(Form Teacher)
 <br>
-<br>Ms Norashikin Binte Suhadi norashikin_suhadi@moe.edu.sg</p>
+<br>Ms Norashikin Binte Suhadi
+<br>norashikin_suhadi@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +132,8 @@ variant: tiptap
 <p>P2 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mdm Wu Shixian wu_shixian@moe.edu.sg</p>
+<br>Mdm Wu Shixian
+<br>wu_shixian@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -165,8 +170,8 @@ variant: tiptap
 <p>P2 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mr Quek Ye Shaun</p>
-<p>quek_ye_shaun@moe.edu.sg</p>
+<br>Mr Quek Ye Shaun
+<br>quek_ye_shaun@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,7 +184,8 @@ variant: tiptap
 <p>P2 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mdm Nora Bte Izaharnora_izahar@moe.edu.sg</p>
+<br>Mdm Nora Bte
+<br>Izaharnora_izahar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +196,8 @@ variant: tiptap
 <p>P2 Self-Discipline
 <br>(Form Teacher)
 <br>
-<br>Mrs Catherine Yew hwong_choi_foong_catherine@moe.edu.sg</p>
+<br>Mrs Catherine Yew
+<br>hwong_choi_foong_catherine@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,7 +210,8 @@ variant: tiptap
 <p>P2 Self-Discipline
 <br>(Form Teacher)
 <br>
-<br>Ms Cherie Lee cherie_lee_sze_ern@moe.edu.sg</p>
+<br>Ms Cherie Lee
+<br>cherie_lee_sze_ern@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -215,7 +223,8 @@ variant: tiptap
 <p>P2 Excellence
 <br>(Form Teacher)
 <br>
-<br>Mrs Irene Lim - Koh Hui Ling koh_hui_ling_ai@moe.edu.sg</p>
+<br>Mrs Irene Lim - Koh Hui Ling
+<br>koh_hui_ling_ai@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

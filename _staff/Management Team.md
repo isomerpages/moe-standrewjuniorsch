@@ -374,50 +374,46 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P1 / P2 Year Head</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Irene Lim</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_hui_ling_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (P1 / P2)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sandy Low</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sandy_low_gait_hong@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P3 / P4 Year Head</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Luke Fernandez</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>anthony_luke_fernandez@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P5 / P6 Year Head</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jacqueline Ng</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_jacqueline@moe.edu.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

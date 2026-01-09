@@ -15,13 +15,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Teachers</p>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
 </th>
 </tr>
 <tr>

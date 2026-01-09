@@ -40,7 +40,7 @@ variant: tiptap
 <p>P3 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Ms Pushpa D/O Selvaraju
+<br>Ms Pushpa
 <br>pushpa_selvaraju@moe.edu.sg</p>
 <p></p>
 </td>
@@ -65,7 +65,7 @@ variant: tiptap
 <p>P3 Resilience
 <br>(Form Teacher)
 <br>
-<br>Mrs Loh-Goh Seow Ting
+<br>Mrs Loh Seow Ting
 <br>goh_seow_ting@moe.edu.sg</p>
 <p></p>
 </td>
@@ -92,7 +92,7 @@ variant: tiptap
 <p>P3 Unity
 <br>(Form Teacher)
 <br>
-<br>Mr Duane Chan Xin Jie
+<br>Mr Duane Chan
 <br>duane_chan_xin_jie@moe.edu.sg</p>
 <p></p>
 </td>
@@ -160,7 +160,7 @@ variant: tiptap
 <p>P3 Wonder
 <br>(Form Teacher)
 <br>
-<br>Miss Gayathree D/O Vellasamy</p>
+<br>Miss Gayathree</p>
 </td>
 </tr>
 <tr>

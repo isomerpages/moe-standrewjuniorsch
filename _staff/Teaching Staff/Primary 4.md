@@ -76,8 +76,8 @@ variant: tiptap
 <p>P4 Resilience
 <br>(Form Teacher)</p>
 <p></p>
-<p>Ms Saw Lay Lay</p>
-<p>saw_lay_lay@moe.edu.sg</p>
+<p>Ms Saw Lay Lay
+<br>saw_lay_lay@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -89,8 +89,8 @@ variant: tiptap
 <p>P4 Unity
 <br>(Form Teacher)
 <br>
-<br>Mrs Tracy Liu</p>
-<p>liu_huanjia_tracy@moe.edu.sg</p>
+<br>Mrs Tracy Liu
+<br>liu_huanjia_tracy@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -102,7 +102,8 @@ variant: tiptap
 <p>P4 Unity
 <br>(Form Teacher)
 <br>
-<br>Mdm Shanthi D/O E Ramian shanthi_e_ramian@moe.edu.sg</p>
+<br>Mdm Shanthi D/O E Ramian
+<br>shanthi_e_ramian@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -127,7 +128,8 @@ variant: tiptap
 <p>P4 Empathy
 <br>(Form Teacher)
 <br>
-<br>Miss Tan Jia Ying Estelle tan_jia_ying_estelle@moe.edu.sg</p>
+<br>Miss Tan Jia Ying Estelle
+<br>tan_jia_ying_estelle@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -139,7 +141,8 @@ variant: tiptap
 <p>P4 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mrs Samantha Er ong_yen_ting_samantha@moe.edu.sg</p>
+<br>Mrs Samantha Er
+<br>ong_yen_ting_samantha@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,7 +182,8 @@ variant: tiptap
 <p>P4 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mr Kevin Ng ng_min_keong_kevin@moe.edu.sg</p>
+<br>Mr Kevin Ng
+<br>ng_min_keong_kevin@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>

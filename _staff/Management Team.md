@@ -73,8 +73,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Vice-Principal
 <br>
-<br>Mrs Stephanie Goh</p>
-<p>stephanie_lim_mei_fong@schools.gov.sg</p>
+<br>Mrs Stephanie Goh
+<br>stephanie_lim_mei_fong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -84,8 +84,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Master Teacher / Chinese Language
 <br>
-<br>Zhou Enguo</p>
-<p>zhou_enguo@moe.edu.sg</p>
+<br>Zhou Enguo
+<br>zhou_enguo@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -102,7 +102,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head /English
+<p>HOD /English
 <br>
 <br>Ms Andrea Mori
 <br>quah_shi_qi_andrea@moe.edu.sg</p>

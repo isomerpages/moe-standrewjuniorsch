@@ -44,8 +44,8 @@ variant: tiptap
 <p>P5 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Miss Serene Han Tui Kin</p>
-<p>serene_han_tui_kin@moe.edu.sg</p>
+<br>Miss Serene Han Tui Kin
+<br>serene_han_tui_kin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -57,8 +57,8 @@ variant: tiptap
 <p>P5 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Ms Wendy Foo</p>
-<p>wendy_foo_siew_li@moe.edu.sg</p>
+<br>Ms Wendy Foo
+<br>wendy_foo_siew_li@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,8 +73,8 @@ variant: tiptap
 <p>P5 Resilience
 <br>(Form Teacher)
 <br>
-<br>Ms Tan Xian-En Kimberly</p>
-<p>tan_xian-en_kimberly@moe.edu.sg</p>
+<br>Ms Tan Xian-En Kimberly
+<br>tan_xian-en_kimberly@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,8 +87,8 @@ variant: tiptap
 <p>P5 Resilience
 <br>(Form Teacher)
 <br>
-<br>Ms Tang Junli</p>
-<p>tang_junli@moe.edu.sg</p>
+<br>Ms Tang Junli
+<br>tang_junli@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -102,8 +102,8 @@ variant: tiptap
 <p>P5 Unity
 <br>(Form Teacher)
 <br>
-<br>Mr Sitt Wei Kian</p>
-<p>sitt_wei_kian@moe.edu.sg</p>
+<br>Mr Sitt Wei Kian
+<br>sitt_wei_kian@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -131,7 +131,8 @@ variant: tiptap
 <p>P5 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mrs Kieu-Tan Chu Hua Doreen tan_chu_hua@moe.edu.sg</p>
+<br>Mrs Kieu-Tan Chu Hua Doreen
+<br>tan_chu_hua@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,7 +145,8 @@ variant: tiptap
 <p>P5 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mr Adrian Chia Junyong adrian_chia_junyong@moe.edu.sg</p>
+<br>Mr Adrian Chia Junyong
+<br>adrian_chia_junyong@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -159,7 +161,8 @@ variant: tiptap
 <p>P5 Wonder
 <br>(Form Teacher)
 <br>
-<br>Ms Victoria Koay victoria_koay@moe.edu.sg</p>
+<br>Ms Victoria Koay
+<br>victoria_koay@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,8 +175,8 @@ variant: tiptap
 <p>P5 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mr Teo Shi Han</p>
-<p>teo_shi_han_A@moe.edu.sg</p>
+<br>Mr Teo Shi Han
+<br>teo_shi_han_a@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,7 +211,8 @@ variant: tiptap
 <p>P5 Integrity
 <br>(Form Teacher)
 <br>
-<br>Ms Victoria Phua victoria_phua_yiling@moe.edu.sg</p>
+<br>Ms Victoria Phua
+<br>victoria_phua_yiling@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,7 +225,8 @@ variant: tiptap
 <p>P5 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mr Leo Hee Meng Kelvin leo_hee_meng_kelvin@moe.edu.sg</p>
+<br>Mr Leo Hee Meng Kelvin
+<br>leo_hee_meng_kelvin@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

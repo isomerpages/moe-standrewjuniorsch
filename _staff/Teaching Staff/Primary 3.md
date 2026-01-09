@@ -40,7 +40,8 @@ variant: tiptap
 <p>P3 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Ms Pushpa D/O Selvaraju pushpa_selvaraju@moe.edu.sg</p>
+<br>Ms Pushpa D/O Selvaraju
+<br>pushpa_selvaraju@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,7 +65,8 @@ variant: tiptap
 <p>P3 Resilience
 <br>(Form Teacher)
 <br>
-<br>Mrs Loh-Goh Seow Ting goh_seow_ting@moe.edu.sg</p>
+<br>Mrs Loh-Goh Seow Ting
+<br>goh_seow_ting@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,8 +79,8 @@ variant: tiptap
 <p>P3 Resilience
 <br>(Form Teacher)
 <br>
-<br>Miss P Radha</p>
-<p>p_radha@moe.edu.sg</p>
+<br>Miss P Radha
+<br>p_radha@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -90,7 +92,8 @@ variant: tiptap
 <p>P3 Unity
 <br>(Form Teacher)
 <br>
-<br>Mr Duane Chan Xin Jie duane_chan_xin_jie@moe.edu.sg</p>
+<br>Mr Duane Chan Xin Jie
+<br>duane_chan_xin_jie@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +106,8 @@ variant: tiptap
 <p>P3 Unity
 <br>(Form Teacher)
 <br>
-<br>Mr Khairil Anuar B Idris khairil_anuar@moe.edu.sg</p>
+<br>Mr Khairil Anuar B Idris
+<br>khairil_anuar@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -115,7 +119,8 @@ variant: tiptap
 <p>P3 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mrs Andrea Mori quah_shi_qi_andrea@moe.edu.sg</p>
+<br>Mrs Andrea Mori
+<br>quah_shi_qi_andrea@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +133,8 @@ variant: tiptap
 <p>P3 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mr Alvin Chooi chooi_sian_woon@moe.edu.sg</p>
+<br>Mr Alvin Chooi
+<br>chooi_sian_woon@moe.edu.sg</p>
 <p></p>
 </td>
 </tr>
@@ -140,8 +146,8 @@ variant: tiptap
 <p>P3 Wonder
 <br>(Form Teacher)
 <br>
-<br>Mr Zhang Pu</p>
-<p>zhang_pu@moe.edu.sg</p>
+<br>Mr Zhang Pu
+<br>zhang_pu@moe.edu.sg</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -165,7 +171,8 @@ variant: tiptap
 <p>P3 Integrity
 <br>(Form Teacher)
 <br>
-<br>Ms Nicolette Yap nicolette_yap_jee_lian@moe.edu.sg</p>
+<br>Ms Nicolette Yap
+<br>nicolette_yap_jee_lian@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -177,7 +184,8 @@ variant: tiptap
 <p>P3 Integrity
 <br>(Form Teacher)</p>
 <p></p>
-<p>Mdm Ngin Chor Hong ngin_chor_hong@moe.edu.sg</p>
+<p>Mdm Ngin Chor Hong
+<br>ngin_chor_hong@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

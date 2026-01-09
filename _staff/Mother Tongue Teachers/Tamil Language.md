@@ -37,27 +37,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vasanthi Sinnathamby
-<br>
-<br>vasanthi_k_sinnathamby@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Shanthi d/o E Ramian
-<br>
-<br>shanthi_e_ramian@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Karpaga Valli D/OManickam
 <br>
 <br>karpaga_valli_manickam@moe.edu.sg</p>
@@ -69,7 +48,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Shanthi d/o E Ramian
+<br>
+<br>shanthi_e_ramian@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

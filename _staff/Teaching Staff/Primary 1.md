@@ -53,7 +53,8 @@ variant: tiptap
 <p>P1 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Mdm Wendy Ong ong_geok_peng_wendy@moe.edu.sg</p>
+<br>Mdm Wendy Ong
+<br>ong_geok_peng_wendy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

@@ -52,7 +52,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6 Thanksgiving
 <br>(Form Teacher)</p>
-<p>Ms Karpaga Valli D/O Manickam
+<p>Ms Karpaga Valli
 <br>karpaga_valli_manickam@moe.edu.sg</p>
 </td>
 </tr>
@@ -87,7 +87,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6 Unity
 <br>(Form Teacher)</p>
-<p>Mr Zhang Zishao Samuel
+<p>Mr Samuel Zhang
 <br>zhang_zishao@moe.edu.sg</p>
 <p></p>
 <p></p>
@@ -114,7 +114,7 @@ variant: tiptap
 <p>P6 Empathy
 <br>(Form Teacher)
 <br>
-<br>Ms Chen Ying Carissa
+<br>Ms Carissa Chen
 <br>chen_ying_carissa@moe.edu.sg</p>
 <p></p>
 </td>
@@ -128,7 +128,7 @@ variant: tiptap
 <p>P6 Empathy
 <br>(Form Teacher)
 <br>
-<br>Ms Leong Shiao Shyan Emily
+<br>Ms Emily Leong
 <br>leong_shiao_shyan_emily@moe.edu.sg</p>
 <p></p>
 </td>

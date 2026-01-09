@@ -104,7 +104,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD /English
 <br>
-<br>Ms Andrea Mori
+<br>Mrs Andrea Mori
 <br>quah_shi_qi_andrea@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">

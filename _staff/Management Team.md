@@ -173,7 +173,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD / Mother Tongue
 <br>
-<br>Ms Lin Jingya
+<br>Mdm Lin Jingya
 <br>lin_jingya@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">

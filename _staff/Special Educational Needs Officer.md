@@ -59,7 +59,7 @@ self-esteem and sense of independence.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SEN Officer </strong>
+<p><strong>SEN Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -422,6 +422,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -430,22 +440,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Staff Developer (covering)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Doreen Kieu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_chu_hua@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -454,14 +451,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior School Counselor</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dennis Tan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>dennis_tan_lai_hoe@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

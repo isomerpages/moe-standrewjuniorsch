@@ -151,8 +151,8 @@ programmes, driving IT developments and managing our resources.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer
-<br>Mdm Evelyn Tan
 <br>
+<br>Mdm Evelyn Tan
 <br>evelyn_tan_puay_fong@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">

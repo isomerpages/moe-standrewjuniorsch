@@ -44,7 +44,7 @@ variant: tiptap
 <p>P5 Thanksgiving
 <br>(Form Teacher)
 <br>
-<br>Miss Serene Han Tui Kin
+<br>Miss Serene Han
 <br>serene_han_tui_kin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +73,7 @@ variant: tiptap
 <p>P5 Resilience
 <br>(Form Teacher)
 <br>
-<br>Ms Tan Xian-En Kimberly
+<br>Mrs Kimberly Teo
 <br>tan_xian-en_kimberly@moe.edu.sg</p>
 <p></p>
 </td>
@@ -115,7 +115,7 @@ variant: tiptap
 <p>P5 Unity
 <br>(Form Teacher)
 <br>
-<br>Mr Tan Jia Jun Jake
+<br>Mr Jake Tan
 <br>tan_jia_jun_jake @moe.edu.sg</p>
 <p></p>
 </td>
@@ -131,7 +131,7 @@ variant: tiptap
 <p>P5 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mrs Kieu-Tan Chu Hua Doreen
+<br>Mrs Doreen Kieu
 <br>tan_chu_hua@moe.edu.sg</p>
 <p></p>
 </td>
@@ -145,7 +145,7 @@ variant: tiptap
 <p>P5 Empathy
 <br>(Form Teacher)
 <br>
-<br>Mr Adrian Chia Junyong
+<br>Mr Adrian Chia
 <br>adrian_chia_junyong@moe.edu.sg</p>
 <p></p>
 </td>
@@ -225,7 +225,7 @@ variant: tiptap
 <p>P5 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mr Leo Hee Meng Kelvin
+<br>Mr Kelvin Leo
 <br>leo_hee_meng_kelvin@moe.edu.sg</p>
 <p></p>
 </td>

@@ -219,10 +219,69 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>School Staff Developer (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Doreen Kieu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_chu_hua@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P1 / P2 Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Irene Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>koh_hui_ling_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P3 / P4 Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Luke Fernandez</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>anthony_luke_fernandez@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P5 / P6 Year Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jacqueline Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_jacqueline@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior School Counselor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dennis Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>dennis_tan_lai_hoe@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

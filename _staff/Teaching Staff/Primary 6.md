@@ -52,7 +52,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6 Thanksgiving
 <br>(Form Teacher)</p>
-<p>Ms Karpaga Valli
+<p>Mdm Karpaga Valli
 <br>karpaga_valli_manickam@moe.edu.sg</p>
 </td>
 </tr>

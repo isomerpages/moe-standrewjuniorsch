@@ -386,7 +386,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher / Educational Support</strong>
+<p><strong>Senior Teacher / Lower Primary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -406,6 +406,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nora_izahar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lead Teacher / Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Serene Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>serene_han_tui_kin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

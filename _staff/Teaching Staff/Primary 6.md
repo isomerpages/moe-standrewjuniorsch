@@ -128,7 +128,7 @@ variant: tiptap
 <p>P6 Empathy
 <br>(Form Teacher)
 <br>
-<br>Ms Emily Leong
+<br>Miss Emily Leong
 <br>leong_shiao_shyan_emily@moe.edu.sg</p>
 <p></p>
 </td>

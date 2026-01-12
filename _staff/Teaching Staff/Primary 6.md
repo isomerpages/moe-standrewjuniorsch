@@ -52,7 +52,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6 Thanksgiving
 <br>(Form Teacher)</p>
-<p>Ms Karpaga Valli
+<p>Mdm Karpaga Valli
 <br>karpaga_valli_manickam@moe.edu.sg</p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ variant: tiptap
 <p>P6 Empathy
 <br>(Form Teacher)
 <br>
-<br>Ms Emily Leong
+<br>Miss Emily Leong
 <br>leong_shiao_shyan_emily@moe.edu.sg</p>
 <p></p>
 </td>

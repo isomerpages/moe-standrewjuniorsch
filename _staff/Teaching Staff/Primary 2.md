@@ -185,8 +185,8 @@ variant: tiptap
 <p>P2 Integrity
 <br>(Form Teacher)
 <br>
-<br>Mdm Nora Bte
-<br>Izaharnora_izahar@moe.edu.sg</p>
+<br>Mdm Nora Bte Izahar
+<br>nora_izahar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

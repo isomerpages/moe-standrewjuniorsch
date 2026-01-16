@@ -8,7 +8,7 @@ variant: markdown
 
 #### Group Personal Accident Insurance for Student
 
-[[Click here to learn more]](https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students)
+[[Click here to learn more]](https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students)
 
  
 

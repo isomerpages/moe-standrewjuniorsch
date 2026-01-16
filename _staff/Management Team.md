@@ -267,6 +267,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Lead Teacher / Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Serene Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>serene_han_tui_kin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Senior School Counselor</strong>
 </p>
 </td>
@@ -282,6 +294,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -410,21 +424,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lead Teacher / Science</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Serene Han</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>serene_han_tui_kin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <p></p>
 </td>

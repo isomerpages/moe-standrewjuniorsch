@@ -263,7 +263,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://schoolibrary.moe.edu.sg/standrewsjunior/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener nofollow" target="_blank">OPAC (SPYDUS)</a>
+</p>
 </td>
 </tr>
 </tbody>

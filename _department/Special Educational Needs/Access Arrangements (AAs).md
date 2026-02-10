@@ -26,3 +26,5 @@ processed.</p>
 <p>For all applicants for access arrangements, please fill up an online application
 form by clicking onto this link: <a href="https://go.gov.sg/trialapplication" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/trialapplication</u></a>
 </p>
+<p><strong>Assessment Arrangement Applications Close on 20 February 2026</strong>
+<br>Please submit all required documents by the deadline.</p>

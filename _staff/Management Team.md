@@ -444,7 +444,7 @@ variant: tiptap
 <p>Mr Lim Jin Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_jin_yong@moe.edu.sg</p>
+<p>lim_jin_yong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -456,7 +456,7 @@ variant: tiptap
 <p>Ms Ng Yoke Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_yoke_choo_a@moe.edu.sg</p>
+<p>ng_yoke_choo_a@schools.gov.sg</p>
 </td>
 </tr>
 <tr>

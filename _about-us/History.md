@@ -170,3 +170,6 @@ the river.</p>
 with facilities including a dining room for 600 people, an adjoining multipurpose
 hall as well as a clinic to serve the residents of the hall and St Andrew's
 Village.</p>
+<p>On 8 September 2025, the school’s name was changed from St Andrew’s Junior
+School to St Andrew’s School (Junior), reflecting its continued growth
+and alignment within the St Andrew’s Village.</p>

@@ -32,7 +32,7 @@ June of the year of P1 registration.</p>
 <p>Please apply via the form in the link below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://form.gov.sg/67eba6bc92a61cd11ad27620" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Registration Form</a>
+<p><a href="https://form.gov.sg/69c4c695335985f016b86c59" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Registration Form</a>
 </p>
 </li>
 </ul>

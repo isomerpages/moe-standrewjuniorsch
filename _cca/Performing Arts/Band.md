@@ -28,6 +28,15 @@ such as fits, and epilepsy are not encouraged to apply for the band.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms&nbsp;Victoria Phua</p>
+</li>
+<li>
+<p>Miss Nicolette Yap</p>
+</li>
+<li>
+<p>Ms Tang Junli</p>
+</li>
+<li>
+<p>Mdm Wu Shixian</p>
 <p></p>
 <p></p>
 </li>

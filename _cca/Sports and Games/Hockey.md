@@ -29,10 +29,10 @@ and even propel our boys to reach greater heights.</p>
 <p>Mr Leo Hee Meng Kelvin</p>
 </li>
 <li>
-<p>Ms Karpaga Valli D/O Manickam</p>
+<p>Teo Shi Han</p>
 </li>
 <li>
-<p>Ms Lim Ju Hong Janna</p>
+<p>Mdm Lee Li Suan</p>
 </li>
 </ul>
 <p></p>

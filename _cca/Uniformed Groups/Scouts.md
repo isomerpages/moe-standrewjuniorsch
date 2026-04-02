@@ -45,5 +45,8 @@ and personal character development through experiences.</p>
 <li>
 <p>Ms Nur Hazura Binte Hamdan</p>
 </li>
+<li>
+<p>Mr Duane Chan</p>
+</li>
 </ul>
 <p></p>

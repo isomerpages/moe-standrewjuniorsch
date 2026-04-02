@@ -37,10 +37,16 @@ of some great memories that have made Saints rugby what it is today.</p>
 <h4>Teachers-in-charge</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Adam Harisan Wilkinson</p>
+<p>Mr Edmond Toh</p>
 </li>
 <li>
-<p>Mr Zahrul Zaidin</p>
+<p>Mrs Yogeshwari</p>
+</li>
+<li>
+<p>Mdm Sophie Wan</p>
+</li>
+<li>
+<p>Mrs Catherine Yew</p>
 </li>
 </ul>
 <p></p>

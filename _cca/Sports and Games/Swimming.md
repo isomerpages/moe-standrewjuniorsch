@@ -19,15 +19,15 @@ performances at competitions. Leadership trainings will also be provided
 to appointed Captain and Vice-captain of school team and opportunities
 given for them to lead the members in the CCA during trainings.</p>
 <h4>Teachers-in-charge</h4>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Mr Toh Boon Yong Edmond</p>
+<p>Ms Aw Jie Shi</p>
 </li>
 <li>
-<p>Mr Quek Ye, Shaun</p>
+<p>Ms Pushpa</p>
 </li>
 <li>
-<p>Ms Pushpa D/O&nbsp;Selvaraju</p>
+<p>Mdm Doris Tang</p>
 </li>
 </ul>
 <p></p>

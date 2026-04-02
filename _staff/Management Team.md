@@ -44,7 +44,7 @@ variant: tiptap
 <p>Mdm Caroline Hew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>caroline_hew@moe.edu.sg</p>
+<p>hew_yi_qian_caroline@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -131,18 +131,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>liu_huanjia_tracy@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD / Science &amp; Environment</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kevin Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_min_keong_kevin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

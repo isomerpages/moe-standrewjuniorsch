@@ -20,13 +20,11 @@ are able to lead themselves well as good role-models.</p>
 <h4>Teachers-in-charge</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Anthony Luke Fernandez</p>
+<p>Mr Jake Tan</p>
 </li>
 <li>
-<p>Mdm Wu Shixian</p>
-</li>
-<li>
-<p>Ms Lee Sze Ern Cherie</p>
+<p>Mr Adrian Chia</p>
+<p></p>
 </li>
 </ul>
 <p></p>

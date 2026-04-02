@@ -42,5 +42,11 @@ learners of the competencies necessary in our globalised world, namely</p>
 <li>
 <p>Mr Lo Chien-Chi</p>
 </li>
+<li>
+<p>Mr Sitt Wei Kian</p>
+</li>
+<li>
+<p>Mdm Sarala Devi</p>
+</li>
 </ul>
 <p></p>

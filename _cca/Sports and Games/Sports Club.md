@@ -22,7 +22,7 @@ various opportunities to represent the school in selected sports tournaments.</p
 <p>Mr Shahriman Mostapa</p>
 </li>
 <li>
-<p>Ms Ng Jun Qing</p>
+<p>Mr Teo Weilun</p>
 </li>
 </ul>
 <p></p>

@@ -49,9 +49,6 @@ teach them certain skills. Do contact us for volunteering opportunities.</p>
 <p>Ms Wendy Foo Siew Li</p>
 </li>
 <li>
-<p>Mr Sitt Wei Kian</p>
-</li>
-<li>
 <p>Mr Lee Kai Chuen Bruce</p>
 </li>
 <li>

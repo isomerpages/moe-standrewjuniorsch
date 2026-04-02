@@ -57,5 +57,14 @@ possible.</p>
 <li>
 <p>Ms Chen Ying Carissa</p>
 </li>
+<li>
+<p>Dr Saw Lay Lay</p>
+</li>
+<li>
+<p>Miss Emily Leong</p>
+</li>
+<li>
+<p>Mr Amos Teo</p>
+</li>
 </ul>
 <p></p>

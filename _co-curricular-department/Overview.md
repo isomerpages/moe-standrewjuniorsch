@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="../Educational-Technology/overview/" rel="noopener noreferrer nofollow" target="_blank">Educational Technology</a>
+<p><a href="/committee/educational-technology/overview/" rel="noopener noreferrer nofollow" target="_blank">Educational Technology</a>
 </p>
 </li>
 </ul>

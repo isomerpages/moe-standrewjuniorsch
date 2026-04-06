@@ -7,7 +7,7 @@ variant: tiptap
 <p>Please click on the link below to view the committee:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="../Character-Education/overview/" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Education</a>
+<p><a href="/committee/character-education/overview/" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Education</a>
 </p>
 </li>
 <li>
@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="../Educational-Technology/overview/" rel="noopener noreferrer nofollow" target="_blank">Educational Technology</a>
+<p><a href="/committee/educational-technology/overview/" rel="noopener noreferrer nofollow" target="_blank">Educational Technology</a>
 </p>
 </li>
 </ul>

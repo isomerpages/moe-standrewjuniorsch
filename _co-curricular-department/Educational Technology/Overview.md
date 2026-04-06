@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /committee/Educational-Technology/overview/
+permalink: /committee/educational-technology/overview/
 description: ""
 third_nav_title: Educational Technology
 variant: tiptap

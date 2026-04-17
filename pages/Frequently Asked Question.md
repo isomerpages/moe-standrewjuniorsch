@@ -22,7 +22,7 @@ variant: tiptap
 <p>A2. &nbsp;You may contact us at the following:</p>
 </li>
 <li>
-<p>General enquires &amp; feedback email: SAJS@moe.edu.sg</p>
+<p>General enquires &amp; feedback email: SASJ@moe.edu.sg</p>
 </li>
 <li>
 <p>Tel: +65 6288 4303</p>

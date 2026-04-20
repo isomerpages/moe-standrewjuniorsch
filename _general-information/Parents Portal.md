@@ -30,10 +30,7 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="https://forms.moe.edu.sg/forms/vWd4QJ"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Icons/pp7.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Icons/pp11.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.saintandrewsjunior.moe.edu.sg/committee/educational-technology/cyber-wellness/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Icons/pp11.png"></a>
 </td>
 </tr>
 <tr>

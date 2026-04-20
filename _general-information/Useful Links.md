@@ -75,14 +75,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p><strong>For Mother Tongue, Mathematic and PE</strong>
 </p>
@@ -142,14 +134,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p><strong>For Interest and Enrichment</strong>
 </p>
@@ -159,9 +143,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p><a href="http://schoolibrary.moe.edu.sg/westgrovepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>&nbsp;</u></a>
-<a href="https://makecode.microbit.org/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>BBC Microbit&nbsp;</u>
-</a>
+<p><a href="http://schoolibrary.moe.edu.sg/westgrovepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>BBC Microbit&nbsp;</u></a>
 </p>
 </li>
 </ul>

@@ -19,7 +19,7 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="https://pg.moe.edu.sg/forms/sdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Icons/pp4.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/5d229344bf829f00113c1876"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Icons/MIMS_reset_icon.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/69dd94660b991e8a45d4bc61"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Icons/MIMS_reset_icon.jpg"></a>
 </th>
 </tr>
 <tr>

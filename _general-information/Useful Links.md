@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Useful Links</h3>
-<h4>Links for students</h4>
+<h4><u>Links for students</u></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -14,7 +14,8 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>For all subjects</p>
+<p><u>For all subjects</u>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -68,23 +69,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p><a href="https://www.s1-is.moe.gov.sg/s1candidate/process/MOE_S1/S1Pin_Login" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>S1 Posting exercise</u></a>
+<p><a href="https://www.moe.gov.sg/secondary/s1-posting" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>S1 Posting exercise</u></a>
 </p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
-<p><strong>For Mother Tongue, Mathematic and PE</strong>
+<p><strong><u>For Mother Tongue, Mathematic and PE</u></strong>
 </p>
 </td>
 </tr>
@@ -142,16 +135,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
-<p><strong>For Interest and Enrichment</strong>
+<p><strong><u>For Interest and Enrichment</u></strong>
 </p>
 </td>
 </tr>
@@ -159,9 +144,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p><a href="http://schoolibrary.moe.edu.sg/westgrovepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>&nbsp;</u></a>
-<a href="https://makecode.microbit.org/" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>BBC Microbit&nbsp;</u>
-</a>
+<p><a href="http://schoolibrary.moe.edu.sg/westgrovepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>BBC Microbit&nbsp;</u></a>
 </p>
 </li>
 </ul>
@@ -192,7 +175,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Links for Teachers &amp; Staff</h4>
+<h4><u>Links for Teachers &amp; Staff</u></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -209,62 +192,110 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://rbs.avero-tech.com/login.html" rel="noopener nofollow" target="_blank">Resources Booking Service (RBS)</a>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://scmobile.moe.edu.sg/home" rel="noopener nofollow" target="_blank">SC Mobile</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://schoolcockpit.moe.gov.sg/" rel="noopener nofollow" target="_blank">School Cockpit</a>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway for Staff</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://iexams.seab.gov.sg/login" rel="noopener nofollow" target="_blank">iExam Portal</a>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://www.hrp.gov.sg" rel="noopener nofollow" target="_blank">HRP Portal</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://ssoe2.moe.edu.sg/" rel="noopener nofollow" target="_blank">SSOE2 Service Portal</a>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://allears.estl.edu.sg/" rel="noopener nofollow" target="_blank">All Ears Form Builder</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://idm.opal2.moe.edu.sg/" rel="noopener nofollow" target="_blank">Opal 2.0</a>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">SLS Infor-site</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener nofollow" target="_blank">MIMS Portal</a>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://schoolibrary.moe.edu.sg/standrewsjunior/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener nofollow" target="_blank">OPAC (SPYDUS)</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>

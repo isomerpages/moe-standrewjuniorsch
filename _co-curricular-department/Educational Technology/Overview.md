@@ -44,15 +44,7 @@ Safety tools.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.singtel.com/personal/products-services/broadband/add-ons" rel="noopener noreferrer nofollow" target="_blank">SingTel Family Protection</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.m1.com.sg/digital-services/security/cyber-guardian" rel="noopener noreferrer nofollow" target="_blank">M1 Cyberguardian</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.starhub.com/personal/mobile/mobile-phones-plans/value-added-services/junior-protect.html" rel="noopener noreferrer nofollow" target="_blank">StarHub JuniorProtect</a>
+<p><a href="https://www.apple.com/sg/families/" rel="noopener nofollow" target="_blank">Apple Families</a>
 </p>
 <p></p>
 </li>

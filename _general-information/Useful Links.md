@@ -68,7 +68,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p><a href="https://www.s1-is.moe.gov.sg/s1candidate/process/MOE_S1/S1Pin_Login" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>S1 Posting exercise</u></a>
+<p><a href="https://www.moe.gov.sg/secondary/s1-posting" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>S1 Posting exercise</u></a>
 </p>
 </li>
 </ul>

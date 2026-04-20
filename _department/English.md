@@ -167,15 +167,8 @@ and even short stories)</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/el3.png">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://docs.google.com/spreadsheets/d/15oayll9yjqRXX9GRJVNLmIBerkko-O9ktfWbLicoxWw/edit#gid=0" rel="noopener noreferrer nofollow" target="_blank">P3 and P4 recommended books</a>
-</p>
-</li>
-<li>
-<p><a href="https://docs.google.com/spreadsheets/d/1zov_-nOpUUrAMeaoUV30UdnoniHEfN0oV5e6XDfEipc/edit#gid=0" rel="noopener noreferrer nofollow" target="_blank">P5 and P6 recommended books</a>
-</p>
-</li>
 <li>
 <p><a href="https://www.nlb.gov.sg/SearchDiscover/ExploreourPublications/RecommendedReads/ForChildren.aspx" rel="noopener noreferrer nofollow" target="_blank">P1-6 Reading Lists from National Library</a>
 </p>

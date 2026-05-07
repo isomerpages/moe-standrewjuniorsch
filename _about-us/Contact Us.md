@@ -8,5 +8,5 @@ variant: tiptap
 <p>2 Francis Thomas Drive, Singapore 359337
 <br>Tel: +65 6288 4303
 <br>Fax: +65 6289 5242</p>
-<p>General enquires &amp; feedback: SAJS@moe.edu.sg
+<p>General enquires &amp; feedback: SASJ@moe.edu.sg
 <br>ICT Service &amp; Support: ICT@saintandrewsjunior.moe.edu.sg</p>

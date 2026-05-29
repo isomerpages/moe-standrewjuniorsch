@@ -25,7 +25,7 @@ fresh vision to our world.</p>
 <p>Ms Lee Sze Ern Cherie</p>
 </li>
 <li>
-<p>Mrs Goh Seow Ting</p>
+<p>Mrs Loh Seow Ting</p>
 <p></p>
 <p></p>
 </li>

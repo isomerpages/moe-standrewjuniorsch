@@ -5,12 +5,12 @@ description: ""
 variant: tiptap
 ---
 <p>The school year for all MOE primary schools will start on Thursday, 2
-January 2025 and end on Friday, 21 November 2025. This takes into account
+January 2026 and end on Friday, 20 November 2026. This takes into account
 40 weeks of curriculum time for the school year. Please refer to the school
 calendar below.</p>
 <p></p>
 <p></p>
-<h4>School Terms for 2025</h4>
+<h4>School Terms for 2026</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -30,7 +30,7 @@ calendar below.</p>
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu 2 Jan to Fri 14 Mar</p>
+<p>Fri 2 Jan to Fri 13 Mar</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ calendar below.</p>
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 24 Mar to Fri 30 May</p>
+<p>Mon 23 Mar to Fri 29 May</p>
 </td>
 </tr>
 </tbody>
@@ -62,7 +62,7 @@ calendar below.</p>
 <p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 30 Jun to Fri 5 Sep</p>
+<p>Mon 29 Jun to Fri 4 Sep</p>
 </td>
 </tr>
 <tr>
@@ -70,12 +70,12 @@ calendar below.</p>
 <p>Term 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 15 Sep to Fri 21 Nov</p>
+<p>Mon 14 Sep to Fri 20 Nov</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>School Holidays for 2025</h4>
+<h4>School Holidays for 2026</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -95,7 +95,7 @@ calendar below.</p>
 <p>Between Terms I &amp; II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 15 Mar to Sun 23 Mar</p>
+<p>Sat 14 Mar to Sun 22 Mar</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ calendar below.</p>
 <p>Between Semesters I &amp; II</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 31 May to Sun 29 Jun</p>
+<p>Sat 30 May to Sun 28 Jun</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ calendar below.</p>
 <p>Between Terms III &amp; IV</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 6 Sep to Sun 14 Sep</p>
+<p>Sat 5 Sep to Sun 13 Sep</p>
 </td>
 </tr>
 <tr>
@@ -119,12 +119,12 @@ calendar below.</p>
 <p>At End of School Year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat 22 Nov to Wed 31 Dec</p>
+<p>Sat 21 Nov to Thu 31 Dec</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Scheduled School Holidays for 2025</h4>
+<h4>Scheduled School Holidays for 2026</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -144,16 +144,9 @@ calendar below.</p>
 <p>Youth Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sun 6 Jul (The following Monday, 7 Jul will be a school holiday.)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Day after National Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon, 11 Aug will be a school holiday. Schools will be closed including
-General Office.</p>
+<p>*Sun 5 Jul
+<br><em>(The following Mon 6 Jul will be a school holiday)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +154,7 @@ General Office.</p>
 <p>Teachers’ Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 5 Sep</p>
+<p>Fri 4 Sep</p>
 </td>
 </tr>
 <tr>
@@ -169,16 +162,16 @@ General Office.</p>
 <p>Children’s Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri 3 Oct</p>
+<p>Fri 2 Oct</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Public Holidays for 2025</h4>
+<h4>Public Holidays for 2026</h4>
 <p>Public holiday dates are available via Ministry of Manpower website:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.mom.gov.sg/newsroom/press-releases/2024/0805-public-holidays-for-2025" rel="noopener noreferrer nofollow" target="_blank">[Public Holidays 2025]</a>
+<p><a href="https://www.mom.gov.sg/newsroom/press-releases/2025/0616-public-holidays-for-2026" rel="noopener nofollow" target="_blank">Public Holidays for 2026</a>
 </p>
 </li>
 </ul>

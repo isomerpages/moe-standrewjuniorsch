@@ -59,9 +59,9 @@ not to renew their LOA application.</p>
 <p>Submit application form to the school.</p>
 </li>
 <li>
-<p>Enclose a cheque made payable to "<strong>ST Andrew's School(Junior)</strong>"
-(if application is made by post) or make cash payment at the school. Please
-do not send cash by post.</p>
+<p>Await for School to provide Invoice and payable amount. Payment can made
+in Cash at the School (please do not send cash by post), SGQR, AXS app
+or payment at AXS Machine.</p>
 </li>
 <li>
 <p>Renew&nbsp;LOA&nbsp;in November each year by submitting the renewal application

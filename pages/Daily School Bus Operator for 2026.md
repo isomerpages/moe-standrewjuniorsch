@@ -8,7 +8,7 @@ variant: tiptap
 <p>Contact: Mr Richard Tan 6251 0281</p>
 <p><a href="https://go.gov.sg/sasj-bus-operator-registration" rel="noopener noreferrer nofollow" target="_blank">Click here for Registration Form</a> (inclusive
 of Terms &amp; Conditions)
-<br>Please complete the fillable registration form and email to: sajs@rstransport.com.sg</p>
+<br>Please complete the fillable registration form and email to: sasj@rstransport.com.sg</p>
 <p>Bus fares for daily school bus services, based on Not to Exceed Price,
 applicable from 1 January 2026 to 31 December 2026:</p>
 <table style="minWidth: 125px">

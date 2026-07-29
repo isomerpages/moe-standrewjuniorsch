@@ -66,7 +66,7 @@ variant: tiptap
 <br>(Form Teacher)
 <br>
 <br>Mdm Alexia Quek
-<br>uek_yi_lin_alexia@moe.edu.sg</p>
+<br>quek_yi_lin_alexia@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

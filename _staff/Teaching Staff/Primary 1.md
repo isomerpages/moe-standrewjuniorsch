@@ -6,8 +6,9 @@ third_nav_title: Teaching Staff
 variant: tiptap
 ---
 <h3>Primary 1</h3>
-<table style="minWidth: 125px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -16,6 +17,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -56,6 +60,9 @@ variant: tiptap
 <br>Mdm Wendy Ong
 <br>ong_geok_peng_wendy@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -73,6 +80,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 Resilience
+<br>(Form Teacher)
+<br>
+<br>Mr Tan Hoe Tsong
+<br>tan_hoe_tsong_b@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -102,6 +116,9 @@ variant: tiptap
 <br>Mdm Xiang Zhen
 <br>xiang_zhen@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -126,6 +143,9 @@ variant: tiptap
 <br>
 <br>Mr Jimmy Lim
 <br>lim_boon_heng_jimmy@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -152,6 +172,9 @@ variant: tiptap
 <br>Mdm Sofia Bte Othman
 <br>sofia_othman@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -176,6 +199,9 @@ variant: tiptap
 <br>
 <br>Mdm Pamela Low
 <br>low_yi_qing_pamela@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -202,6 +228,9 @@ variant: tiptap
 <br>Mrs Jane Ong
 <br>wu_mei_chan_jane@moe.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -226,6 +255,9 @@ variant: tiptap
 <br>
 <br>Mdm Revathi
 <br>revathi_selvaraja@moe.edu.sg</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>

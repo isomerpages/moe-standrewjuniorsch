@@ -75,11 +75,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 Resilience
-<br>(Form Teacher)
-<br>
-<br>Mdm Xu Jing
-<br>xu_jing_b_1@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

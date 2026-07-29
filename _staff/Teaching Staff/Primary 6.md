@@ -87,22 +87,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P6 Unity
 <br>(Form Teacher)</p>
-<p>Mr Samuel Zhang
-<br>zhang_zishao@moe.edu.sg</p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 Unity
-<br>(Form Teacher)</p>
 <p>Ms Ng Jacqueline
 <br>ng_jacqueline@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 </tr>

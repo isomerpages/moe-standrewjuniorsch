@@ -44,10 +44,12 @@ Singaporean students in the school.</p>
 <p>Primary 4 to 6 $350</p>
 <h4><u>Nomination and Selection Process</u></h4>
 <p>You may nominate deserving Primary 1 to Primary 6 students. All nominations
-have to be made using the online nomination form,&nbsp;<a href="https://go.gov.sg/echanomination2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/echanomination2026</a>,
-available from the school website and Parent Gateway from Monday, 27 July
+have to be made using the online nomination form, <a href="https://go.gov.sg/echanomination2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/echanomination2026</a>,
+available from the school website and Parents Gateway from Monday, 27 July
 2026.</p>
 <p>The main stages of the selection process include nomination, shortlisting
 and endorsement.</p>
-<p>3) The closing date for nomination is Friday, 31 July 2026 (5 pm) and
+<p><strong>As there were technical issues with the Parents Gateway (PG) app, the nomination period has been extended.</strong>
+</p>
+<p><strong>3)</strong> The closing date for nomination has been extended to <strong>Tuesday, 4 August 2026 (5.00 pm)</strong> and
 all nominations must be submitted by the closing date and time.</p>

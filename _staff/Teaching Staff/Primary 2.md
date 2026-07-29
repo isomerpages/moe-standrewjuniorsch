@@ -225,7 +225,7 @@ variant: tiptap
 <br>(Form Teacher)
 <br>
 <br>Mrs Irene Lim
-<br>koh_hui_ling_ai@moe.edu.sg</p>
+<br>koh_hui_ling_a@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -238,7 +238,7 @@ variant: tiptap
 <br>(Form Teacher)
 <br>
 <br>Mdm Sophie Wan
-<br>Wan_xiaolin@moe.edu.sg</p>
+<br>wan_xiaolin@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
